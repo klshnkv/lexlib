@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+  <head>
+    <title>Lex Fridman Podcast {{ page.title }} - Book List | {{ site.title }}</title>
+    <meta name="description" content="A list of books mentioned on Lex Fridman Podcast episode {{ page.title }}. Discover the books that some of the most smart, successful, and interesting people read.">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ 'public/css/poole.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'public/css/hyde.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ 'public/css/syntax.css' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  </head>
+
+  <body>
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
+    </div>
+    <footer>
+      <div class="footer-container">
+        <div class="footer-column">
+          <!-- Your links go here -->
+          <a href="/about/">About</a><br>
+          <a href="/contact/">Contact</a><br>
+          <a href="/privacy-policy/">Privacy Policy</a>
+        </div>
+        <div class="footer-column">
+          <!-- Your text or other content goes here -->
+          <p>Lexlib.io is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com and affiliated sites.</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; {{ site.time | date: '%Y' }} LexLib</p>
+      </div>
+    </footer>
+  </body>
+</html>
