@@ -9,7 +9,7 @@ permalink:        pretty
 title:            LexLib
 description:      'Books mentioned on the Lex Fridman Podcast'
 url:              https://lexlib.io
-baseurl:          /
+baseurl:          /lexlib
 excerpt_separator: <!--more-->
 
 plugins:
