@@ -8,8 +8,8 @@ permalink:        pretty
 # Setup
 title:            LexLib
 description:      'Books mentioned on the Lex Fridman Podcast'
-url:              "https://klshnkv.github.io"
-baseurl:          "/lexlib"
+url:              "https://lexlib.io"
+baseurl:          ""
 excerpt_separator: <!--more-->
 
 plugins:
