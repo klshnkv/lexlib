@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #1:
 
-1. **[Our Mathematical Universe](https://amzn.to/3Xh4Gn2)** by Max Tegmark
-2. **[Life 3.0: Being Human in the Age of Artificial Intelligence](https://amzn.to/3V7DBkV)** by Max Tegmark
+1. <b><a href="https://amzn.to/3Xh4Gn2" target="_blank" rel="sponsored noopener noreferrer">Our Mathematical Universe</a></b> by Max Tegmark
+2. <b><a href="https://amzn.to/3V7DBkV" target="_blank" rel="sponsored noopener noreferrer">Life 3.0: Being Human in the Age of Artificial Intelligence</a></b> by Max Tegmark
+
+<!--more-->
 
 Max Tegmark is a scientist and writer. He is a professor at the MIT, the president and co-founder of the Future of Life Institute and a scientific director at the FQXi.
 
