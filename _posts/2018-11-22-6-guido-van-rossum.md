@@ -14,8 +14,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #6:
 
-1. [**Books by Willem Frederik Hermans**](https://amzn.to/3AvBv5N)
-2. **[Gödel, Escher, Bach: an Eternal Golden Braid](https://amzn.to/3glyvSM)** by Douglas Hofstadter
+1. <b><a href="https://amzn.to/3AvBv5N" target="_blank" rel="sponsored noopener noreferrer">Books by Willem Frederik Hermans</a></b>
+2. <b><a href="https://amzn.to/3glyvSM" target="_blank" rel="sponsored noopener noreferrer">Gödel, Escher, Bach: an Eternal Golden Braid</a></b> by Douglas Hofstadter
+
+<!--more-->
 
 Guido van Rossum is a Dutch programmer best known as the creator of the Python programming language, for which he was the “benevolent dictator for life” until he stepped down from the position on 12 July 2018. [Wikipedia](https://en.wikipedia.org/wiki/Guido_van_Rossum)
 

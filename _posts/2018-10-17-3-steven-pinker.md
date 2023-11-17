@@ -12,16 +12,18 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #3:
 
-1. **[The Better Angels of Our Nature: Why Violence Has Declined](https://amzn.to/3EKi3VE)** by Steven Pinker
-2. **[Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://amzn.to/3Oo2wxG)** by Steven Pinker
-3. **[The Beginning of Infinity](https://amzn.to/3GwEAqm)** by David Deutsch
-4. **[A History of Force: Exploring the Worldwide Movement Against Habits of Coercion, Bloodshed, and Mayhem](https://amzn.to/3i1zaJK)** by James L. Payne
-5. **[One Two Three… Infinity: Facts and Speculations of Science](https://amzn.to/3AuF5Ny)** by George Gamow
-6. **[Time-Life Science](https://amzn.to/3gofrTZ)** by Various authors
-7. **[Reflections on Language](https://amzn.to/3GBa2Up)** by Noam Chomsky
-8. **[The Selfish Gene](https://amzn.to/3VeMRTV)** by Richard Dawkins
-9. **[Ever Since Darwin](https://amzn.to/3OlfIU5)** by Stephen Jay Gould
-10. **[The Psychology of Communication](https://amzn.to/3GvlnFe)** by George Armitage Miller
+1. <b><a href="https://amzn.to/3EKi3VE" target="_blank" rel="sponsored noopener noreferrer">The Better Angels of Our Nature: Why Violence Has Declined</a></b> by Steven Pinker
+2. <b><a href="https://amzn.to/3Oo2wxG" target="_blank" rel="sponsored noopener noreferrer">Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</a></b> by Steven Pinker
+3. <b><a href="https://amzn.to/3GwEAqm" target="_blank" rel="sponsored noopener noreferrer">The Beginning of Infinity</a></b> by David Deutsch
+4. <b><a href="https://amzn.to/3i1zaJK" target="_blank" rel="sponsored noopener noreferrer">A History of Force: Exploring the Worldwide Movement Against Habits of Coercion, Bloodshed, and Mayhem</a></b> by James L. Payne
+5. <b><a href="https://amzn.to/3AuF5Ny" target="_blank" rel="sponsored noopener noreferrer">One Two Three… Infinity: Facts and Speculations of Science</a></b> by George Gamow
+6. <b><a href="https://amzn.to/3gofrTZ" target="_blank" rel="sponsored noopener noreferrer">Time-Life Science</a></b> by Various authors
+7. <b><a href="https://amzn.to/3GBa2Up" target="_blank" rel="sponsored noopener noreferrer">Reflections on Language</a></b> by Noam Chomsky
+8. <b><a href="https://amzn.to/3VeMRTV" target="_blank" rel="sponsored noopener noreferrer">The Selfish Gene</a></b> by Richard Dawkins
+9. <b><a href="https://amzn.to/3OlfIU5" target="_blank" rel="sponsored noopener noreferrer">Ever Since Darwin</a></b> by Stephen Jay Gould
+10. <b><a href="https://amzn.to/3GvlnFe" target="_blank" rel="sponsored noopener noreferrer">The Psychology of Communication</a></b> by George Armitage Miller
+
+<!--more-->
 
 Steven Pinker ([@sapinker](https://twitter.com/sapinker)) is a science author, cognitive psychologist and psycholinguist. He is a professor at Harvard and before that was a professor at Massachusetts Institute of Technology.
 

@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #9:
 
-1. **[Artificial Intelligence: A Modern Approach](https://amzn.to/3gmuT2M)** by Peter Norvig and Stuart J. Russell
-2. **[The World Set Free](https://amzn.to/3EmfMhS)** by H. G. Wells
+1. <b><a href="https://amzn.to/3gmuT2M" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence: A Modern Approach</a></b> by Peter Norvig and Stuart J. Russell
+2. <b><a href="https://amzn.to/3EmfMhS" target="_blank" rel="sponsored noopener noreferrer">The World Set Free</a></b> by H. G. Wells
+
+<!--more-->
 
 Stuart Russell is a computer scientist and professor of computer science at the University of California, Berkeley. He is known for his contributions to artificial intelligence field.
 

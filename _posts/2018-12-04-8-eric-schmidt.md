@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #8:
 
-1. **[Love and Math: The Heart of Hidden Reality](https://amzn.to/3EnRLXV)** by Edward Frenkel
+1. <b><a href="https://amzn.to/3EnRLXV" target="_blank" rel="sponsored noopener noreferrer">Love and Math: The Heart of Hidden Reality</a></b> by Edward Frenkel
+
+<!--more-->
 
 Eric Schmidt ([@ericschmidt](https://twitter.com/ericschmidt)) is a businessman and software engineer. He is the former CEO of Google and executive chairman of Alphabet Inc.
 

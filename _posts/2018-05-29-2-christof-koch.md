@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #2:
 
-1. **[Consciousness: Confessions of a Romantic Reductionist](https://amzn.to/3EkUPUB)** by Christof Koch
-2. **[The Diving Bell and the Butterfly: A Memoir of Life in Death](https://amzn.to/3i0148D)** by Jean-Dominique Bauby
-3. **[The Invincible](https://amzn.to/3TV6uiy)** by Stanisław Lem
+1. <b><a href="https://amzn.to/3EkUPUB" target="_blank" rel="sponsored noopener noreferrer">Consciousness: Confessions of a Romantic Reductionist</a></b> by Christof Koch
+2. <b><a href="https://amzn.to/3i0148D" target="_blank" rel="sponsored noopener noreferrer">The Diving Bell and the Butterfly: A Memoir of Life in Death</a></b> by Jean-Dominique Bauby
+3. <b><a href="https://amzn.to/3TV6uiy" target="_blank" rel="sponsored noopener noreferrer">The Invincible</a></b> by Stanisław Lem
+
+<!--more-->
 
 Christof Koch is neurophysiologist and computational neuroscientist. He is the President and Chief Scientific Officer of the Allen Institute for Brain Science in Seattle.
 
