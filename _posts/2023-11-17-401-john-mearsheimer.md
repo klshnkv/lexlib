@@ -1,6 +1,6 @@
 ---
 title: '#401 – John Mearsheimer'
-date: '2023-11-017T23:59:00+00:00'
+date: '2023-11-17T12:00:00+00:00'
 author: librarian
 layout: post
 permalink: /401-john-mearsheimer/
