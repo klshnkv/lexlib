@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #29:
 
-1. **[Steve Jobs](https://amzn.to/3gnVjkP)** by Walter Isaacson
+1. <b><a href="https://amzn.to/3gnVjkP" target="_blank" rel="sponsored noopener noreferrer">Steve Jobs</a></b> by Walter Isaacson
+
+<!--more-->
 
 Gustav Soderstrom ([@gustavs](https://twitter.com/gustavs)) is Chief Research &amp; Development Officer at Spotify.
 

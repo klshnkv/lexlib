@@ -14,8 +14,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #25:
 
-1. **[On Intelligence: How a New Understanding of the Brain will Lead to the Creation of Truly Intelligent Machines](https://amzn.to/3i001FJ)** by Jeff Hawkins and Sandra Blakeslee
-2. **[Why Red Doesn’t Sound Like a Bell: Understanding the Feel of Consciousness](https://amzn.to/3XiQzgP)** by J. Kevin O’Regan
+1. <b><a href="https://amzn.to/3i001FJ" target="_blank" rel="sponsored noopener noreferrer">On Intelligence: How a New Understanding of the Brain will Lead to the Creation of Truly Intelligent Machines</a></b> by Jeff Hawkins and Sandra Blakeslee
+2. <b><a href="https://amzn.to/3XiQzgP" target="_blank" rel="sponsored noopener noreferrer">Why Red Doesn’t Sound Like a Bell: Understanding the Feel of Consciousness</a></b> by J. Kevin O’Regan
+
+<!--more-->
 
 Jeffrey Hawkins is a co-founder of the companies Palm Computing, where he co-created the PalmPilot, and Handspring, where he was one of the creators of the Treo. He subsequently turned to work on neuroscience, founding the Redwood Center for Theoretical Neuroscience in 2002. [Wikipedia](https://en.wikipedia.org/wiki/Jeff_Hawkins)
 

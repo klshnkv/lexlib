@@ -14,8 +14,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #47:
 
-1. **[Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime](https://amzn.to/3gjfobV)** by Sean Carroll
-2. **[Physics](https://amzn.to/3TNORRL)** by Aristotle
+1. <b><a href="https://amzn.to/3gjfobV" target="_blank" rel="sponsored noopener noreferrer">Something Deeply Hidden: Quantum Worlds and the Emergence of Spacetime</a></b> by Sean Carroll
+2. <b><a href="https://amzn.to/3TNORRL" target="_blank" rel="sponsored noopener noreferrer">Physics</a></b> by Aristotle
+
+<!--more-->
 
 Sean Michael Carroll is an American theoretical physicist and philosopher who specializes in quantum mechanics, cosmology, and philosophy of science. [Wikipedia](https://en.wikipedia.org/wiki/Sean_M._Carroll)
 

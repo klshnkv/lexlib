@@ -12,10 +12,12 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #61:
 
-1. **[Artificial Intelligence: A Guide for Thinking Humans](https://amzn.to/3OglBlz)** by Melanie Mitchell
-2. **[Surfaces and Essences: Analogy as the Fuel and Fire of Thinking](https://amzn.to/3UGUpih)** by Douglas R Hofstadter, Emmanuel Sander
-3. **[Human Compatible: Artificial Intelligence and the Problem of Control](https://amzn.to/3XbHmqP)** by Stuart J. Russell
-4. **[Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought](https://amzn.to/3GsCWWH)** by Douglas Hofstadter
+1. <b><a href="https://amzn.to/3OglBlz" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence: A Guide for Thinking Humans</a></b> by Melanie Mitchell
+2. <b><a href="https://amzn.to/3UGUpih" target="_blank" rel="sponsored noopener noreferrer">Surfaces and Essences: Analogy as the Fuel and Fire of Thinking</a></b> by Douglas R Hofstadter, Emmanuel Sander
+3. <b><a href="https://amzn.to/3XbHmqP" target="_blank" rel="sponsored noopener noreferrer">Human Compatible: Artificial Intelligence and the Problem of Control</a></b> by Stuart J. Russell
+4. <b><a href="https://amzn.to/3GsCWWH" target="_blank" rel="sponsored noopener noreferrer">Fluid Concepts and Creative Analogies: Computer Models of the Fundamental Mechanisms of Thought</a></b> by Douglas Hofstadter
+
+<!--more-->
 
 Melanie Mitchell is an American scientist. She is the Davis Professor of Complexity at the Santa Fe Institute. Her major work has been in the areas of analogical reasoning, complex systems, genetic algorithms and cellular automata, and her publications in those fields are frequently cited. [Wikipedia](https://en.wikipedia.org/wiki/Melanie_Mitchell)
 

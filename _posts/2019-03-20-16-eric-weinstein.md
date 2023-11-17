@@ -14,8 +14,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #16:
 
-1. **[Love and Math: The Heart of Hidden Reality](https://amzn.to/3EMzu7X)** by Edward Frenkel
-2. **[The Double Helix: A Personal Account of the Discovery of the Structure of DNA](https://amzn.to/3i0ftlz)** by James D. Watson
+1. <b><a href="https://amzn.to/3EMzu7X" target="_blank" rel="sponsored noopener noreferrer">Love and Math: The Heart of Hidden Reality</a></b> by Edward Frenkel
+2. <b><a href="https://amzn.to/3i0ftlz" target="_blank" rel="sponsored noopener noreferrer">The Double Helix: A Personal Account of the Discovery of the Structure of DNA</a></b> by James D. Watson
+
+<!--more-->
 
 Eric Ross Weinstein is an American hedge fund director and podcast host. He was the joint managing director for Thiel Capital from 2013 until 2022. He has a PhD in mathematical physics from Harvard. [Wikipedia](https://en.wikipedia.org/wiki/Eric_Weinstein)
 

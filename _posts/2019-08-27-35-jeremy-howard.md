@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #35:
 
-1. **[Wiseguy: Life in a Mafia Family](https://amzn.to/3OiPwJX)** by Nicholas Pileggi
+1. <b><a href="https://amzn.to/3OiPwJX" target="_blank" rel="sponsored noopener noreferrer">Wiseguy: Life in a Mafia Family</a></b> by Nicholas Pileggi
+
+<!--more-->
 
 Jeremy Howard ([@jeremyphoward](https://twitter.com/jeremyphoward)) is a data scientist and entrepreneur.
 

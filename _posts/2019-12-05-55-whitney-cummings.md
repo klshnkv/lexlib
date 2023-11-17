@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #55:
 
-1. **[I’m Fine…And Other Lies](https://amzn.to/3XdyLUx)** by Whitney Cummings
+1. <b><a href="https://amzn.to/3XdyLUx" target="_blank" rel="sponsored noopener noreferrer">I’m Fine…And Other Lies</a></b> by Whitney Cummings
+
+<!--more-->
 
 Whitney Cummings ([@WhitneyCummings](https://twitter.com/WhitneyCummings)) is an American stand-up comedian, actress, writer, director, producer, investor and podcaster. A native of Washington, DC, Cummings pursued a comedy career in Los Angeles after graduating from the University of Pennsylvania, where she had studied with the intention of becoming a journalist. [Wikipedia](https://en.wikipedia.org/wiki/Whitney_Cummings)
 

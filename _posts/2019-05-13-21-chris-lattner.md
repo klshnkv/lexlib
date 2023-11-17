@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #21:
 
-1. **[Compilers: Principles, Techniques, and Tools (Dragon Book)](https://amzn.to/3OtzJrJ)** by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
+1. <b><a href="https://amzn.to/3OtzJrJ" target="_blank" rel="sponsored noopener noreferrer">Compilers: Principles, Techniques, and Tools (Dragon Book)</a></b> by Alfred V. Aho, Monica S. Lam, Ravi Sethi, and Jeffrey D. Ullman
+
+<!--more-->
 
 Christopher Arthur Lattner is an American software engineer, former Google and Tesla employee and co-founder of LLVM, Clang compiler, MLIR compiler infrastructure and the Swift programming language. As of 2022, he is the co-founder and CEO at Modular AI, an artificial intelligence platform for developers. [Wikipedia](https://en.wikipedia.org/wiki/Chris_Lattner)
 

@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #52:
 
-1. **[Introduction to Linear Algebra](https://amzn.to/3GB88Df)** by Gilbert Strang
+1. <b><a href="https://amzn.to/3GB88Df" target="_blank" rel="sponsored noopener noreferrer">Introduction to Linear Algebra</a></b> by Gilbert Strang
+
+<!--more-->
 
 Gilbert Strang is an American mathematician, with contributions to finite element theory, the calculus of variations, wavelet analysis and linear algebra. [Wikipedia](https://en.wikipedia.org/wiki/Gilbert_Strang)
 

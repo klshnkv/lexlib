@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #44:
 
 *No books mentioned.*
 
+<!--more-->
+
 David Ferrucci was the principal investigator who in 2007–2011 led a team of IBM and academic researchers and engineers to the development of the Watson computer system that won a television quiz. [Wikipedia](https://en.wikipedia.org/wiki/David_Ferrucci)
 
 - - - - - -

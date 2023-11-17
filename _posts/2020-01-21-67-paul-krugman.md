@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #67:
 
-1. **[The Wealth of Nations](https://amzn.to/3V9VBL0)** by Adam Smith
+1. <b><a href="https://amzn.to/3V9VBL0" target="_blank" rel="sponsored noopener noreferrer">The Wealth of Nations</a></b> by Adam Smith
+
+<!--more-->
 
 Paul Robin Krugman is an American economist and public intellectual, who is Distinguished Professor of Economics at the Graduate Center of the City University of New York, and a columnist for The New York Times. [Wikipedia](https://en.wikipedia.org/wiki/Paul_Krugman)
 

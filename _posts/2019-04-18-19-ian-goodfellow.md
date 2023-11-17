@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #19:
 
-1. **[Deep Learning](https://amzn.to/3TWS29H)** by Ian Goodfellow, Yoshua Bengio, Aaron Courville
-2. **[Kett’s rebellion in Norfolk](https://amzn.to/3tL6reQ)** by Frederic William Russell
+1. <b><a href="https://amzn.to/3TWS29H" target="_blank" rel="sponsored noopener noreferrer">Deep Learning</a></b> by Ian Goodfellow, Yoshua Bengio, Aaron Courville
+2. <b><a href="https://amzn.to/3tL6reQ" target="_blank" rel="sponsored noopener noreferrer">Kett’s rebellion in Norfolk</a></b> by Frederic William Russell
+
+<!--more-->
 
 Ian Goodfellow ([@goodfellow\_ian](https://twitter.com/goodfellow_ian)) is a Research Scientist at DeepMind.
 

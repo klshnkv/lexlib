@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #34:
 
-1. **[This Could Be Important: My Life and Times with the Artificial Intelligentsia](https://amzn.to/3GvZDcg)** by Pamela McCorduck
-2. **[The Fifth Generation: Artificial Intelligence and Japan’s Computer Challenge to the World](https://amzn.to/3GvZFAU)** by Edward Feigenbaum and Pamela McCorduck
-3. **[The Futures of Women: Scenarios for the 21st Century](https://amzn.to/3UVsGuu)** by Pamela McCorduck and Nancy Ramsey
+1. <b><a href="https://amzn.to/3GvZDcg" target="_blank" rel="sponsored noopener noreferrer">This Could Be Important: My Life and Times with the Artificial Intelligentsia</a></b> by Pamela McCorduck
+2. <b><a href="https://amzn.to/3GvZFAU" target="_blank" rel="sponsored noopener noreferrer">The Fifth Generation: Artificial Intelligence and Japan’s Computer Challenge to the World</a></b> by Edward Feigenbaum and Pamela McCorduck
+3. <b><a href="https://amzn.to/3UVsGuu" target="_blank" rel="sponsored noopener noreferrer">The Futures of Women: Scenarios for the 21st Century</a></b> by Pamela McCorduck and Nancy Ramsey
+
+<!--more-->
 
 Pamela McCorduck was an author of books about the history and philosophical significance of artificial intelligence, the future of engineering, and the role of women and technology.
 

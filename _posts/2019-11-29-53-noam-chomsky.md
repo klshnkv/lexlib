@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #53:
 
-1. **[The Deep Learning Revolution](https://amzn.to/3EILVl7)** by Terry Sejnowski
+1. <b><a href="https://amzn.to/3EILVl7" target="_blank" rel="sponsored noopener noreferrer">The Deep Learning Revolution</a></b> by Terry Sejnowski
+
+<!--more-->
 
 Noam Chomsky is an American linguist, philosopher, cognitive scientist, historical essayist, social critic, and political activist. Sometimes called “the father of modern linguistics”, Chomsky is also a major figure in analytic philosophy and one of the founders of the field of cognitive science. [Wi](https://en.wikipedia.org/wiki/Noam_Chomsky)[k](https://en.wikipedia.org/wiki/Noam_Chomsky)[ipedia](https://en.wikipedia.org/wiki/Noam_Chomsky)
 

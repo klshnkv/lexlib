@@ -12,10 +12,12 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #24:
 
-1. **[Affective Computing](https://amzn.to/3XhlsCx)** by Rosalind W. W. Picard
-2. **[Ender’s Game](https://amzn.to/3OtzxJ1)** by Orson Scott Card
-3. **[Speaker for the Dead](https://amzn.to/3gmcZ0g)** by Orson Scott Card
-4. **[The Brave New World](https://amzn.to/3ghu6QX)** by Aldous Huxley
+1. <b><a href="https://amzn.to/3XhlsCx" target="_blank" rel="sponsored noopener noreferrer">Affective Computing</a></b> by Rosalind W. W. Picard
+2. <b><a href="https://amzn.to/3OtzxJ1" target="_blank" rel="sponsored noopener noreferrer">Ender’s Game</a></b> by Orson Scott Card
+3. <b><a href="https://amzn.to/3gmcZ0g" target="_blank" rel="sponsored noopener noreferrer">Speaker for the Dead</a></b> by Orson Scott Card
+4. <b><a href="https://amzn.to/3ghu6QX" target="_blank" rel="sponsored noopener noreferrer">The Brave New World</a></b> by Aldous Huxley
+
+<!--more-->
 
 Rosalind Picard ([@rosalindpicard](https://twitter.com/rosalindpicard)) is a professor at MIT, founder and director of the Affective Computing Research Group at the MIT Media Lab, and co-founder of the companies Affectiva and Empatica.
 

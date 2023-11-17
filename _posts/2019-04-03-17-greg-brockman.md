@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #17:
 
-1. **[Sapiens: A Brief History of Humankind](https://amzn.to/3Vb2trj)** by Yuval Noah Harari
+1. <b><a href="https://amzn.to/3Vb2trj" target="_blank" rel="sponsored noopener noreferrer">Sapiens: A Brief History of Humankind</a></b> by Yuval Noah Harari
+
+<!--more-->
 
 Greg Brockman ([@gdb](https://twitter.com/gdb)) is the President, Chairman, &amp; Co-Founder of OpenAI.
 

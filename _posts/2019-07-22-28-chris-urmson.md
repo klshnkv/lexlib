@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #28:
 
 *No books mentioed.*
 
+<!--more-->
+
 Chris Urmson ([@chris\_urmson](https://twitter.com/chris_urmson)) is an engineer and entrepreneur specializing on self-driving car technology. He is the co-founder and CEO of Aurora.
 
 - - - - - -

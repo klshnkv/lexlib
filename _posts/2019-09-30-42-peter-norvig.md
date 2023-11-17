@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #42:
 
-1. **[Artificial Intelligence: A Modern Approach](https://amzn.to/3Xk2Od0)** by Stuart Russell, Peter Norvig
+1. <b><a href="https://amzn.to/3Xk2Od0" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence: A Modern Approach</a></b> by Stuart Russell, Peter Norvig
+
+<!--more-->
 
 Peter Norvig is an American computer scientist and Distinguished Education Fellow at the Stanford Institute for Human-Centered AI. He previously served as a director of research and search quality at Google. [Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
 

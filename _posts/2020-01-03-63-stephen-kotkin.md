@@ -14,8 +14,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #63:
 
-1. [Stalin: Paradoxes of Power, 1878–1928](https://amzn.to/3Ej24wc) by Stephen Kotkin
-2. [Stalin: Waiting for Hitler, 1929-1941](https://amzn.to/3gftNpJ) by Stephen Kotkin
+1. <b><a href="https://amzn.to/3Ej24wc" target="_blank" rel="sponsored noopener noreferrer">Stalin: Paradoxes of Power, 1878–1928</a></b> by Stephen Kotkin
+2. <b><a href="https://amzn.to/3gftNpJ" target="_blank" rel="sponsored noopener noreferrer">Stalin: Waiting for Hitler, 1929-1941</a></b> by Stephen Kotkin
+
+<!--more-->
 
 Stephen Mark Kotkin is an American historian, academic, and author. He is currently the John P. Birkelund ’52 Professor in History and International Affairs at Princeton University. [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Kotkin)
 

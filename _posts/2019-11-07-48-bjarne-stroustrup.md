@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #48:
 
-1. **[The Design and Evolution of C++](https://amzn.to/3Vb0SSl)** by Bjarne Stroustrup
+1. <b><a href="https://amzn.to/3Vb0SSl" target="_blank" rel="sponsored noopener noreferrer">The Design and Evolution of C++</a></b> by Bjarne Stroustrup
+
+<!--more-->
 
 Bjarne Stroustrup is a Danish computer scientist, most notable for the invention and development of the C++ programming language. As of July 2022, Stroustrup is a professor of Computer Science at Columbia University. [Wikipedia](https://en.wikipedia.org/wiki/Bjarne_Stroustrup)
 

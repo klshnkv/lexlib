@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #41:
 
 *No books mentioned.*
 
+<!--more-->
+
 Leonard Susskind is an American physicist, who is a professor of theoretical physics at Stanford University, and founding director of the Stanford Institute for Theoretical Physics. His research interests include string theory, quantum field theory, quantum statistical mechanics and quantum cosmology. [Wikipedia](https://en.wikipedia.org/wiki/Leonard_Susskind)
 
 - - - - - -

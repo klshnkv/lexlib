@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #23:
 
 *No books mentioned.*
 
+<!--more-->
+
 Gavin Miller ([@drgavinmiller](https://twitter.com/drgavinmiller)) is the Head of Adobe Research.
 
 - - - - - -

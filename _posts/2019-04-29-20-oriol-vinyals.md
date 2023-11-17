@@ -16,6 +16,8 @@ Books mentioned on Lex Fridman Podcast #20:
 
 *No books mentioned.*
 
+<!--more-->
+
 Oriol Vinyals is a Spanish machine learning researcher at DeepMind, where he is the principal research scientist. His research in DeepMind is regularly featured in the mainstream media especially after being acquired by Google. [Wikipedia](https://en.wikipedia.org/wiki/Oriol_Vinyals)
 
 Other appearances: [\#306](/306-oriol-vinyals/)

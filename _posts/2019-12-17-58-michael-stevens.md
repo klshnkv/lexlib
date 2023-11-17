@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #58:
 
-1. **[The Universe and the Teacup: The Mathematics of Truth and Beauty](https://amzn.to/3Gsqhml)** by K. C. Cole
+1. <b><a href="https://amzn.to/3Gsqhml" target="_blank" rel="sponsored noopener noreferrer">The Universe and the Teacup: The Mathematics of Truth and Beauty</a></b> by K. C. Cole
+
+<!--more-->
 
 Michael David Stevens is an American educator, public speaker, entertainer, and editor best known for creating and hosting the education YouTube channel Vsauce. [Wikipedia](https://en.wikipedia.org/wiki/Michael_Stevens_(educator))
 

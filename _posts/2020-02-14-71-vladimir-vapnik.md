@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #71:
 
-1. [Morphology of the Folktale](https://amzn.to/3URNJhb) by Vladimir Propp
+1. <b><a href="https://amzn.to/3URNJhb" target="_blank" rel="sponsored noopener noreferrer">Morphology of the Folktale</a></b> by Vladimir Propp
+
+<!--more-->
 
 Vladimir Naumovich Vapnik is one of the main developers of the Vapnik–Chervonenkis theory of statistical learning, and the co-inventor of the support-vector machine method, and support-vector clustering algorithm. [Wikipedia](https://en.wikipedia.org/wiki/Vladimir_Vapnik)
 
