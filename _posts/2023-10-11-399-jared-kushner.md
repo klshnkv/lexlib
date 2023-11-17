@@ -12,13 +12,15 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #399:
 
-1. **[Breaking History: A White House Memoir](https://amzn.to/48H9XKe)** by Jared Kushner
-2. **[The Guns of August: The Pulitzer Prize-Winning Classic About the Outbreak of World War I](https://amzn.to/45sRbDx)** by Barbara W. Tuchman
-3. **[Thirteen Days in September: The Dramatic Story of the Struggle for Peace](https://amzn.to/48SyBHS)** by Lawrence Wright
-4. **[The Great Degeneration: How Institutions Decay and Economies Die](https://amzn.to/46rJhf7)** by Niall Ferguson
-5. **[Prisoners of Geography: Ten Maps That Explain Everything About the World](https://amzn.to/3ZUTSwx)** by Tim Marshall
-6. **[The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower](https://amzn.to/48OudK1)** by Michael Pillsbury
-7. **[Destined for War: Can America and China Escape Thucydides’s Trap?](https://amzn.to/3RZlkr0)** by Graham Allison
+1. <b><a href="https://amzn.to/48H9XKe" target="_blank" rel="sponsored noopener noreferrer">Breaking History: A White House Memoir</a></b> by Jared Kushner
+2. <b><a href="https://amzn.to/45sRbDx" target="_blank" rel="sponsored noopener noreferrer">The Guns of August: The Pulitzer Prize-Winning Classic About the Outbreak of World War I</a></b> by Barbara W. Tuchman
+3. <b><a href="https://amzn.to/48SyBHS" target="_blank" rel="sponsored noopener noreferrer">Thirteen Days in September: The Dramatic Story of the Struggle for Peace</a></b> by Lawrence Wright
+4. <b><a href="https://amzn.to/46rJhf7" target="_blank" rel="sponsored noopener noreferrer">The Great Degeneration: How Institutions Decay and Economies Die</a></b> by Niall Ferguson
+5. <b><a href="https://amzn.to/3ZUTSwx" target="_blank" rel="sponsored noopener noreferrer">Prisoners of Geography: Ten Maps That Explain Everything About the World</a></b> by Tim Marshall
+6. <b><a href="https://amzn.to/48OudK1" target="_blank" rel="sponsored noopener noreferrer">The Hundred-Year Marathon: China’s Secret Strategy to Replace America as the Global Superpower</a></b> by Michael Pillsbury
+7. <b><a href="https://amzn.to/3RZlkr0" target="_blank" rel="sponsored noopener noreferrer">Destined for War: Can America and China Escape Thucydides’s Trap?</a></b> by Graham Allison
+
+<!--more-->
 
 Jared Corey Kushner is an American businessman, investor, and former government official. He is the son-in-law of President Donald Trump through his marriage to Ivanka Trump, and served as a senior advisor to Trump from 2017 to 2021. He was also Director of the Office of American Innovation. [Wikipedia](https://en.wikipedia.org/wiki/Jared_Kushner)
 
@@ -29,4 +31,4 @@ Jared Corey Kushner is an American businessman, investor, and former government 
 
 ## Watch or listen to episode #399
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="443" loading="lazy" src="https://www.youtube.com/embed/co_MeKSnyAo?feature=oembed" title="Jared Kushner: Israel, Palestine, Hamas, Gaza, Iran, and the Middle East | Lex Fridman Podcast #399" width="788"></iframe></div></figure>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/co_MeKSnyAo?si=fNWcqe9vDwLwh7PW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
