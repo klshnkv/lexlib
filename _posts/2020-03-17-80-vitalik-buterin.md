@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #80:
 
-1. [**Mastering Ethereum: Building Smart Contracts and DApps**](https://amzn.to/3TVrjKP) by Andreas M. Antonopoulos, Gavin Wood Ph. D.
+1. <b><a href="https://amzn.to/3TVrjKP" target="_blank" rel="sponsored noopener noreferrer">Mastering Ethereum: Building Smart Contracts and DApps</a></b> by Andreas M. Antonopoulos, Gavin Wood Ph. D.
+
+<!--more-->
 
 Vitaly Dmitriyevich “Vitalik” Buterin is a Russian-born Canadian programmer and writer who is best known as one of the co-founders of Ethereum. Buterin became involved with cryptocurrency early in its inception, co-founding Bitcoin Magazine in 2011. [Wikipedia](https://en.wikipedia.org/wiki/Vitalik_Buterin)
 

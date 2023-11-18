@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #98:
 
-1. **[1984](https://amzn.to/3F3bVI3)** by George Orwell
+1. <b><a href="https://amzn.to/3F3bVI3" target="_blank" rel="sponsored noopener noreferrer">1984</a></b> by George Orwell
+
+<!--more-->
 
 Katherine ‘Kate’ Irene Maynard Darling is an American-Swiss academic. She works on the legal and ethical implications of technology. As of 2019, she is a Research Specialist at the MIT Media Lab. [Wikipedia](https://en.wikipedia.org/wiki/Kate_Darling)
 

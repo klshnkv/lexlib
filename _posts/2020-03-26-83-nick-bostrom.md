@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #83:
 
-1. **[Superintelligence: Paths, Dangers, Strategies](https://amzn.to/3XrTELW)** by Nick Bostrom
-2. **[The End of the World: The Science and Ethics of Human Extinction](https://amzn.to/3GBpXlu)** by John A. Leslie
+1. <b><a href="https://amzn.to/3XrTELW" target="_blank" rel="sponsored noopener noreferrer">Superintelligence: Paths, Dangers, Strategies</a></b> by Nick Bostrom
+2. <b><a href="https://amzn.to/3GBpXlu" target="_blank" rel="sponsored noopener noreferrer">The End of the World: The Science and Ethics of Human Extinction</a></b> by John A. Leslie
+
+<!--more-->
 
 Nick Bostrom is a Swedish-born philosopher at the University of Oxford known for his work on existential risk, the anthropic principle, human enhancement ethics, superintelligence risks, and the reversal test. [Wikipedia](https://en.wikipedia.org/wiki/Nick_Bostrom)
 

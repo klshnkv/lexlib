@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #74:
 
 *No books mentioned.*
 
+<!--more-->
+
 Michael Irwin Jordan ForMemRS is an American scientist, professor at the University of California, Berkeley and researcher in machine learning, statistics, and artificial intelligence. [Wikipedia](https://en.wikipedia.org/wiki/Michael_I._Jordan)
 
 - - - - - -

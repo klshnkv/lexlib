@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #77:
 
 *No books mentioned.*
 
+<!--more-->
+
 Alexander Medawar Garland is an English writer and filmmaker. He rose to prominence as a novelist in the late 1990s with his novel The Beach, which led some critics to call Garland a key voice of Generation X. [Wikipedia](https://en.wikipedia.org/wiki/Alex_Garland)
 
 - - - - - -

@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #108:
 
-1. [**Books by Isaac Asimov**](https://amzn.to/3u0DoUF)
+1. <b><a href="https://amzn.to/3u0DoUF" target="_blank" rel="sponsored noopener noreferrer">Books by Isaac Asimov</a></b>
+
+<!--more-->
 
 Sergey Levine is an Associate professor in the Department of Electrical Engineering and Computer Sciences at UC Berkeley.
 

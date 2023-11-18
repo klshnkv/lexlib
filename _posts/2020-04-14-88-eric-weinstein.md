@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #88:
 
-1. **[Instantons and Four-Manifolds](https://amzn.to/3XujP4r)** by Daniel S. Freed, Karen K. Uhlenbeck
+1. <b><a href="https://amzn.to/3XujP4r" target="_blank" rel="sponsored noopener noreferrer">Instantons and Four-Manifolds</a></b> by Daniel S. Freed, Karen K. Uhlenbeck
+
+<!--more-->
 
 Eric Ross Weinstein is an American hedge fund director and podcast host. He was the joint managing director for Thiel Capital from 2013 until 2022. He has a PhD in mathematical physics from Harvard. [Wikipedia](https://en.wikipedia.org/wiki/Eric_Weinstein)
 

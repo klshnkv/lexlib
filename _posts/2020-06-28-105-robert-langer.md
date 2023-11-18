@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #105:
 
 *No books mentioned.*
 
+<!--more-->
+
 Robert Samuel Langer Jr. FREng is an American chemical engineer, scientist, entrepreneur, inventor and one of the twelve Institute Professors at the Massachusetts Institute of Technology. [Wikipedia](https://en.wikipedia.org/wiki/Robert_S._Langer)
 
 - - - - - -

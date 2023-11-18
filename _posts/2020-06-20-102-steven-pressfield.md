@@ -12,14 +12,16 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #102:
 
-1. **[The Virtues of War: A Novel of Alexander the Great](https://amzn.to/3H6pOH9)** by Steven Pressfield
-2. **[The Artist’s Journey: The Wake of the Hero’s Journey and the Lifelong Pursuit of Meaning](https://amzn.to/3Ubq4HD)** by Steven Pressfield
-3. **[The War of Art](https://amzn.to/3VMS71p)** by Steven Pressfield
-4. **[The Legend of Bagger Vance: A Novel of Golf and the Game of Life](https://amzn.to/3XA7iwo)** by Steven Pressfield
-5. **[Gates of Fire](https://amzn.to/3gHxy7C)** by Steven Pressfield
-6. **[The Denial of Death](https://amzn.to/3GM6RsP)** by Ernest Becker
-7. **[The Sleep Revolution: Transforming Your Life, One Night at a Time](https://amzn.to/3GUhEBz)** by Arianna Huffington
-8. **[Books by Philip Roth](https://amzn.to/3EG9biC)**
+1. <b><a href="https://amzn.to/3H6pOH9" target="_blank" rel="sponsored noopener noreferrer">The Virtues of War: A Novel of Alexander the Great</a></b> by Steven Pressfield
+2. <b><a href="https://amzn.to/3Ubq4HD" target="_blank" rel="sponsored noopener noreferrer">The Artist’s Journey: The Wake of the Hero’s Journey and the Lifelong Pursuit of Meaning</a></b> by Steven Pressfield
+3. <b><a href="https://amzn.to/3VMS71p" target="_blank" rel="sponsored noopener noreferrer">The War of Art</a></b> by Steven Pressfield
+4. <b><a href="https://amzn.to/3XA7iwo" target="_blank" rel="sponsored noopener noreferrer">The Legend of Bagger Vance: A Novel of Golf and the Game of Life</a></b> by Steven Pressfield
+5. <b><a href="https://amzn.to/3gHxy7C" target="_blank" rel="sponsored noopener noreferrer">Gates of Fire</a></b> by Steven Pressfield
+6. <b><a href="https://amzn.to/3GM6RsP" target="_blank" rel="sponsored noopener noreferrer">The Denial of Death</a></b> by Ernest Becker
+7. <b><a href="https://amzn.to/3GUhEBz" target="_blank" rel="sponsored noopener noreferrer">The Sleep Revolution: Transforming Your Life, One Night at a Time</a></b> by Arianna Huffington
+8. <b><a href="https://amzn.to/3EG9biC" target="_blank" rel="sponsored noopener noreferrer">Books by Philip Roth</a></b>
+
+<!--more-->
 
 Steven Pressfield is an American author of historical fiction, non-fiction, and screenplays. [Wikipedia](https://en.wikipedia.org/wiki/Steven_Pressfield)
 

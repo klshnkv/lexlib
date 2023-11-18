@@ -12,10 +12,12 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #75:
 
-1. [Reinforcement Learning: An Introduction](https://amzn.to/3Xkckgh) by Richard S. Sutton, Andrew G. Barto
-2. [Artificial Intelligence: A Modern Approach](https://amzn.to/3tMNEji) by Stuart Russell, Peter Norvig
-3. [An Introduction to Kolmogorov Complexity and Its Applications](https://amzn.to/3tK1m6v) by Ming Li, Paul Vitanyi
-4. [Theory of Knowledge](https://amzn.to/3gh5ZBX) by Nicholas Alchin
+1. <b><a href="https://amzn.to/3Xkckgh" target="_blank" rel="sponsored noopener noreferrer">Reinforcement Learning: An Introduction</a></b> by Richard S. Sutton, Andrew G. Barto
+2. <b><a href="https://amzn.to/3tMNEji" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence: A Modern Approach</a></b> by Stuart Russell, Peter Norvig
+3. <b><a href="https://amzn.to/3tK1m6v" target="_blank" rel="sponsored noopener noreferrer">An Introduction to Kolmogorov Complexity and Its Applications</a></b> by Ming Li, Paul Vitanyi
+4. <b><a href="https://amzn.to/3gh5ZBX" target="_blank" rel="sponsored noopener noreferrer">Theory of Knowledge</a></b> by Nicholas Alchin
+
+<!--more-->
 
 Marcus Hutter is DeepMind Senior Scientist researching the mathematical foundations of artificial general intelligence. He is on leave from his professorship at the ANU College of Engineering and Computer Science of the Australian National University in Canberra, Australia. [Wikipedia](https://en.wikipedia.org/wiki/Marcus_Hutter)
 

@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #89:
 
-1. **[A New Kind of Science](https://amzn.to/3ExGS5W)** by Stephen Wolfram
+1. <b><a href="https://amzn.to/3ExGS5W" target="_blank" rel="sponsored noopener noreferrer">A New Kind of Science</a></b> by Stephen Wolfram
+
+<!--more-->
 
 Stephen Wolfram is a British-American computer scientist, physicist, and businessman. He is known for his work in computer science, mathematics, and theoretical physics. In 2012, he was named a fellow of the American Mathematical Society. [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wolfram)
 

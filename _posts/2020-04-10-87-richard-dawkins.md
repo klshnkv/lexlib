@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #:
 
-1. **[The Selfish Gene](https://amzn.to/3tWA64H)** by Richard Dawkins
-2. **[The God Delusion](https://amzn.to/3F0gu6c)** by Richard Dawkins
-3. **[Books by Charles Darwin](https://amzn.to/3B4ctLF)**
+1. <b><a href="https://amzn.to/3tWA64H" target="_blank" rel="sponsored noopener noreferrer">The Selfish Gene</a></b> by Richard Dawkins
+2. <b><a href="https://amzn.to/3F0gu6c" target="_blank" rel="sponsored noopener noreferrer">The God Delusion</a></b> by Richard Dawkins
+3. <b><a href="https://amzn.to/3B4ctLF" target="_blank" rel="sponsored noopener noreferrer">Books by Charles Darwin</a></b>
+
+<!--more-->
 
 Richard Dawkins FRS FRSL is a British evolutionary biologist and author. He is an emeritus fellow of New College, Oxford and was Professor for Public Understanding of Science in the University of Oxford from 1995 to 2008. An atheist, he is well known for his criticism of creationism and intelligent design. [Wikipedia](https://en.wikipedia.org/wiki/Richard_Dawkins)
 

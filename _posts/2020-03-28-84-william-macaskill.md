@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #84:
 
-1. **[Doing Good Better: How Effective Altruism Can Help You Help Others, Do Work that Matters, and Make Smarter Choices about Giving Back](https://amzn.to/3GBkMlD)** by William MacAskill
+1. <b><a href="https://amzn.to/3GBkMlD" target="_blank" rel="sponsored noopener noreferrer">Doing Good Better: How Effective Altruism Can Help You Help Others, Do Work that Matters, and Make Smarter Choices about Giving Back</a></b> by William MacAskill
+
+<!--more-->
 
 William David MacAskill is a Scottish philosopher and author, along with being one of the originators of the effective altruism movement. [Wikipedia](https://en.wikipedia.org/wiki/William_MacAskill)
 

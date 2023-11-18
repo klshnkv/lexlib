@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #86:
 
-1. **[Reinforcement Learning: An Introduction](https://amzn.to/3TZAj1v)** by Richard S. Sutton, Andrew G. Barto
-2. **[Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins](https://amzn.to/3AD05BS)** by Garry Kasparov
+1. <b><a href="https://amzn.to/3TZAj1v" target="_blank" rel="sponsored noopener noreferrer">Reinforcement Learning: An Introduction</a></b> by Richard S. Sutton, Andrew G. Barto
+2. <b><a href="https://amzn.to/3AD05BS" target="_blank" rel="sponsored noopener noreferrer">Deep Thinking: Where Machine Intelligence Ends and Human Creativity Begins</a></b> by Garry Kasparov
+
+<!--more-->
 
 David Silver FRS is a British computer scientist and businessman who leads the reinforcement learning research group at DeepMind and was lead researcher on AlphaGo, AlphaZero and co-lead on AlphaStar. [Wikipedia](https://en.wikipedia.org/wiki/David_Silver_(computer_scientist))
 

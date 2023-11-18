@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #106:
 
-1. **[Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://amzn.to/3gHHzle)** by Steven Pinker
-2. [**Parallel Distributed Processing (PDP) Books**](https://amzn.to/3XwwsvR)
+1. <b><a href="https://amzn.to/3gHHzle" target="_blank" rel="sponsored noopener noreferrer">Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</a></b> by Steven Pinker
+2. <b><a href="https://amzn.to/3XwwsvR" target="_blank" rel="sponsored noopener noreferrer">Parallel Distributed Processing (PDP) Books</a></b>
+
+<!--more-->
 
 Matthew Botvinick is Director of Neuroscience Research at DeepMind and Honorary Professor at the Gatsby Computational Neuroscience Unit at University College London.
 

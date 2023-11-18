@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #110:
 
-1. [**The Scientist in the Crib: What Early Learning Tells Us About the Mind**](https://amzn.to/3V4pnB7) by Alison Gopnik, Andrew N. Meltzoff, Patricia K. Kuhl
-2. **[The Art of the Soluble](https://amzn.to/3GQXCI6)** by Peter Medawar
+1. <b><a href="https://amzn.to/3V4pnB7" target="_blank" rel="sponsored noopener noreferrer">The Scientist in the Crib: What Early Learning Tells Us About the Mind</a></b> by Alison Gopnik, Andrew N. Meltzoff, Patricia K. Kuhl
+2. <b><a href="https://amzn.to/3GQXCI6" target="_blank" rel="sponsored noopener noreferrer">The Art of the Soluble</a></b> by Peter Medawar
+
+<!--more-->
 
 Jitendra Malik is an Indian-American academic who is the Arthur J. Chick Professor of Electrical Engineering and Computer Sciences at the University of California, Berkeley. He is known for his research in computer vision. [Wikipedia](https://en.wikipedia.org/wiki/Jitendra_Malik)
 

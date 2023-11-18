@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #118:
 
-1. **[Peak: Secrets from the New Science of Expertise](https://amzn.to/3ENEW9g)** by Anders Ericsson, Robert Pool
-2. **[Accessory to War: The Unspoken Alliance Between Astrophysics and the Military](https://amzn.to/3GUBAUz)** by Neil deGrasse Tyson, Avis Lang
-3. **[Deep Work: Rules for Focused Success in a Distracted World](https://amzn.to/3VADLRv)** by Cal Newport
+1. <b><a href="https://amzn.to/3ENEW9g" target="_blank" rel="sponsored noopener noreferrer">Peak: Secrets from the New Science of Expertise</a></b> by Anders Ericsson, Robert Pool
+2. <b><a href="https://amzn.to/3GUBAUz" target="_blank" rel="sponsored noopener noreferrer">Accessory to War: The Unspoken Alliance Between Astrophysics and the Military</a></b> by Neil deGrasse Tyson, Avis Lang
+3. <b><a href="https://amzn.to/3VADLRv" target="_blank" rel="sponsored noopener noreferrer">Deep Work: Rules for Focused Success in a Distracted World</a></b> by Cal Newport
+
+<!--more-->
 
 Grant Sanderson is the creater of the math YouTube channel 3Blue1Brown. The channel focuses on teaching higher mathematics from a visual perspective, and on the process of discovery and inquiry-based learning in mathematics, which Sanderson calls “inventing math”. [Wikipedia](https://en.wikipedia.org/wiki/3Blue1Brown)
 

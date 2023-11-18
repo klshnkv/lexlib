@@ -16,6 +16,8 @@ Books mentioned on Lex Fridman Podcast #72:
 
 *No books mentioned.*
 
+<!--more-->
+
 Scott Joel Aaronson is an American theoretical computer scientist and David J. Bruton Jr. Centennial Professor of Computer Science at the University of Texas at Austin. His primary areas of research are quantum computing and computational complexity theory. [Wikipedia](https://en.wikipedia.org/wiki/Scott_Aaronson)
 
 Other appearances: [\#130](/130-scott-aaronson/)
