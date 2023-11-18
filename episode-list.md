@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/401-john-mearsheimer/">#401</a></td>
+			<td>John Mearsheimer</td>
+			<td>17-Nov-23</td>
+		</tr>
+		<tr>
+			<td><a href="/400-elon-musk/">#400</a></td>
+			<td>Elon Musk</td>
+			<td>09-Oct-23</td>
+		</tr>
+		<tr>
 			<td><a href="/399-jared-kushner/">#399</a></td>
 			<td>Jared Kushner</td>
 			<td>11-Oct-23</td>
