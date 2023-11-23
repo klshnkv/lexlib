@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #131:
 
-1. **[The Rise and Fall of the Third Reich: A History of Nazi Germany](https://amzn.to/3ul02am)** by William L. Shirer
+1. <b><a href="https://amzn.to/3ul02am" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich: A History of Nazi Germany</a></b> by William L. Shirer
+
+<!--more-->
 
 Christopher Arthur Lattner is an American software engineer, former Google and Tesla employee and co-founder of LLVM, Clang compiler, MLIR compiler infrastructure and the Swift programming language. As of 2022, he is the co-founder and CEO at Modular AI, an artificial intelligence platform for developers. [Wikipedia](https://en.wikipedia.org/wiki/Chris_Lattner)
 

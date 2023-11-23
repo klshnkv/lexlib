@@ -12,13 +12,15 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #149:
 
-1. **[Heaven Can Wait: Purgatory in Catholic Devotional and Popular Culture](https://amzn.to/3Hbe4TH)** by Diana Walsh Pasulka
-2. **[American Cosmic: UFOs, Religion, Technology](https://amzn.to/3VzmcBz)** by Diana Walsh Pasulka
-3. **[The Gay Science](https://amzn.to/3upB2il)** by Friedrich Nietzsche
-4. **[The Singularity Is Near](https://amzn.to/3h8yYbd)** by Ray Kurzweil
-5. **[Eichmann in Jerusalem: A Report on the Banality of Evil](https://amzn.to/3uqWROo)** by Hannah Arendt
-6. **[The Life of the Mind](https://amzn.to/3F9vbTd)** by Hannah Arendt
-7. [**Authors of the Impossible: The Paranormal and the Sacred**](https://amzn.to/3h7dtrt) by Professor Jeffrey J. Kripal
+1. <b><a href="https://amzn.to/3Hbe4TH" target="_blank" rel="sponsored noopener noreferrer">Heaven Can Wait: Purgatory in Catholic Devotional and Popular Culture</a></b> by Diana Walsh Pasulka
+2. <b><a href="https://amzn.to/3VzmcBz" target="_blank" rel="sponsored noopener noreferrer">American Cosmic: UFOs, Religion, Technology</a></b> by Diana Walsh Pasulka
+3. <b><a href="https://amzn.to/3upB2il" target="_blank" rel="sponsored noopener noreferrer">The Gay Science</a></b> by Friedrich Nietzsche
+4. <b><a href="https://amzn.to/3h8yYbd" target="_blank" rel="sponsored noopener noreferrer">The Singularity Is Near</a></b> by Ray Kurzweil
+5. <b><a href="https://amzn.to/3uqWROo" target="_blank" rel="sponsored noopener noreferrer">Eichmann in Jerusalem: A Report on the Banality of Evil</a></b> by Hannah Arendt
+6. <b><a href="https://amzn.to/3F9vbTd" target="_blank" rel="sponsored noopener noreferrer">The Life of the Mind</a></b> by Hannah Arendt
+7. <b><a href="https://amzn.to/3h7dtrt" target="_blank" rel="sponsored noopener noreferrer">Authors of the Impossible: The Paranormal and the Sacred</a></b> by Professor Jeffrey J. Kripal
+
+<!--more-->
 
 Diana Walsh Pasulka is a writer and professor of religious studies at the University of North Carolina Wilmington and Chair of the Department of Philosophy and Religion. [Wikipedia](https://en.wikipedia.org/wiki/Diana_Walsh_Pasulka)
 

@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #130:
 
-1. **[Books by Roger Penrose](https://amzn.to/3VoB2ee)**
-2. [**The Rise and Fall of the Third Reich: A History of Nazi Germany**](https://amzn.to/3uja0sW) by William L. Shirer
+1. <b><a href="https://amzn.to/3VoB2ee" target="_blank" rel="sponsored noopener noreferrer">Books by Roger Penrose</a></b>
+2. <b><a href="https://amzn.to/3uja0sW" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich: A History of Nazi Germany</a></b> by William L. Shirer
+
+<!--more-->
 
 Scott Joel Aaronson is an American theoretical computer scientist and David J. Bruton Jr. Centennial Professor of Computer Science at the University of Texas at Austin. His primary areas of research are quantum computing and computational complexity theory. [Wikipedia](https://en.wikipedia.org/wiki/Scott_Aaronson)
 

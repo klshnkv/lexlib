@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #148:
 
-1. **[Machine Learning](https://amzn.to/3h6Mnkb)** by Tom M. Mitchell
-2. **[The Martian](https://amzn.to/3P7VdLi)** by Andy Weir
-3. **[Calculating God](https://amzn.to/3h154Wo)** by Robert J. Sawyer
+1. <b><a href="https://amzn.to/3h6Mnkb" target="_blank" rel="sponsored noopener noreferrer">Machine Learning</a></b> by Tom M. Mitchell
+2. <b><a href="https://amzn.to/3P7VdLi" target="_blank" rel="sponsored noopener noreferrer">The Martian</a></b> by Andy Weir
+3. <b><a href="https://amzn.to/3h154Wo" target="_blank" rel="sponsored noopener noreferrer">Calculating God</a></b> by Robert J. Sawyer
+
+<!--more-->
 
 Charles Lee Isbell Jr. is an American computationalist, researcher, and educator. He has been a professor in the Georgia Institute of Technology College of Computing since 2002, and since July 2019 is the John P. Imlay, Jr. Dean of the College. [Wikipedia](https://en.wikipedia.org/wiki/Charles_Lee_Isbell_Jr.)
 

@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #134:
 
-1. **[Maximum City: Bombay Lost and Found](https://amzn.to/3uhpihG)** by Suketu Mehta
+1. <b><a href="https://amzn.to/3uhpihG" target="_blank" rel="sponsored noopener noreferrer">Maximum City: Bombay Lost and Found</a></b> by Suketu Mehta
+
+<!--more-->
 
 Eric Ross Weinstein is an American hedge fund director and podcast host. He was the joint managing director for Thiel Capital from 2013 until 2022. He has a PhD in mathematical physics from Harvard. [Wikipedia](https://en.wikipedia.org/wiki/Eric_Weinstein)
 

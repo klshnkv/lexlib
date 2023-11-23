@@ -12,16 +12,18 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #121:
 
-1. **[The Rise and Fall of the Third Reich: A History of Nazi Germany](https://amzn.to/3ViCizF)** by William L. Shirer
-2. **[The Denial of Death](https://amzn.to/3OSlTPN)** by Ernest Becker
-3. **[The Worm at the Core: On the Role of Death in Life](https://amzn.to/3gLdcdF)** by Sheldon Solomon, Jeff Greenberg, Tom Pyszczynski
-4. **[Can’t Hurt Me: Master Your Mind and Defy the Odds](https://amzn.to/3VcNdL3)** by David Goggins
-5. **[The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive](https://amzn.to/3OMmZN8)** by Brian Christian
-6. **[The Year of Magical Thinking](https://amzn.to/3iswZPD)** by Joan Didion
-7. **[Gödel, Escher, Bach: An Eternal Golden Braid](https://amzn.to/3uaN6Uz)** by Douglas Hofstadter
-8. **[On Becoming A Person: A Therapist’s View of Psychotherapy](https://amzn.to/3u9zPeS)** by Carl Rogers
-9. **[Tractatus Logico-Philosophicus](https://amzn.to/3AWKOw3)** by Ludwig Wittgenstein
-10. **[In Search of the Miraculous](https://amzn.to/3OOiEZG)** by P. D. Ouspensky
+1. <b><a href="https://amzn.to/3ViCizF" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich: A History of Nazi Germany</a></b> by William L. Shirer
+2. <b><a href="https://amzn.to/3OSlTPN" target="_blank" rel="sponsored noopener noreferrer">The Denial of Death</a></b> by Ernest Becker
+3. <b><a href="https://amzn.to/3gLdcdF" target="_blank" rel="sponsored noopener noreferrer">The Worm at the Core: On the Role of Death in Life</a></b> by Sheldon Solomon, Jeff Greenberg, Tom Pyszczynski
+4. <b><a href="https://amzn.to/3VcNdL3" target="_blank" rel="sponsored noopener noreferrer">Can’t Hurt Me: Master Your Mind and Defy the Odds</a></b> by David Goggins
+5. <b><a href="https://amzn.to/3OMmZN8" target="_blank" rel="sponsored noopener noreferrer">The Most Human Human: What Talking with Computers Teaches Us About What It Means to Be Alive</a></b> by Brian Christian
+6. <b><a href="https://amzn.to/3iswZPD" target="_blank" rel="sponsored noopener noreferrer">The Year of Magical Thinking</a></b> by Joan Didion
+7. <b><a href="https://amzn.to/3uaN6Uz" target="_blank" rel="sponsored noopener noreferrer">Gödel, Escher, Bach: An Eternal Golden Braid</a></b> by Douglas Hofstadter
+8. <b><a href="https://amzn.to/3u9zPeS" target="_blank" rel="sponsored noopener noreferrer">On Becoming A Person: A Therapist’s View of Psychotherapy</a></b> by Carl Rogers
+9. <b><a href="https://amzn.to/3AWKOw3" target="_blank" rel="sponsored noopener noreferrer">Tractatus Logico-Philosophicus</a></b> by Ludwig Wittgenstein
+10. <b><a href="https://amzn.to/3OOiEZG" target="_blank" rel="sponsored noopener noreferrer">In Search of the Miraculous</a></b> by P. D. Ouspensky
+
+<!--more-->
 
 Eugenia Kuyda is the founder and CEO at Replika.
 

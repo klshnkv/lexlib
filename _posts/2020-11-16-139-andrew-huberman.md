@@ -14,10 +14,12 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #139:
 
-1. **[Deep Work: Rules for Focused Success in a Distracted World](https://amzn.to/3upX04O)** by Cal Newport
-2. **[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence](https://amzn.to/3VS6QI2)** by Michael Pollan
-3. **[Winston Churchill’s Afternoon Nap: A Wide-Awake Inquiry Into the Human Nature of Time](https://amzn.to/3H8qifC)** by Jeremy Campbell
-4. **[Man’s Search for Meaning](https://amzn.to/3gZC41a)** by Viktor Frankl
+1. <b><a href="https://amzn.to/3upX04O" target="_blank" rel="sponsored noopener noreferrer">Deep Work: Rules for Focused Success in a Distracted World</a></b> by Cal Newport
+2. <b><a href="https://amzn.to/3VS6QI2" target="_blank" rel="sponsored noopener noreferrer">How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence</a></b> by Michael Pollan
+3. <b><a href="https://amzn.to/3H8qifC" target="_blank" rel="sponsored noopener noreferrer">Winston Churchill’s Afternoon Nap: A Wide-Awake Inquiry Into the Human Nature of Time</a></b> by Jeremy Campbell
+4. <b><a href="https://amzn.to/3gZC41a" target="_blank" rel="sponsored noopener noreferrer">Man’s Search for Meaning</a></b> by Viktor Frankl
+
+<!--more-->
 
 Andrew D. Huberman is an American neuroscientist and tenured associate professor in the Department of Neurobiology at the Stanford University School of Medicine who has made contributions to the brain development, brain plasticity, and neural regeneration and repair fields. [Wikipedia](https://en.wikipedia.org/wiki/Andrew_D._Huberman)
 

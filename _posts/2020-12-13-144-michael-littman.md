@@ -12,12 +12,14 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #144:
 
-1. **[Reinforcement Learning: An Introduction](https://amzn.to/3VUFO35)** by Andrew Barto, Richard S. Sutton
-2. **[Artificial Intelligence: A Modern Approach](https://amzn.to/3Fr4ECd)** by Peter Norvig, Stuart J. Russell
-3. **[Program or Be Programmed: Ten Commands for a Digital Age](https://amzn.to/3iqYvwD)** by Douglas Rushkoff
-4. **[The Alignment Problem: Machine Learning and Human Values](https://amzn.to/3Fsdz6s)** by Brian Christian
-5. **[Exhalation](https://amzn.to/3XZukwK)** by Ted Chiang
-6. **[The Hitchhiker’s Guide to the Galaxy](https://amzn.to/3usVC1f)** by Douglas Adams
+1. <b><a href="https://amzn.to/3VUFO35" target="_blank" rel="sponsored noopener noreferrer">Reinforcement Learning: An Introduction</a></b> by Andrew Barto, Richard S. Sutton
+2. <b><a href="https://amzn.to/3Fr4ECd" target="_blank" rel="sponsored noopener noreferrer">Artificial Intelligence: A Modern Approach</a></b> by Peter Norvig, Stuart J. Russell
+3. <b><a href="https://amzn.to/3iqYvwD" target="_blank" rel="sponsored noopener noreferrer">Program or Be Programmed: Ten Commands for a Digital Age</a></b> by Douglas Rushkoff
+4. <b><a href="https://amzn.to/3Fsdz6s" target="_blank" rel="sponsored noopener noreferrer">The Alignment Problem: Machine Learning and Human Values</a></b> by Brian Christian
+5. <b><a href="https://amzn.to/3XZukwK" target="_blank" rel="sponsored noopener noreferrer">Exhalation</a></b> by Ted Chiang
+6. <b><a href="https://amzn.to/3usVC1f" target="_blank" rel="sponsored noopener noreferrer">The Hitchhiker’s Guide to the Galaxy</a></b> by Douglas Adams
+
+<!--more-->
 
 Michael Lederman Littman is a computer scientist. He works mainly in reinforcement learning, but has done work in machine learning, game theory, computer networking, partially observable Markov decision process solving, computer solving of analogy problems and other areas. [Wikipedia](https://en.wikipedia.org/wiki/Michael_L._Littman)
 

@@ -14,11 +14,13 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #124:
 
-1. **[A New Kind of Science](https://amzn.to/3XNfTft)** by Stephen Wolfram
-2. **[A Project to Find the Fundamental Theory of Physics](https://amzn.to/3OSdfky)** by Stephen Wolfram
-3. **[The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://amzn.to/3XJp7Ju)** by Walter Isaacson
-4. **[Euclid’s Elements](https://amzn.to/3ucw08F)** by Euclid
-5. **[Lost in Math: How Beauty Leads Physics Astray](https://amzn.to/3XF5u5v)** by Sabine Hossenfelder
+1. <b><a href="https://amzn.to/3XNfTft" target="_blank" rel="sponsored noopener noreferrer">A New Kind of Science</a></b> by Stephen Wolfram
+2. <b><a href="https://amzn.to/3OSdfky" target="_blank" rel="sponsored noopener noreferrer">A Project to Find the Fundamental Theory of Physics</a></b> by Stephen Wolfram
+3. <b><a href="https://amzn.to/3XJp7Ju" target="_blank" rel="sponsored noopener noreferrer">The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution</a></b> by Walter Isaacson
+4. <b><a href="https://amzn.to/3ucw08F" target="_blank" rel="sponsored noopener noreferrer">Euclid’s Elements</a></b> by Euclid
+5. <b><a href="https://amzn.to/3XF5u5v" target="_blank" rel="sponsored noopener noreferrer">Lost in Math: How Beauty Leads Physics Astray</a></b> by Sabine Hossenfelder
+
+<!--more-->
 
 Stephen Wolfram is a British-American computer scientist, physicist, and businessman. He is known for his work in computer science, mathematics, and theoretical physics. In 2012, he was named a fellow of the American Mathematical Society. [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wolfram)
 

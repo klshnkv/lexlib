@@ -14,14 +14,16 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #150:
 
-1. **[Dear Reader: The Unauthorized Autobiography of Kim Jong Il](https://amzn.to/3F5kIYL)** by Michael Malice
-2. **[The New Right: A Journey to the Fringe of American Politics](https://amzn.to/3VZBMGJ)** by Michael Malice
-3. **[Concierge Confidential: The Secrets of Serving Champagne Bitches and Caviar Queens](https://amzn.to/3VZxrDn)** by Michael Fazio, Michael Malice
-4. **[The Myth of Sisyphus](https://amzn.to/3uqUV8y)** by Albert Camus
-5. **[Beyond Belief: The American Press And The Coming Of The Holocaust](https://amzn.to/3BehEZv)** by Deborah E. Lipstadt
-6. **[Red Famine: Stalin’s War on Ukraine](https://amzn.to/3VZxzCR)** by Anne Applebaum
-7. **[Buried by the Times: The Holocaust and America’s Most Important Newspaper](https://amzn.to/3XYAzRD)** by Laurel Leff
-8. **[Blitzed: Drugs in the Third Reich](https://amzn.to/3UD1iQG)** by Norman Ohler
+1. <b><a href="https://amzn.to/3F5kIYL" target="_blank" rel="sponsored noopener noreferrer">Dear Reader: The Unauthorized Autobiography of Kim Jong Il</a></b> by Michael Malice
+2. <b><a href="https://amzn.to/3VZBMGJ" target="_blank" rel="sponsored noopener noreferrer">The New Right: A Journey to the Fringe of American Politics</a></b> by Michael Malice
+3. <b><a href="https://amzn.to/3VZxrDn" target="_blank" rel="sponsored noopener noreferrer">Concierge Confidential: The Secrets of Serving Champagne Bitches and Caviar Queens</a></b> by Michael Fazio, Michael Malice
+4. <b><a href="https://amzn.to/3uqUV8y" target="_blank" rel="sponsored noopener noreferrer">The Myth of Sisyphus</a></b> by Albert Camus
+5. <b><a href="https://amzn.to/3BehEZv" target="_blank" rel="sponsored noopener noreferrer">Beyond Belief: The American Press And The Coming Of The Holocaust</a></b> by Deborah E. Lipstadt
+6. <b><a href="https://amzn.to/3VZxzCR" target="_blank" rel="sponsored noopener noreferrer">Red Famine: Stalin’s War on Ukraine</a></b> by Anne Applebaum
+7. <b><a href="https://amzn.to/3XYAzRD" target="_blank" rel="sponsored noopener noreferrer">Buried by the Times: The Holocaust and America’s Most Important Newspaper</a></b> by Laurel Leff
+8. <b><a href="https://amzn.to/3UD1iQG" target="_blank" rel="sponsored noopener noreferrer">Blitzed: Drugs in the Third Reich</a></b> by Norman Ohler
+
+<!--more-->
 
 Michael Krechmer, better known as Michael Malice, is a Ukrainian-American author, and podcaster. He is the host of “YOUR WELCOME”, a video podcast which airs on Podcast One. Malice’s early life was the subject of Harvey Pekar’s 2006 biography Ego &amp; Hubris: The Michael Malice Story. [Wikipedia](https://en.wikipedia.org/wiki/Michael_Malice)
 

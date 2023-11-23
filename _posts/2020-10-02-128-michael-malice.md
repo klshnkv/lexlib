@@ -14,18 +14,20 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #128:
 
-1. **[The New Right: A Journey to the Fringe of American Politics](https://amzn.to/3Um2pnJ)** by Michael Malice
-2. **[Dear Reader: The Unauthorized Autobiography of Kim Jong Il](https://amzn.to/3Vmvy3K)** by Michael Malice
-3. **[Ostracism: The Power of Silence](https://amzn.to/3iuQ6Iu)** by Kipling D. Williams
-4. **[The Crowd: A Study of the Popular Mind](https://amzn.to/3gSkiwY)** by Gustave Le Bon
-5. **[The Idea of Decline in Western History](https://amzn.to/3B2Rb0C)** by Arthur Herman
-6. **[The Red Decade: The Classic Work on Communism in America During the Thirties](https://amzn.to/3Um5rsf)** by Eugene Lyons
-7. **[Revolution 1989: The Fall of the Soviet Empire](https://amzn.to/3ORuL8i)** by Victor Sebestyen
-8. **[A Return to Love: Reflections on the Principles of A Course in Miracles](https://amzn.to/3ij7boK)** by Marianne Williamson
-9. **[Their Eyes Were Watching God](https://amzn.to/3VmupZH)** by Zora Neale Hurston
-10. **[The Machiavellians: Defenders of Freedom](https://amzn.to/3B2sy4m)** by James Burnham
-11. **[The Fountainhead](https://amzn.to/3OTJLTh)** by Ayn Rand
-12. **[A Renegade History of the United States](https://amzn.to/3H1xVEA)** by Thaddeus Russell
+1. <b><a href="https://amzn.to/3Um2pnJ" target="_blank" rel="sponsored noopener noreferrer">The New Right: A Journey to the Fringe of American Politics</a></b> by Michael Malice
+2. <b><a href="https://amzn.to/3Vmvy3K" target="_blank" rel="sponsored noopener noreferrer">Dear Reader: The Unauthorized Autobiography of Kim Jong Il</a></b> by Michael Malice
+3. <b><a href="https://amzn.to/3iuQ6Iu" target="_blank" rel="sponsored noopener noreferrer">Ostracism: The Power of Silence</a></b> by Kipling D. Williams
+4. <b><a href="https://amzn.to/3gSkiwY" target="_blank" rel="sponsored noopener noreferrer">The Crowd: A Study of the Popular Mind</a></b> by Gustave Le Bon
+5. <b><a href="https://amzn.to/3B2Rb0C" target="_blank" rel="sponsored noopener noreferrer">The Idea of Decline in Western History</a></b> by Arthur Herman
+6. <b><a href="https://amzn.to/3Um5rsf" target="_blank" rel="sponsored noopener noreferrer">The Red Decade: The Classic Work on Communism in America During the Thirties</a></b> by Eugene Lyons
+7. <b><a href="https://amzn.to/3ORuL8i" target="_blank" rel="sponsored noopener noreferrer">Revolution 1989: The Fall of the Soviet Empire</a></b> by Victor Sebestyen
+8. <b><a href="https://amzn.to/3ij7boK" target="_blank" rel="sponsored noopener noreferrer">A Return to Love: Reflections on the Principles of A Course in Miracles</a></b> by Marianne Williamson
+9. <b><a href="https://amzn.to/3VmupZH" target="_blank" rel="sponsored noopener noreferrer">Their Eyes Were Watching God</a></b> by Zora Neale Hurston
+10. <b><a href="https://amzn.to/3B2sy4m" target="_blank" rel="sponsored noopener noreferrer">The Machiavellians: Defenders of Freedom</a></b> by James Burnham
+11. <b><a href="https://amzn.to/3OTJLTh" target="_blank" rel="sponsored noopener noreferrer">The Fountainhead</a></b> by Ayn Rand
+12. <b><a href="https://amzn.to/3H1xVEA" target="_blank" rel="sponsored noopener noreferrer">A Renegade History of the United States</a></b> by Thaddeus Russell
+
+<!--more-->
 
 Michael Krechmer, better known as Michael Malice, is a Ukrainian-American author, and podcaster. He is the host of “YOUR WELCOME”, a video podcast which airs on Podcast One. Malice’s early life was the subject of Harvey Pekar’s 2006 biography Ego &amp; Hubris: The Michael Malice Story. [Wikipedia](https://en.wikipedia.org/wiki/Michael_Malice)
 

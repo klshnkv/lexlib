@@ -12,11 +12,13 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #147:
 
-1. **[The Master and Margarita](https://amzn.to/3uumOg2)** by Mikhail Bulgakov
-2. **[The Snail on the Slope](https://amzn.to/3uqD5mf)** by Arkady Strugatsky
-3. **[1984](https://amzn.to/3utxPOA)** by George Orwell
-4. **[Animal Farm](https://amzn.to/3FxjiIg)** by George Orwell
-5. **[The Last Question](https://amzn.to/3F5W2j4)** by Isaac Asimov
+1. <b><a href="https://amzn.to/3uumOg2" target="_blank" rel="sponsored noopener noreferrer">The Master and Margarita</a></b> by Mikhail Bulgakov
+2. <b><a href="https://amzn.to/3uqD5mf" target="_blank" rel="sponsored noopener noreferrer">The Snail on the Slope</a></b> by Arkady Strugatsky
+3. <b><a href="https://amzn.to/3utxPOA" target="_blank" rel="sponsored noopener noreferrer">1984</a></b> by George Orwell
+4. <b><a href="https://amzn.to/3FxjiIg" target="_blank" rel="sponsored noopener noreferrer">Animal Farm</a></b> by George Orwell
+5. <b><a href="https://amzn.to/3F5W2j4" target="_blank" rel="sponsored noopener noreferrer">The Last Question</a></b> by Isaac Asimov
+
+<!--more-->
 
 Dmitri Dolgov is a Russian-American engineer who is the co-chief executive officer of Waymo. Previously, he worked on self-driving cars at Toyota and at Stanford University for the DARPA Grand Challenge. [Wikipedia](https://en.wikipedia.org/wiki/Dmitri_Dolgov)
 

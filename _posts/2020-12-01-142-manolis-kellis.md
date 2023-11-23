@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #142:
 
-1. **[Contact](https://amzn.to/3F2duVx)** by Carl Sagan
-2. [**The Hitchhiker’s Guide to the Galaxy**](https://amzn.to/3XWgVWs) by Douglas Adams
+1. <b><a href="https://amzn.to/3F2duVx" target="_blank" rel="sponsored noopener noreferrer">Contact</a></b> by Carl Sagan
+2. <b><a href="https://amzn.to/3XWgVWs" target="_blank" rel="sponsored noopener noreferrer">The Hitchhiker’s Guide to the Galaxy</a></b> by Douglas Adams
+
+<!--more-->
 
 Manolis Kellis is a professor of Computer Science at the Massachusetts Institute of Technology in the area of Computational Biology and a member of the Broad Institute of MIT and Harvard. [Wikipedia](https://en.wikipedia.org/wiki/Manolis_Kellis)
 

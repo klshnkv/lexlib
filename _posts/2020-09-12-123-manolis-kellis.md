@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #123:
 
-1. **[Man’s Search for Meaning](https://amzn.to/3AUzFfe)** by Viktor E. Frankl
+1. <b><a href="https://amzn.to/3AUzFfe" target="_blank" rel="sponsored noopener noreferrer">Man’s Search for Meaning</a></b> by Viktor E. Frankl
+
+<!--more-->
 
 Manolis Kellis is a professor of Computer Science at the Massachusetts Institute of Technology in the area of Computational Biology and a member of the Broad Institute of MIT and Harvard. [Wikipedia](https://en.wikipedia.org/wiki/Manolis_Kellis)
 
