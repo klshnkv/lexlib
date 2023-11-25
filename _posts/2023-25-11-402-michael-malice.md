@@ -1,7 +1,6 @@
 ---
-id: 772
 title: '#402 – Michael Malice'
-date: '2022-11-25T22:01:19+00:00'
+date: '2023-11-25'
 author: librarian
 layout: post
 permalink: /402-michael-malice/
@@ -25,6 +24,8 @@ Books mentioned on Lex Fridman Podcast #402:
 12. <b><a href="https://amzn.to/49PRs71" target="_blank" rel="sponsored noopener noreferrer"> 1984 </a></b> by George Orwell
 13. <b><a href="https://amzn.to/47Mv9gE" target="_blank" rel="sponsored noopener noreferrer">Animal Farm</a></b> by George Orwell
 14. <b><a href="https://amzn.to/47MvfVy" target="_blank" rel="sponsored noopener noreferrer">The Plague</a></b> by Albert Camus
+
+<!--more-->
 
 Michael Krechmer, better known as Michael Malice, is a Ukrainian-American author, and podcaster. He is the host of “YOUR WELCOME”, a video podcast which airs on Podcast One. Malice’s early life was the subject of Harvey Pekar’s 2006 biography Ego &amp; Hubris: The Michael Malice Story. <a href="https://en.wikipedia.org/wiki/Michael_Malice" target="_blank">Wikipedia</a>
 
