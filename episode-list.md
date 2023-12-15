@@ -20,6 +20,26 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/405-jeff-bezos/">#405</a></td>
+			<td>Jeff Bezos</td>
+			<td>14-Dec-23</td>
+		</tr>
+		<tr>
+			<td><a href="/404-lee-cronin/">#404</a></td>
+			<td>Lee Cronin</td>
+			<td>9-Dec-23</td>
+		</tr>
+		<tr>
+			<td><a href="/403-lisa-randall/">#403</a></td>
+			<td>Lisa Randall</td>
+			<td>3-Dec-23</td>
+		</tr>
+		<tr>
+			<td><a href="/402-michael-malice/">#402</a></td>
+			<td>Michael Malice</td>
+			<td>25-Nov-23</td>
+		</tr>
+		<tr>
 			<td><a href="/401-john-mearsheimer/">#401</a></td>
 			<td>John Mearsheimer</td>
 			<td>17-Nov-23</td>
