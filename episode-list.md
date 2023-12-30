@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/407-guillaume-verdon/">#407</a></td>
+			<td>Guillaume Verdon</td>
+			<td>29-Dec-23</td>
+		</tr>
+		<tr>
+			<td><a href="/406-teddy-atlas/">#406</a></td>
+			<td>Teddy Atlas</td>
+			<td>24-Dec-23</td>
+		</tr>
+		<tr>
 			<td><a href="/405-jeff-bezos/">#405</a></td>
 			<td>Jeff Bezos</td>
 			<td>14-Dec-23</td>
