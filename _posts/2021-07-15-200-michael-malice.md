@@ -14,11 +14,13 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #200:
 
-1. **[Animal Farm](https://amzn.to/3GeqiK5)** by George Orwell
-2. **[My Disillusionment in Russia](https://amzn.to/3VAGbzj)** by Emma Goldman
-3. **[Five Chimneys: A Woman Survivor’s True Story of Auschwitz](https://amzn.to/3FTIh7t)** by Olga Lengyel
-4. **[The Anarchist Handbook](https://amzn.to/3WDDmy3)** by Michael Malice
-5. **[The War on Small Business: How the Government Used the Pandemic to Crush the Backbone of America](https://amzn.to/3vaen9X)** by Carol Roth
+1. <b><a href="https://amzn.to/3GeqiK5" target="_blank" rel="sponsored noopener noreferrer">Animal Farm</a></b> by George Orwell
+2. <b><a href="https://amzn.to/3VAGbzj" target="_blank" rel="sponsored noopener noreferrer">My Disillusionment in Russia</a></b> by Emma Goldman
+3. <b><a href="https://amzn.to/3FTIh7t" target="_blank" rel="sponsored noopener noreferrer">Five Chimneys: A Woman Survivor’s True Story of Auschwitz</a></b> by Olga Lengyel
+4. <b><a href="https://amzn.to/3WDDmy3" target="_blank" rel="sponsored noopener noreferrer">The Anarchist Handbook</a></b> by Michael Malice
+5. <b><a href="https://amzn.to/3vaen9X" target="_blank" rel="sponsored noopener noreferrer">The War on Small Business: How the Government Used the Pandemic to Crush the Backbone of America</a></b> by Carol Roth
+
+<!--more-->
 
 Michael Krechmer, better known as Michael Malice, is a Ukrainian-American author, and podcaster. He is the host of “YOUR WELCOME” with Michael Malice, a video podcast which airs on Podcast One. Malice’s early life was the subject of Harvey Pekar’s 2006 biography Ego &amp; Hubris: The Michael Malice Story. [Wikipedia](https://en.wikipedia.org/wiki/Michael_Malice)
 

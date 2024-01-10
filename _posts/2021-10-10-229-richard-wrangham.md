@@ -12,10 +12,12 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #229:
 
-1. **[On Aggression](https://amzn.to/3WgswgW)** by Konrad Lorenz
-2. **[Enlightenment Now: The Case for Reason, Science, Humanism, and Progress](https://amzn.to/3ZyO2jT)** by Steven Pinker
-3. **[The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human Evolution](https://amzn.to/3X7yylg)** by Richard Wrangham
-4. **[Catching Fire: How Cooking Made Us Human](https://amzn.to/3X7yJwW)** by Richard Wrangham
+1. <b><a href="https://amzn.to/3WgswgW" target="_blank" rel="sponsored noopener noreferrer">On Aggression</a></b> by Konrad Lorenz
+2. <b><a href="https://amzn.to/3ZyO2jT" target="_blank" rel="sponsored noopener noreferrer">Enlightenment Now: The Case for Reason, Science, Humanism, and Progress</a></b> by Steven Pinker
+3. <b><a href="https://amzn.to/3X7yylg" target="_blank" rel="sponsored noopener noreferrer">The Goodness Paradox: The Strange Relationship Between Virtue and Violence in Human Evolution</a></b> by Richard Wrangham
+4. <b><a href="https://amzn.to/3X7yJwW" target="_blank" rel="sponsored noopener noreferrer">Catching Fire: How Cooking Made Us Human</a></b> by Richard Wrangham
+
+<!--more-->
 
 Richard Walter Wrangham is an English anthropologist and primatologist; he is Professor of Biological Anthropology at Harvard University. His research and writing have involved ape behavior, human evolution, violence, and cooking. [Wikipedia](https://en.wikipedia.org/wiki/Richard_Wrangham)
 

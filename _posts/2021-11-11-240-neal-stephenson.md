@@ -12,15 +12,17 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #240:
 
-1. **[Snow Crash](https://amzn.to/3GVQvMQ)** by Neal Stephenson
-2. **[The Diamond Age: Or, a Young Lady’s Illustrated Primer](https://amzn.to/3DyfncP)** by Neal Stephenson
-3. **[Termination Shock](https://amzn.to/3XPzSt0)** by Neal Stephenson
-4. **[The Gulag Archipelago](https://amzn.to/3H5dSn4)** by Aleksandr Solzhenitsyn
-5. **[Moby Dick](https://amzn.to/3XVtfFp)** by Herman Melville
-6. **[Have Space Suit, Will Travel](https://amzn.to/3WwYXb5)** by Robert A. Heinlein
-7. **[Gravitation](https://amzn.to/409Qs94)** by Charles W. Misner, Kip S. Thorne, John Archibald Wheeler
-8. **[The Road to Reality: A Complete Guide to the Laws of the Universe](https://amzn.to/3j8aRue)** by Roger Penrose
-9. **[The Beginning of Infinity: Explanations That Transform the World](https://amzn.to/3j1V8gs)** by David Deutsch
+1. <b><a href="https://amzn.to/3GVQvMQ" target="_blank" rel="sponsored noopener noreferrer">Snow Crash</a></b> by Neal Stephenson
+2. <b><a href="https://amzn.to/3DyfncP" target="_blank" rel="sponsored noopener noreferrer">The Diamond Age: Or, a Young Lady’s Illustrated Primer</a></b> by Neal Stephenson
+3. <b><a href="https://amzn.to/3XPzSt0" target="_blank" rel="sponsored noopener noreferrer">Termination Shock</a></b> by Neal Stephenson
+4. <b><a href="https://amzn.to/3H5dSn4" target="_blank" rel="sponsored noopener noreferrer">The Gulag Archipelago</a></b> by Aleksandr Solzhenitsyn
+5. <b><a href="https://amzn.to/3XVtfFp" target="_blank" rel="sponsored noopener noreferrer">Moby Dick</a></b> by Herman Melville
+6. <b><a href="https://amzn.to/3WwYXb5" target="_blank" rel="sponsored noopener noreferrer">Have Space Suit, Will Travel</a></b> by Robert A. Heinlein
+7. <b><a href="https://amzn.to/409Qs94" target="_blank" rel="sponsored noopener noreferrer">Gravitation</a></b> by Charles W. Misner, Kip S. Thorne, John Archibald Wheeler
+8. <b><a href="https://amzn.to/3j8aRue" target="_blank" rel="sponsored noopener noreferrer">The Road to Reality: A Complete Guide to the Laws of the Universe</a></b> by Roger Penrose
+9. <b><a href="https://amzn.to/3j1V8gs" target="_blank" rel="sponsored noopener noreferrer">The Beginning of Infinity: Explanations That Transform the World</a></b> by David Deutsch
+
+<!--more-->
 
 Neal Town Stephenson is an American writer known for his works of speculative fiction. His novels have been categorized as science fiction, historical fiction, cyberpunk, postcyberpunk, and baroque. Stephenson’s work explores mathematics, cryptography, linguistics, philosophy, currency, and the history of science. [Wikipedia](https://en.wikipedia.org/wiki/Neal_Stephenson)
 

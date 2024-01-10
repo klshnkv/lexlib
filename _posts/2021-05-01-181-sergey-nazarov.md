@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #181:
 
-1. **[Dialogues of Plato](https://amzn.to/3v3BmDK)** by Plato
-2. **[The First Tycoon: The Epic Life of Cornelius Vanderbilt](https://amzn.to/3FBHmIJ)** by T.J. Stiles
+1. <b><a href="https://amzn.to/3v3BmDK" target="_blank" rel="sponsored noopener noreferrer">Dialogues of Plato</a></b> by Plato
+2. <b><a href="https://amzn.to/3FBHmIJ" target="_blank" rel="sponsored noopener noreferrer">The First Tycoon: The Epic Life of Cornelius Vanderbilt</a></b> by T.J. Stiles
+
+<!--more-->
 
 Sergey Nazarov is the CEO and Co-Founder of Chainlink, a decentralized oracle network that provides data to smart contracts.
 

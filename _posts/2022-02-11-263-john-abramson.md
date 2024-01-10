@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #263:
 
-1. **[Sickening: How Big Pharma Broke American Health Care and How We Can Repair It](https://amzn.to/3DkFvHz)** by John Abramson
-2. **[Overdosed America: The Broken Promise of American Medicine](https://amzn.to/3KcZwDB)** by John Abramson
-3. **[Capitalism and Freedom](https://amzn.to/3OoGM6w)** by Milton Friedman
+1. <b><a href="https://amzn.to/3DkFvHz" target="_blank" rel="sponsored noopener noreferrer">Sickening: How Big Pharma Broke American Health Care and How We Can Repair It</a></b> by John Abramson
+2. <b><a href="https://amzn.to/3KcZwDB" target="_blank" rel="sponsored noopener noreferrer">Overdosed America: The Broken Promise of American Medicine</a></b> by John Abramson
+3. <b><a href="https://amzn.to/3OoGM6w" target="_blank" rel="sponsored noopener noreferrer">Capitalism and Freedom</a></b> by Milton Friedman
+
+<!--more-->
 
 John David Abramson is an American physician and the author of the book Overdosed America: The Broken Promise of American Medicine. He has worked as a family doctor in Appalachia and in Hamilton, Massachusetts, and has served as chairman of the department of family practice at Lahey Clinic. [Wikipedia](https://en.wikipedia.org/wiki/John_Abramson)
 

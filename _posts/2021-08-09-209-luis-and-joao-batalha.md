@@ -12,11 +12,13 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #209:
 
-1. **[The Art of Computer Programming](https://amzn.to/3vmzeXP)** by Donald Knuth
-2. **[Gaming the Metrics: Misconduct and Manipulation in Academic Research](https://amzn.to/3FNOXUy)** by Mario Biagioli, Alexandra Lippman
-3. **[Perfect Rigor: A Genius and the Mathematical Breakthrough of the Century](https://amzn.to/3YOPbTX)** by Masha Gessen
-4. [**The Martian**](https://amzn.to/3VtdcNr) by Andy Weir
-5. **[Artemis](https://amzn.to/3WMt9zD)** by Andy Weir
+1. <b><a href="https://amzn.to/3vmzeXP" target="_blank" rel="sponsored noopener noreferrer">The Art of Computer Programming</a></b> by Donald Knuth
+2. <b><a href="https://amzn.to/3FNOXUy" target="_blank" rel="sponsored noopener noreferrer">Gaming the Metrics: Misconduct and Manipulation in Academic Research</a></b> by Mario Biagioli, Alexandra Lippman
+3. <b><a href="https://amzn.to/3YOPbTX" target="_blank" rel="sponsored noopener noreferrer">Perfect Rigor: A Genius and the Mathematical Breakthrough of the Century</a></b> by Masha Gessen
+4. <b><a href="https://amzn.to/3VtdcNr" target="_blank" rel="sponsored noopener noreferrer">The Martian</a></b> by Andy Weir
+5. <b><a href="https://amzn.to/3WMt9zD" target="_blank" rel="sponsored noopener noreferrer">Artemis</a></b> by Andy Weir
+
+<!--more-->
 
 Luis and Joao Batalha are co-founders of Fermat’s Library.
 

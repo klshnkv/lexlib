@@ -14,10 +14,12 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #178:
 
-1. **[The Case Against Reality: How Evolution Hid the Truth from Our Eyes](https://amzn.to/3W4z1UW)** by Donald D. Hoffman
-2. [**The Romantic Manifesto: A Philosophy of Literature**](https://amzn.to/3W454Es) by Ayn Rand
-3. **[Atlas Shrugged](https://amzn.to/3BF51XB)** by Ayn Rand
-4. **[The Fountainhead](https://amzn.to/3FXyqi7)** by Ayn Rand
+1. <b><a href="https://amzn.to/3W4z1UW" target="_blank" rel="sponsored noopener noreferrer">The Case Against Reality: How Evolution Hid the Truth from Our Eyes</a></b> by Donald D. Hoffman
+2. <b><a href="https://amzn.to/3W454Es" target="_blank" rel="sponsored noopener noreferrer">The Romantic Manifesto: A Philosophy of Literature</a></b> by Ayn Rand
+3. <b><a href="https://amzn.to/3BF51XB" target="_blank" rel="sponsored noopener noreferrer">Atlas Shrugged</a></b> by Ayn Rand
+4. <b><a href="https://amzn.to/3FXyqi7" target="_blank" rel="sponsored noopener noreferrer">The Fountainhead</a></b> by Ayn Rand
+
+<!--more-->
 
 Michael Krechmer, better known as Michael Malice, is a Ukrainian-American author, and podcaster. He is the host of “YOUR WELCOME”, a video podcast which airs on Podcast One. Malice’s early life was the subject of Harvey Pekar’s 2006 biography Ego &amp; Hubris: The Michael Malice Story. [Wikipedia](https://en.wikipedia.org/wiki/Michael_Malice)
 

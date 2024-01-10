@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #237:
 
-1. **[The Big Rig: Trucking and the Decline of the American Dream](https://amzn.to/3w1iIgf)** by Steve Viscelli
+1. <b><a href="https://amzn.to/3w1iIgf" target="_blank" rel="sponsored noopener noreferrer">The Big Rig: Trucking and the Decline of the American Dream</a></b> by Steve Viscelli
+
+<!--more-->
 
 Steve Viscelli is a former truck driver and now an economic sociologist at University of Pennsylvania studying freight transportation, including autonomous trucks.
 

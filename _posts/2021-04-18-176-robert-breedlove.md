@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #176:
 
-1. **[Maps of Meaning: The Architecture of Belief](https://amzn.to/3BBo051)** by Jordan B. Peterson
-2. **[Human Action: A Treatise on Economics](https://amzn.to/3PuLdvI)** by Ludwig Von Mises
-3. **[Lila: An Inquiry Into Morals](https://amzn.to/3BFZtMx)** by Robert M. Pirsig
+1. <b><a href="https://amzn.to/3BBo051" target="_blank" rel="sponsored noopener noreferrer">Maps of Meaning: The Architecture of Belief</a></b> by Jordan B. Peterson
+2. <b><a href="https://amzn.to/3PuLdvI" target="_blank" rel="sponsored noopener noreferrer">Human Action: A Treatise on Economics</a></b> by Ludwig Von Mises
+3. <b><a href="https://amzn.to/3BFZtMx" target="_blank" rel="sponsored noopener noreferrer">Lila: An Inquiry Into Morals</a></b> by Robert M. Pirsig
+
+<!--more-->
 
 Robert Breedlove is a freedom maximalist, ex-hedge fund manager, and philosopher in the Bitcoin space.
 

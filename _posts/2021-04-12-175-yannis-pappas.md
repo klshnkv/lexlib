@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #175:
 
-1. [**The Denial of Death**](https://amzn.to/3BGKUIn) by Ernest Becker
-2. **[Animal Farm](https://amzn.to/3uTqVCA)** by George Orwell
+1. <b><a href="https://amzn.to/3BGKUIn" target="_blank" rel="sponsored noopener noreferrer">The Denial of Death</a></b> by Ernest Becker
+2. <b><a href="https://amzn.to/3uTqVCA" target="_blank" rel="sponsored noopener noreferrer">Animal Farm</a></b> by George Orwell
+
+<!--more-->
 
 Yannis Pappas is an American comedian from Park Slope, Brooklyn, New York. [Wikipedia](https://en.wikipedia.org/wiki/Yannis_Pappas)
 

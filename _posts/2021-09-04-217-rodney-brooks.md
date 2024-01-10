@@ -12,12 +12,14 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #217:
 
-1. **[The How and Why Wonder Book of Electricity](https://amzn.to/3WaoZAS)** by Jerome J Notkin
-2. **[The How and Why Wonder Book of Robots and Electronic Brains](https://amzn.to/3GDX06S)** by Robert Scharff, Denny McMains
-3. **[Not Even Wrong: The Failure of String Theory and the Search for Unity in Physical Law](https://amzn.to/3QA9elv)** by Peter Woit
-4. **[Computation: Finite and Infinite Machines](https://amzn.to/3k8ZiTT)** by Marvin Lee Minsky
-5. **[The Design and Analysis of Computer Algorithms](https://amzn.to/3H41chN)** by Alfred Aho
-6. **[Perceptrons: An Introduction to Computational Geometry](https://amzn.to/3QFUHoA)** by Marvin Minsky, Seymour A. Papert
+1. <b><a href="https://amzn.to/3WaoZAS" target="_blank" rel="sponsored noopener noreferrer">The How and Why Wonder Book of Electricity</a></b> by Jerome J Notkin
+2. <b><a href="https://amzn.to/3GDX06S" target="_blank" rel="sponsored noopener noreferrer">The How and Why Wonder Book of Robots and Electronic Brains</a></b> by Robert Scharff, Denny McMains
+3. <b><a href="https://amzn.to/3QA9elv" target="_blank" rel="sponsored noopener noreferrer">Not Even Wrong: The Failure of String Theory and the Search for Unity in Physical Law</a></b> by Peter Woit
+4. <b><a href="https://amzn.to/3k8ZiTT" target="_blank" rel="sponsored noopener noreferrer">Computation: Finite and Infinite Machines</a></b> by Marvin Lee Minsky
+5. <b><a href="https://amzn.to/3H41chN" target="_blank" rel="sponsored noopener noreferrer">The Design and Analysis of Computer Algorithms</a></b> by Alfred Aho
+6. <b><a href="https://amzn.to/3QFUHoA" target="_blank" rel="sponsored noopener noreferrer">Perceptrons: An Introduction to Computational Geometry</a></b> by Marvin Minsky, Seymour A. Papert
+
+<!--more-->
 
 Rodney Allen Brooks is an Australian roboticist, Fellow of the Australian Academy of Science, author, and robotics entrepreneur, most known for popularizing the actionist approach to robotics. [Wikipedia](https://en.wikipedia.org/wiki/Rodney_Brooks)
 

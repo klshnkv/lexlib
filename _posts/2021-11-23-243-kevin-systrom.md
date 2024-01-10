@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #243:
 
-1. **[Competing Against Luck: The Story of Innovation and Customer Choice](https://amzn.to/3WXYctt)** by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan
+1. <b><a href="https://amzn.to/3WXYctt" target="_blank" rel="sponsored noopener noreferrer">Competing Against Luck: The Story of Innovation and Customer Choice</a></b> by Clayton M. Christensen, Taddy Hall, Karen Dillon, David S. Duncan
+
+<!--more-->
 
 Kevin Systrom is an American computer programmer and entrepreneur. He co-founded Instagram, the world’s largest photo sharing website, along with Mike Krieger. Systrom was included on the list of America’s Richest Entrepreneurs Under 40 2016. [Wikipedia](https://en.wikipedia.org/wiki/Kevin_Systrom)
 

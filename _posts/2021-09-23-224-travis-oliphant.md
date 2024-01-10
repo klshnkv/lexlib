@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #224:
 
-1. **[Guide to NumPy](https://amzn.to/3wqUY5p)** by Travis E. Oliphant
+1. <b><a href="https://amzn.to/3wqUY5p" target="_blank" rel="sponsored noopener noreferrer">Guide to NumPy</a></b> by Travis E. Oliphant
+
+<!--more-->
 
 Travis Oliphant is an American data scientist and businessman. He is a co-founder of NumFOCUS, 501 nonprofit charity in the United States, and sits on its advisory board. He is also a founder of technology startup Anaconda. [Wikipedia](https://en.wikipedia.org/wiki/Travis_Oliphant)
 

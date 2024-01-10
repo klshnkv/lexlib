@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #216:
 
-1. **[The Plague](https://amzn.to/3D8RxUP)** by Albert Camus
+1. <b><a href="https://amzn.to/3D8RxUP" target="_blank" rel="sponsored noopener noreferrer">The Plague</a></b> by Albert Camus
+
+<!--more-->
 
 Vincent R. Racaniello is a Higgins Professor in the Department of Microbiology and Immunology at Columbia University’s College of Physicians and Surgeons. He is a co-author of a textbook on virology, Principles of Virology. [Wikipedia](https://en.wikipedia.org/wiki/Vincent_Racaniello)
 

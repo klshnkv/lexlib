@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #197:
 
-1. **[About Face: The Odyssey of an American Warrior](https://amzn.to/3HTANUw)** by Colonel David H. Hackworth, Julie Sherman
+1. <b><a href="https://amzn.to/3HTANUw" target="_blank" rel="sponsored noopener noreferrer">About Face: The Odyssey of an American Warrior</a></b> by Colonel David H. Hackworth, Julie Sherman
+
+<!--more-->
 
 John Gretton “Jocko” Willink is an American author, podcaster, and retired United States Navy officer who served in the Navy SEALs and is a former member of SEAL Team 3. [Wikipedia](https://en.wikipedia.org/wiki/Jocko_Willink)
 

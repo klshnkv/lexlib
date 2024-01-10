@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #157:
 
-1. **[Tender Is the Night](https://amzn.to/3Bkkb4i)** by F. Scott Fitzgerald
-2. **[The Beginning of Infinity: Explanations That Transform the World](https://amzn.to/3VHD60T)** by David Deutsch
-3. **[Harry Potter](https://amzn.to/3iOqnuL)** by J.K. Rowling
+1. <b><a href="https://amzn.to/3Bkkb4i" target="_blank" rel="sponsored noopener noreferrer">Tender Is the Night</a></b> by F. Scott Fitzgerald
+2. <b><a href="https://amzn.to/3VHD60T" target="_blank" rel="sponsored noopener noreferrer">The Beginning of Infinity: Explanations That Transform the World</a></b> by David Deutsch
+3. <b><a href="https://amzn.to/3iOqnuL" target="_blank" rel="sponsored noopener noreferrer">Harry Potter</a></b> by J.K. Rowling
+
+<!--more-->
 
 Natalya Bailey is the CEO and co-founder at Accion Systems, which provides in-space propulsion engines for satellites and spacecraft.
 

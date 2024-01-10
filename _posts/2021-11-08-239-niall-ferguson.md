@@ -12,16 +12,18 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #239:
 
-1. **[The Age of AI: And Our Human Future](https://amzn.to/3ZEDK1S)** by Henry A Kissinger, Eric Schmidt, Daniel Huttenlocher
-2. **[The Ascent of Money: A Financial History of the World](https://amzn.to/3ZAONsF)** by Niall Ferguson
-3. **[Blueprint: The Evolutionary Origins of a Good Society](https://amzn.to/3ZCag4q)** by Nicholas A. Christakis
-4. **[Doom: The Politics of Catastrophe](https://amzn.to/3IQ0W7l)** by Niall Ferguson
-5. **[The Pity Of War: Explaining World War I](https://amzn.to/3knJmgs)** by Niall Ferguson
-6. **[The Road Less Traveled: The Secret Battle to End the Great War, 1916-1917](https://amzn.to/3QFca0i)** by Philip D. Zelikow
-7. **[Kissinger: 1923-1968: The Idealist](https://amzn.to/3QL9RIZ)** by Niall Ferguson
-8. **[Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic](https://amzn.to/3Hol3It)** by Scott Gottlieb
-9. **[The Square and the Tower: Networks and Power, from the Freemasons to Facebook](https://amzn.to/3kyAcxX)** by Niall Ferguson
-10. **[The Captive Mind](https://amzn.to/3kyrC29)** by Czeslaw Milosz
+1. <b><a href="https://amzn.to/3ZEDK1S" target="_blank" rel="sponsored noopener noreferrer">The Age of AI: And Our Human Future</a></b> by Henry A Kissinger, Eric Schmidt, Daniel Huttenlocher
+2. <b><a href="https://amzn.to/3ZAONsF" target="_blank" rel="sponsored noopener noreferrer">The Ascent of Money: A Financial History of the World</a></b> by Niall Ferguson
+3. <b><a href="https://amzn.to/3ZCag4q" target="_blank" rel="sponsored noopener noreferrer">Blueprint: The Evolutionary Origins of a Good Society</a></b> by Nicholas A. Christakis
+4. <b><a href="https://amzn.to/3IQ0W7l" target="_blank" rel="sponsored noopener noreferrer">Doom: The Politics of Catastrophe</a></b> by Niall Ferguson
+5. <b><a href="https://amzn.to/3knJmgs" target="_blank" rel="sponsored noopener noreferrer">The Pity Of War: Explaining World War I</a></b> by Niall Ferguson
+6. <b><a href="https://amzn.to/3QFca0i" target="_blank" rel="sponsored noopener noreferrer">The Road Less Traveled: The Secret Battle to End the Great War, 1916-1917</a></b> by Philip D. Zelikow
+7. <b><a href="https://amzn.to/3QL9RIZ" target="_blank" rel="sponsored noopener noreferrer">Kissinger: 1923-1968: The Idealist</a></b> by Niall Ferguson
+8. <b><a href="https://amzn.to/3Hol3It" target="_blank" rel="sponsored noopener noreferrer">Uncontrolled Spread: Why COVID-19 Crushed Us and How We Can Defeat the Next Pandemic</a></b> by Scott Gottlieb
+9. <b><a href="https://amzn.to/3kyAcxX" target="_blank" rel="sponsored noopener noreferrer">The Square and the Tower: Networks and Power, from the Freemasons to Facebook</a></b> by Niall Ferguson
+10. <b><a href="https://amzn.to/3kyrC29" target="_blank" rel="sponsored noopener noreferrer">The Captive Mind</a></b> by Czeslaw Milosz
+
+<!--more-->
 
 Niall Campbell Ferguson FRSE is a Scottish-American historian based in the United States who is the Milbank Family Senior Fellow at the Hoover Institution at Stanford University and a senior fellow at the Belfer Center for Science and International Affairs at Harvard University. [Wikipedia](https://en.wikipedia.org/wiki/Niall_Ferguson)
 

@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #248:
 
-1. **[The Origins of Totalitarianism](https://amzn.to/44HLcLf)** by Hannah Arendt
-2. **[Man’s Search for Meaning](https://amzn.to/3pKZk7A)** by Viktor E. Frankl
+1. <b><a href="https://amzn.to/44HLcLf" target="_blank" rel="sponsored noopener noreferrer">The Origins of Totalitarianism</a></b> by Hannah Arendt
+2. <b><a href="https://amzn.to/3pKZk7A" target="_blank" rel="sponsored noopener noreferrer">Man’s Search for Meaning</a></b> by Viktor E. Frankl
+
+<!--more-->
 
 Norman M. Naimark is an American historian. He is the Robert and Florence McDonnell Professor of Eastern European Studies at Stanford University, and a senior fellow at the Hoover Institution. He writes on modern Eastern European history, genocide, and ethnic cleansing in the region. [Wikipedia](https://en.wikipedia.org/wiki/Norman_Naimark)
 

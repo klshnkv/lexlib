@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/408-tal-wilkenfeld/">#408</a></td>
+			<td>Tal Wilkenfeld</td>
+			<td>09-Jan-24</td>
+		</tr>
+		<tr>
 			<td><a href="/407-guillaume-verdon/">#407</a></td>
 			<td>Guillaume Verdon</td>
 			<td>29-Dec-23</td>

@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #170:
 
-1. **[Contingency, Irony, and Solidarity](https://amzn.to/3Yf4dlS)** by Richard Rorty
-2. [**The Souls of Black Folk**](https://amzn.to/3BpxlNA) by W.E.B. Du Bois
-3. **[Crime and Punishment](https://amzn.to/3BqNIcr)** by Fyodor Dostoyevsky
+1. <b><a href="https://amzn.to/3Yf4dlS" target="_blank" rel="sponsored noopener noreferrer">Contingency, Irony, and Solidarity</a></b> by Richard Rorty
+2. <b><a href="https://amzn.to/3BpxlNA" target="_blank" rel="sponsored noopener noreferrer">The Souls of Black Folk</a></b> by W.E.B. Du Bois
+3. <b><a href="https://amzn.to/3BqNIcr" target="_blank" rel="sponsored noopener noreferrer">Crime and Punishment</a></b> by Fyodor Dostoyevsky
+
+<!--more-->
 
 Ronald S. Sullivan Jr. is a law professor at Harvard Law School. Sullivan graduated Phi Beta Kappa from Morehouse College in 1989 and received his Juris Doctor from Harvard Law School in 1994. [Wikipedia](https://en.wikipedia.org/wiki/Ronald_S._Sullivan_Jr.)
 

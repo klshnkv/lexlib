@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #238:
 
-1. **[The Language of God: A Scientist Presents Evidence for Belief](https://amzn.to/3kj12tE)** by Francis S. Collins
+1. <b><a href="https://amzn.to/3kj12tE" target="_blank" rel="sponsored noopener noreferrer">The Language of God: A Scientist Presents Evidence for Belief</a></b> by Francis S. Collins
+
+<!--more-->
 
 Francis Sellers Collins ForMemRS is an American physician-geneticist who discovered the genes associated with a number of diseases and led the Human Genome Project. [Wikipedia](https://en.wikipedia.org/wiki/Francis_Collins)
 

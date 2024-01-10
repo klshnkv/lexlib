@@ -14,13 +14,15 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #256:
 
-1. **[Free Market Revolution: How Ayn Rand’s Ideas Can End Big Government](https://amzn.to/44MobHa)** by Yaron Brook, Don Watkins
-2. **[Equal Is Unfair: America’s Misguided Fight Against Income Inequality](https://amzn.to/3Dhn4Dm)** by Don Watkins, Yaron Brook
-3. **[The Virtue of Nationalism](https://amzn.to/3K0HiFr)** by Yoram Hazony
-4. **[Conservatism: A Rediscovery](https://amzn.to/3PUGtl5)** by Yoram Hazony
-5. **[Edmund Burke: The First Conservative](https://amzn.to/46R5t2L)** by Jesse Norman
-6. **[The Age Of Reason](https://amzn.to/43rrPVJ)** by Thomas Paine
-7. **[The Fountainhead](https://amzn.to/44rdIAS)** by Ayn Rand
+1. <b><a href="https://amzn.to/44MobHa" target="_blank" rel="sponsored noopener noreferrer">Free Market Revolution: How Ayn Rand’s Ideas Can End Big Government</a></b> by Yaron Brook, Don Watkins
+2. <b><a href="https://amzn.to/3Dhn4Dm" target="_blank" rel="sponsored noopener noreferrer">Equal Is Unfair: America’s Misguided Fight Against Income Inequality</a></b> by Don Watkins, Yaron Brook
+3. <b><a href="https://amzn.to/3K0HiFr" target="_blank" rel="sponsored noopener noreferrer">The Virtue of Nationalism</a></b> by Yoram Hazony
+4. <b><a href="https://amzn.to/3PUGtl5" target="_blank" rel="sponsored noopener noreferrer">Conservatism: A Rediscovery</a></b> by Yoram Hazony
+5. <b><a href="https://amzn.to/46R5t2L" target="_blank" rel="sponsored noopener noreferrer">Edmund Burke: The First Conservative</a></b> by Jesse Norman
+6. <b><a href="https://amzn.to/43rrPVJ" target="_blank" rel="sponsored noopener noreferrer">The Age Of Reason</a></b> by Thomas Paine
+7. <b><a href="https://amzn.to/44rdIAS" target="_blank" rel="sponsored noopener noreferrer">The Fountainhead</a></b> by Ayn Rand
+
+<!--more-->
 
 Yaron Brook is an Israeli-American entrepreneur, writer, and activist. He is an Objectivist and the current chairman of the board at the Ayn Rand Institute, where he was executive director from 2000 to 2017. He is also the co-founder of BHZ Capital Management LP. [Wikipedia](https://en.wikipedia.org/wiki/Yaron_Brook)
 

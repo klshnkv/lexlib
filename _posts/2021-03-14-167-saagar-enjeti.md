@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #167:
 
-1. **[Hitler](https://amzn.to/3VLDqMm)** by Ian Kershaw
-2. **[The Years of Lyndon Johnson](https://amzn.to/3HntKD9)** by Robert A. Caro
+1. <b><a href="https://amzn.to/3VLDqMm" target="_blank" rel="sponsored noopener noreferrer">Hitler</a></b> by Ian Kershaw
+2. <b><a href="https://amzn.to/3HntKD9" target="_blank" rel="sponsored noopener noreferrer">The Years of Lyndon Johnson</a></b> by Robert A. Caro
+
+<!--more-->
 
 Saagar Enjeti is a co-host of Rising with Krystal and Saagar at The Hill and The Realignment Podcast at The Hudson Institute.
 

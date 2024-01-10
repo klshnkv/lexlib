@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #194:
 
-1. **[The Metamorphosis](https://amzn.to/3BU3Tzk)** by Franz Kafka
-2. **[A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life](https://amzn.to/3VaqGxH)** by Heather Heying, Bret Weinstein
+1. <b><a href="https://amzn.to/3BU3Tzk" target="_blank" rel="sponsored noopener noreferrer">The Metamorphosis</a></b> by Franz Kafka
+2. <b><a href="https://amzn.to/3VaqGxH" target="_blank" rel="sponsored noopener noreferrer">A Hunter-Gatherer’s Guide to the 21st Century: Evolution and the Challenges of Modern Life</a></b> by Heather Heying, Bret Weinstein
+
+<!--more-->
 
 Bret Samuel Weinstein is an American podcaster, author, and former professor of evolutionary biology. [Wikipedia](https://en.wikipedia.org/wiki/Bret_Weinstein)
 

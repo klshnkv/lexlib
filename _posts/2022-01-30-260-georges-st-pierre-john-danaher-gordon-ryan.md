@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #260:
 
-1. **[Catching Fire: How Cooking Made Us Human](https://amzn.to/42hPiYZ)** by Richard Wrangham
+1. <b><a href="https://amzn.to/42hPiYZ" target="_blank" rel="sponsored noopener noreferrer">Catching Fire: How Cooking Made Us Human</a></b> by Richard Wrangham
+
+<!--more-->
 
 Georges St-Pierre is a Canadian actor and former professional mixed martial artist. He is widely regarded as the greatest fighter in mixed martial arts history. St-Pierre was a two-division champion in the Ultimate Fighting Championship, having won titles in the welterweight and middleweight divisions. [Wikipedia](https://en.wikipedia.org/wiki/Georges_St-Pierre)
 

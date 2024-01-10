@@ -14,7 +14,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #188:
 
-1. **[The Rise and Fall of the Third Reich: A History of Nazi Germany](https://amzn.to/3jiYpYz)** by William L. Shirer
+1. <b><a href="https://amzn.to/3jiYpYz" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich: A History of Nazi Germany</a></b> by William L. Shirer
+
+<!--more-->
 
 Vitalik “Vitaly” Buterin is a Russian-Canadian computer programmer and founder of Ethereum. Buterin became involved with cryptocurrency early in its inception, co-founding Bitcoin Magazine in 2011. [Wikipedia](https://en.wikipedia.org/wiki/Vitalik_Buterin)
 

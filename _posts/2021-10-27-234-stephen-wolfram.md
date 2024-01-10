@@ -14,8 +14,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #234:
 
-1. **[A New Kind of Science](https://amzn.to/3ILg4mk)** by Stephen Wolfram
-2. **[Postsingular](https://amzn.to/3ZyZn3s)** by Rudy Rucker
+1. <b><a href="https://amzn.to/3ILg4mk" target="_blank" rel="sponsored noopener noreferrer">A New Kind of Science</a></b> by Stephen Wolfram
+2. <b><a href="https://amzn.to/3ZyZn3s" target="_blank" rel="sponsored noopener noreferrer">Postsingular</a></b> by Rudy Rucker
+
+<!--more-->
 
 Stephen Wolfram is a British-American computer scientist, physicist, and businessman. He is known for his work in computer science, mathematics, and theoretical physics. In 2012, he was named a fellow of the American Mathematical Society. [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Wolfram)
 

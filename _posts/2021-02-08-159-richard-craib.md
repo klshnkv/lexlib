@@ -12,8 +12,10 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #159:
 
-1. **[Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/3UF0evR)** by Peter Thiel, Blake Masters
-2. [**The Beginning of Infinity: Explanations That Transform the World**](https://amzn.to/3ha8wy8) by David Deutsch
+1. <b><a href="https://amzn.to/3UF0evR" target="_blank" rel="sponsored noopener noreferrer">Zero to One: Notes on Startups, or How to Build the Future</a></b> by Peter Thiel, Blake Masters
+2. <b><a href="https://amzn.to/3ha8wy8" target="_blank" rel="sponsored noopener noreferrer">The Beginning of Infinity: Explanations That Transform the World</a></b> by David Deutsch
+
+<!--more-->
 
 Richard Craib is the founder of Numerai, a crowd-sourced, AI-run stock trading system.
 

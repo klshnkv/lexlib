@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #195:
 
-1. **[Contact](https://amzn.to/3G35Xr3)** by Carl Sagan
+1. <b><a href="https://amzn.to/3G35Xr3" target="_blank" rel="sponsored noopener noreferrer">Contact</a></b> by Carl Sagan
+
+<!--more-->
 
 Clara Sousa-Silva is a research scientist at Center for Astrophysics | Harvard &amp; Smithsonian. Sousa-Silva is an expert on phosphine. She has contributed to investigations of the possibility of life on Venus, working with Jane Greaves and others. [Wikipedia](https://en.wikipedia.org/wiki/Clara_Sousa-Silva)
 

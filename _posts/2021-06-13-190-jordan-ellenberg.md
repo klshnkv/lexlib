@@ -12,12 +12,14 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #190:
 
-1. **[How Not to Be Wrong: The Power of Mathematical Thinking](https://amzn.to/3v2I5xJ)** by Jordan Ellenberg
-2. **[Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else](https://amzn.to/3WwpSUN)** by Jordan Ellenberg
-3. **[Duel at Dawn: Heroes, Martyrs, and the Rise of Modern Mathematics](https://amzn.to/3G7KKMX)** by Amir Alexander
-4. **[Flatland: A Romance of Many Dimensions](https://amzn.to/3YFQrJh)** by Edwin Abbott Abbott
-5. **[Winning Ways for Your Mathematical Plays](https://amzn.to/3PFS4SS)** by Elwyn R. Berlekamp, John H. Conway
-6. **[Books by Martin Gardner](https://amzn.to/3YvaBFs)**
+1. <b><a href="https://amzn.to/3v2I5xJ" target="_blank" rel="sponsored noopener noreferrer">How Not to Be Wrong: The Power of Mathematical Thinking</a></b> by Jordan Ellenberg
+2. <b><a href="https://amzn.to/3WwpSUN" target="_blank" rel="sponsored noopener noreferrer">Shape: The Hidden Geometry of Information, Biology, Strategy, Democracy, and Everything Else</a></b> by Jordan Ellenberg
+3. <b><a href="https://amzn.to/3G7KKMX" target="_blank" rel="sponsored noopener noreferrer">Duel at Dawn: Heroes, Martyrs, and the Rise of Modern Mathematics</a></b> by Amir Alexander
+4. <b><a href="https://amzn.to/3YFQrJh" target="_blank" rel="sponsored noopener noreferrer">Flatland: A Romance of Many Dimensions</a></b> by Edwin Abbott Abbott
+5. <b><a href="https://amzn.to/3PFS4SS" target="_blank" rel="sponsored noopener noreferrer">Winning Ways for Your Mathematical Plays</a></b> by Elwyn R. Berlekamp, John H. Conway
+6. <b><a href="https://amzn.to/3YvaBFs" target="_blank" rel="sponsored noopener noreferrer">Books by Martin Gardner</a></b>
+
+<!--more-->
 
 Jordan Stuart Ellenberg is an American mathematician who is a professor of mathematics at the University of Wisconsin–Madison. His research involves arithmetic geometry. He is also an author of both fiction and non-fiction writing. [Wikipedia](https://en.wikipedia.org/wiki/Jordan_Ellenberg)
 

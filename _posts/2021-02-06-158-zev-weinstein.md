@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #158:
 
-1. **[The Idiot](https://amzn.to/3FbP3VR)** by Fyodor Dostoevsky
+1. <b><a href="https://amzn.to/3FbP3VR" target="_blank" rel="sponsored noopener noreferrer">The Idiot</a></b> by Fyodor Dostoevsky
+
+<!--more-->
 
 Zev Weinstein is a deep thinker, commentator and student. He is Eric Weinstein’s son.
 

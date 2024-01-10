@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #225:
 
-1. **[Einstein’s Unfinished Revolution: The Search for What Lies Beyond the Quantum](https://amzn.to/3xaZy8d)** by Lee Smolin
+1. <b><a href="https://amzn.to/3xaZy8d" target="_blank" rel="sponsored noopener noreferrer">Einstein’s Unfinished Revolution: The Search for What Lies Beyond the Quantum</a></b> by Lee Smolin
+
+<!--more-->
 
 Jeffrey Shainline is a physicist at NIST.
 

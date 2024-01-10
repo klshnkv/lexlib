@@ -14,11 +14,13 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #153:
 
-1. **[The Master and Margarita](https://amzn.to/3iKj6fr)** by Mikhail Bulgakov
-2. **[Cancer Ward](https://amzn.to/3BgXFJp)** by Aleksandr Solzhenitsyn
-3. **[The Gulag Archipelago](https://amzn.to/3FxpyPU)** by Aleksandr Solzhenitsyn
-4. **[The Computer and the Brain](https://amzn.to/3FxuLqY)** by John von Neumann
-5. **[Lab Girl](https://amzn.to/3VWss6f)** by Hope Jahren
+1. <b><a href="https://amzn.to/3iKj6fr" target="_blank" rel="sponsored noopener noreferrer">The Master and Margarita</a></b> by Mikhail Bulgakov
+2. <b><a href="https://amzn.to/3BgXFJp" target="_blank" rel="sponsored noopener noreferrer">Cancer Ward</a></b> by Aleksandr Solzhenitsyn
+3. <b><a href="https://amzn.to/3FxpyPU" target="_blank" rel="sponsored noopener noreferrer">The Gulag Archipelago</a></b> by Aleksandr Solzhenitsyn
+4. <b><a href="https://amzn.to/3FxuLqY" target="_blank" rel="sponsored noopener noreferrer">The Computer and the Brain</a></b> by John von Neumann
+5. <b><a href="https://amzn.to/3VWss6f" target="_blank" rel="sponsored noopener noreferrer">Lab Girl</a></b> by Hope Jahren
+
+<!--more-->
 
 Dmitry Korkin is a professor at Worcester Polytechnic Institute.
 
