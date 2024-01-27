@@ -21,12 +21,12 @@ footnotes:
 	<tbody>
 		<tr>
 			<td><a href="/410-ben-shapiro-and-destiny/">#410</a></td>
-			<td>Tal Wilkenfeld</td>
+			<td>Ben Shapiro and Destiny</td>
 			<td>23-Jan-24</td>
 		</tr>
 		<tr>
 			<td><a href="/409-matthew-cox/">#409</a></td>
-			<td>Guillaume Verdon</td>
+			<td>Matthew Cox</td>
 			<td>17-Jan-24</td>
 		</tr>
 		<tr>
