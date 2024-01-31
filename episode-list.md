@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/411-omar-suleiman/">#411</a></td>
+			<td>Omar Suleiman</td>
+			<td>31-Jan-24</td>
+		</tr>
+		<tr>
 			<td><a href="/410-ben-shapiro-and-destiny/">#410</a></td>
 			<td>Ben Shapiro and Destiny</td>
 			<td>23-Jan-24</td>
