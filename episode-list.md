@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/413-bill-ackman/">#413</a></td>
+			<td>Bill Ackman</td>
+			<td>20-Feb-24</td>
+		</tr>
+			<tr>
+			<td><a href="/412-marc-raibert/">#412</a></td>
+			<td>Marc Raibert</td>
+			<td>16-Feb-24</td>
+		</tr>
+		<tr>
 			<td><a href="/411-omar-suleiman/">#411</a></td>
 			<td>Omar Suleiman</td>
 			<td>31-Jan-24</td>

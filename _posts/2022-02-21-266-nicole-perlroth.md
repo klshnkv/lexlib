@@ -12,7 +12,9 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #266:
 
-1. **[This Is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://amzn.to/4505S1f)** by Nicole Perlroth
+1. <b><a href="https://amzn.to/4505S1f" target="_blank" rel="sponsored noopener noreferrer">This Is How They Tell Me the World Ends: The Cyberweapons Arms Race</a></b> by Nicole Perlroth
+
+<!--more-->
 
 Nicole Perlroth is a cybersecurity journalist and author.
 

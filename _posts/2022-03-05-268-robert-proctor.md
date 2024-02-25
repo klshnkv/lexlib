@@ -12,9 +12,11 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #268:
 
-1. **[Racial Hygiene: Medicine under the Nazis](https://amzn.to/3Os7OKx)** by Robert N. Proctor
-2. **[The Nazi War on Cancer](https://amzn.to/46TSygF)** by Robert N. Proctor
-3. **[Agnotology: The Making and Unmaking of Ignorance](https://amzn.to/3rGBrPj)** by Robert N. Proctor, Londa Schiebinger
+1. <b><a href="https://amzn.to/3Os7OKx" target="_blank" rel="sponsored noopener noreferrer">Racial Hygiene: Medicine under the Nazis</a></b> by Robert N. Proctor
+2. <b><a href="https://amzn.to/46TSygF" target="_blank" rel="sponsored noopener noreferrer">The Nazi War on Cancer</a></b> by Robert N. Proctor
+3. <b><a href="https://amzn.to/3rGBrPj" target="_blank" rel="sponsored noopener noreferrer">Agnotology: The Making and Unmaking of Ignorance</a></b> by Robert N. Proctor, Londa Schiebinger
+
+<!--more-->
 
 Robert Neel Proctor is an American historian of science and Professor of the History of Science at Stanford University, where he is also Professor by courtesy of Pulmonary Medicine. [Wikipedia](https://en.wikipedia.org/wiki/Robert_N._Proctor)
 
