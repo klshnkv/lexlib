@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/414-tucker-carlson/">#414</a></td>
+			<td>Tucker Carlson</td>
+			<td>27-Feb-24</td>
+		</tr>
+		<tr>
 			<td><a href="/413-bill-ackman/">#413</a></td>
 			<td>Bill Ackman</td>
 			<td>20-Feb-24</td>
