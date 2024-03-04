@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/415-serhii-plokhy/">#415</a></td>
+			<td>Serhii Plokhy</td>
+			<td>4-Mar-24</td>
+		</tr>
+		<tr>
 			<td><a href="/414-tucker-carlson/">#414</a></td>
 			<td>Tucker Carlson</td>
 			<td>27-Feb-24</td>
