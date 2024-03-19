@@ -11,7 +11,7 @@ categories:
 Books mentioned on Lex Fridman Podcast #414:
 
 1. <b><a href="https://amzn.to/3OVO01F" target="_blank" rel="sponsored noopener noreferrer">Politicians, Partisans, and Parasites: My Adventures in Cable News</a></b> by Tucker Carlson
-2. <b>Mein Kampf</b> by Adolf Hitler
+2. <b><a href="https://en.wikipedia.org/wiki/Mein_Kampf" target="_blank">Mein Kampf</a></b> by Adolf Hitler
 3. <b><a href="https://amzn.to/48B4nYK" target="_blank" rel="sponsored noopener noreferrer">Capital: A Critique of Political Economy</a></b> by Karl Marx 
 4. <b><a href="https://amzn.to/42YUuCJ" target="_blank" rel="sponsored noopener noreferrer">Père Goriot</a></b> by Honoré de Balzac
 

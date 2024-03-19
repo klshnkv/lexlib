@@ -20,6 +20,26 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/419-sam-altman/">#419</a></td>
+			<td>Sam Altman</td>
+			<td>18-Mar-24</td>
+		</tr>
+		<tr>
+			<td><a href="/418-finkelstein-destiny-m-rabbani-and-benny-morris/">#418</a></td>
+			<td>Finkelstein, Destiny, M. Rabbani, and Benny Morris</td>
+			<td>14-Mar-24</td>
+		</tr>
+		<tr>
+			<td><a href="/417-kimbal-musk/">#417</a></td>
+			<td>Kimbal Musk</td>
+			<td>10-Mar-24</td>
+		</tr>
+		<tr>
+			<td><a href="/416-yann-lecun/">#416</a></td>
+			<td>Yann Lecun</td>
+			<td>7-Mar-24</td>
+		</tr>
+		<tr>
 			<td><a href="/415-serhii-plokhy/">#415</a></td>
 			<td>Serhii Plokhy</td>
 			<td>4-Mar-24</td>
