@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/420-annie-jacobsen/">#420</a></td>
+			<td>Annie Jacobsen</td>
+			<td>22-Mar-24</td>
+		</tr>
+		<tr>
 			<td><a href="/419-sam-altman/">#419</a></td>
 			<td>Sam Altman</td>
 			<td>18-Mar-24</td>
