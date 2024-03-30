@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/422-mark-cuban/">#422</a></td>
+			<td>Mark Cuban</td>
+			<td>29-Mar-24</td>
+		</tr>
+			<tr>
+			<td><a href="/421-dana-whiten/">#421</a></td>
+			<td>Dana White</td>
+			<td>25-Mar-24</td>
+		</tr>
+		<tr>
 			<td><a href="/420-annie-jacobsen/">#420</a></td>
 			<td>Annie Jacobsen</td>
 			<td>22-Mar-24</td>
