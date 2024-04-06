@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/424-bassem-youssef/">#424</a></td>
+			<td>Bassem Youssef</td>
+			<td>5-Apr-24</td>
+		</tr>
+				<tr>
+			<td><a href="/423-tulsi-gabbard/">#423</a></td>
+			<td>Tulsi Gabbard</td>
+			<td>2-Apr-24</td>
+		</tr>
+		<tr>
 			<td><a href="/422-mark-cuban/">#422</a></td>
 			<td>Mark Cuban</td>
 			<td>29-Mar-24</td>
