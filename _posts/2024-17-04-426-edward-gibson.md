@@ -1,6 +1,7 @@
 ---
 title: '#426 – Edward Gibson'
 date: '2024-04-17'
+layout: post
 permalink: /426-edward-gibson/
 ---
 
