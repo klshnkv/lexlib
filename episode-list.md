@@ -20,6 +20,21 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/428-sean-carroll/">#428</a></td>
+			<td>Sean Carroll</td>
+			<td>22-Apr-24</td>
+		</tr>
+			<tr>
+			<td><a href="/427-neil-adams/">#427</a></td>
+			<td>Neil Adams</td>
+			<td>20-Apr-24</td>
+		</tr>
+			<tr>
+			<td><a href="/426-edward-gibson/">#426</a></td>
+			<td>Edward Gibson</td>
+			<td>17-Apr-24</td>
+		</tr>
+		<tr>
 			<td><a href="/425-andrew-callaghan/">#425</a></td>
 			<td>Bassem Youssef</td>
 			<td>13-Apr-24</td>
