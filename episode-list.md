@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/429-paul-rosolie/">#429</a></td>
+			<td>Paul Rosolie</td>
+			<td>15-May-24</td>
+		</tr>
+		<tr>
 			<td><a href="/428-sean-carroll/">#428</a></td>
 			<td>Sean Carroll</td>
 			<td>22-Apr-24</td>
