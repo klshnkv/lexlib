@@ -20,6 +20,21 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/432-kevin-spacey/">#432</a></td>
+			<td>Kevin Spacey</td>
+			<td>Jun 5, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/431-roman-yampolskiy/">#431</a></td>
+			<td>Roman Yampolskiy</td>
+			<td>Jun 2, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/430-charan-ranganath/">#430</a></td>
+			<td>Charan Ranganath</td>
+			<td>May 25, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/429-paul-rosolie/">#429</a></td>
 			<td>Paul Rosolie</td>
 			<td>15-May-24</td>
