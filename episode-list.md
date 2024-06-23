@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/434-aravind-srinivas/">#434</a></td>
+			<td>Aravind Srinivas</td>
+			<td>Jun 19, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/433-sara-walker/">#433</a></td>
+			<td>Sara Walker</td>
+			<td>Jun 13, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/432-kevin-spacey/">#432</a></td>
 			<td>Kevin Spacey</td>
 			<td>Jun 5, 2024</td>
