@@ -20,6 +20,21 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/437-jordan-jonas/">#437</a></td>
+			<td>Jordan Jonas</td>
+			<td>Jul 22, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/436-ivanka-trump/">#436</a></td>
+			<td>Ivanka Trump</td>
+			<td>Jul 2, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/435-andrew-huberman/">#435</a></td>
+			<td>Andrew Huberman</td>
+			<td>Jun 28, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/434-aravind-srinivas/">#434</a></td>
 			<td>Aravind Srinivas</td>
 			<td>Jun 19, 2024</td>
