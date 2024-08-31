@@ -20,6 +20,26 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/441-cenk-uygur/">#441</a></td>
+			<td>Cenk Uygur</td>
+			<td>Aug 30, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/440-pieter-levels/">#440</a></td>
+			<td>Pieter Levels</td>
+			<td>Aug 20, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/439-craig-jones/">#439</a></td>
+			<td>Craig Jones</td>
+			<td>Aug 14, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/438-neuralink/">#438</a></td>
+			<td>Neuralink</td>
+			<td>Jul 22, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/437-jordan-jonas/">#437</a></td>
 			<td>Jordan Jonas</td>
 			<td>Jul 22, 2024</td>
