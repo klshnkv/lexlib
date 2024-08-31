@@ -248,21 +248,23 @@ a.sidebar-nav-item:focus {
   color: #8f5536;
 }
 
-footer .container {
-  display: flex;
+/* Footer
+ *
+ * Responsive footer with links and text columns.
+ */
 
+ footer .container {
+  display: flex;
   align-items: center;
   flex-wrap: wrap; /* Allows the columns to stack on smaller screens */
 }
 
 .footer-links {
-  /* Add right margin to push the text column away */
-  margin-right: 40px; /* Adjust the value as needed */
+  margin-right: 2.5rem; /* Adjusted to rem for consistency */
 }
 
 .footer-text {
-  /* Add left margin if you need more space on this side as well */
-  margin-left: 40px; /* Adjust the value as needed */
+  margin-left: 2.5rem; /* Adjusted to rem for consistency */
 }
 
 .footer-links ul {
@@ -271,10 +273,10 @@ footer .container {
 }
 
 .footer-links ul li {
-  margin-bottom: 10px; /* Space between links */
+  margin-bottom: 0.625rem; /* Adjusted to rem for consistency */
 }
 
-@media (max-width: 600px) {
+@media (max-width: 37.5em) { /* Adjusted to rem for consistency */
   footer .container {
     flex-direction: column;
     text-align: center;
