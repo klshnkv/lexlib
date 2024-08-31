@@ -37,7 +37,7 @@ footnotes:
 			<tr>
 			<td><a href="/438-neuralink/">#438</a></td>
 			<td>Neuralink</td>
-			<td>Jul 22, 2024</td>
+			<td>Aug 2, 2024</td>
 		</tr>
 		<tr>
 			<td><a href="/437-jordan-jonas/">#437</a></td>
