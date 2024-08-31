@@ -47,6 +47,8 @@ html {
 
 body, html {
   overflow-x: hidden;
+  margin: 0;
+  padding: 0;
 }
 
 
@@ -260,13 +262,19 @@ a.sidebar-nav-item:focus {
  footer .container {
   display: flex;
   align-items: center;
-  flex-wrap: wrap; /* Allows the columns to stack on smaller screens */
-  max-width: 100%; /* Ensures the container does not exceed screen width */
-  width: 100%; /* Makes sure the container fits the screen width */
-  box-sizing: border-box; /* Ensures padding and borders are included in the width */
-  padding: 0 1rem; /* Add padding to ensure content doesn't touch the edges */
+  flex-wrap: wrap; 
+  width: 100%; 
+  box-sizing: border-box;
+  padding: 0 1rem; 
 }
 
+/* Apply min-width to prevent overflow */
+.footer-links, .footer-text {
+  min-width: 0; 
+  flex-shrink: 1; /* Allows items to shrink if necessary */
+}
+
+/* Margin adjustments */
 .footer-links {
   margin-right: 2.5rem;
 }
@@ -284,10 +292,17 @@ a.sidebar-nav-item:focus {
   margin-bottom: 0.625rem;
 }
 
-@media (max-width: 37.5em) { /* Adjusted to rem for consistency */
+/* Ensure proper wrapping on smaller screens */
+@media (max-width: 37.5em) {
   footer .container {
     flex-direction: column;
     text-align: center;
-    padding: 1rem; /* Add padding for smaller screens */
+    padding: 1rem;
+  }
+
+  .footer-links, .footer-text {
+    margin-right: 0;
+    margin-left: 0;
+    width: 100%; /* Ensure full width on small screens */
   }
 }
