@@ -20,6 +20,31 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/446-ed-barnhart/">#446</a></td>
+			<td>Ed Barnhart</td>
+			<td>Sep 30, 2024</td>
+		</tr>
+		<tr>
+			<td><a href="/445-vivek-ramaswamy/">#445</a></td>
+			<td>Vivek Ramaswamyr</td>
+			<td>Sep 25, 2024</td>
+		</tr>
+		<tr>
+			<td><a href="/444-vejas-liulevicius">#444</a></td>
+			<td>Vejas Liulevicius</td>
+			<td>Sep 20, 2024</td>
+		</tr>
+		<tr>
+			<td><a href="/443-gregory-aldrete/">#443</a></td>
+			<td>Gregory Aldrete</td>
+			<td>Sep 12, 2024</td>
+		</tr>
+		<tr>
+			<td><a href="/442-donald-trump/">#442</a></td>
+			<td>Donald Trump</td>
+			<td>Sep 3, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/441-cenk-uygur/">#441</a></td>
 			<td>Cenk Uygur</td>
 			<td>Aug 30, 2024</td>
