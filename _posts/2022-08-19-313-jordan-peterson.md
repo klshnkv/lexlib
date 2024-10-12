@@ -12,16 +12,25 @@ categories:
 
 Books mentioned on Lex Fridman Podcast #313:
 
-1. **[The Language of Creation: Cosmic Symbolism in Genesis: A Commentary](https://amzn.to/3EfTrTf)** by Matthieu Pageau
-2. **[The Gulag Archipelago](https://amzn.to/3Asx3EV)** by Aleksandr Solzhenitsyn
-3. **[The Brothers Karamazov](https://amzn.to/3EHEwT3)** by Fyodor Dostoevsky
-4. **[The Idiot](https://amzn.to/3hSxnGJ)** by Fyodor Dostoevsky
-5. **[The Master and Margarita](https://amzn.to/3OiNRnt)** by Mikhail Bulgakov
+1. <b><a href="https://amzn.to/3EfTrTf" target="_blank" rel="sponsored noopener noreferrer">The Language of Creation: Cosmic Symbolism in Genesis: A Commentary</a></b> by Matthieu Pageau
+2. <b><a href="https://amzn.to/3Asx3EV" target="_blank" rel="sponsored noopener noreferrer">The Gulag Archipelago</a></b> by Aleksandr Solzhenitsyn
+3. <b><a href="https://amzn.to/3EHEwT3" target="_blank" rel="sponsored noopener noreferrer">The Brothers Karamazov</a></b> by Fyodor Dostoevsky
+4. <b><a href="https://amzn.to/3hSxnGJ" target="_blank" rel="sponsored noopener noreferrer">The Idiot</a></b> by Fyodor Dostoevsky
+5. <b><a href="https://amzn.to/3OiNRnt" target="_blank" rel="sponsored noopener noreferrer">The Master and Margarita</a></b> by Mikhail Bulgakov
 
-Jordan Peterson ([@jordanbpeterson](https://twitter.com/jordanbpeterson)) is is a clinical psychologist, lecturer, podcast host, and author.
+<!--more-->
+
+Jordan Bernt Peterson is a Canadian psychologist, author, and media commentator. He began to receive widespread attention in the late 2010s for his views on cultural and political issues. Often characterized as conservative, Peterson has described himself as a classic British liberal and a traditionalist. <a href="https://en.wikipedia.org/wiki/Jordan_Peterson" target="_blank">Wikipedia</a>
+
+- <a href="https://x.com/jordanbpeterson" target="_blank">https://x.com/jordanbpeterson</a>
+- <a href="https://www.instagram.com/jordan.b.peterson/" target="_blank">https://www.instagram.com/jordan.b.peterson/</a>
+- <a href="https://www.youtube.com/@JordanBPeterson" target="_blank">https://www.youtube.com/@JordanBPeterson</a>
+- <a href="https://www.facebook.com/drjordanpeterson" target="_blank">https://www.facebook.com/drjordanpeterson</a>
+
+Other appearances: [\#448](/448-jordan-peterson/)
 
 - - - - - -
 
 ## Watch or listen to episode #313
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="443" loading="lazy" src="https://www.youtube.com/embed/sY8aFSY2zv4?feature=oembed" title="Jordan Peterson: Life, Death, Power, Fame, and Meaning | Lex Fridman Podcast #313" width="788"></iframe></div></figure>
+{% include youtube.html id='sY8aFSY2zv4' %}
