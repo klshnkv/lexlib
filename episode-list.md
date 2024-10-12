@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/448-jordan-peterson/">#448</a></td>
+			<td>Jordan Peterson</td>
+			<td>Oct 11, 2024</td>
+		</tr>
+			<tr>
+			<td><a href="/447-cursor-team/">#447</a></td>
+			<td>Cursor Team</td>
+			<td>Oct 6, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/446-ed-barnhart/">#446</a></td>
 			<td>Ed Barnhart</td>
 			<td>Sep 30, 2024</td>
