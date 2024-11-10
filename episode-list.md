@@ -20,6 +20,21 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/451-rick-spence/">#451</a></td>
+			<td>Rick Spence</td>
+			<td>Oct 30, 2024</td>
+		</tr>
+		<tr>
+			<td><a href="/450-bernie-sanders/">#450</a></td>
+			<td>Bernie Sanders</td>
+			<td>Oct 23, 2024</td>
+		</tr>
+				<tr>
+			<td><a href="/449-graham-hancock/">#449</a></td>
+			<td>Graham Hancock</td>
+			<td>Oct 16, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/448-jordan-peterson/">#448</a></td>
 			<td>Jordan Peterson</td>
 			<td>Oct 11, 2024</td>
