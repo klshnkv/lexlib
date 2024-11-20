@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/453-javier-milei/">#453</a></td>
+			<td>Javier Milei</td>
+			<td>Nov 19, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/452-dario-amodei/">#452</a></td>
 			<td>Dario Amodei</td>
 			<td>Nov 11, 2024</td>
