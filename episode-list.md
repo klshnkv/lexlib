@@ -20,6 +20,21 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/456-volodymyr-zelenskyy/">#456</a></td>
+			<td>Volodymyr Zelenskyy</td>
+			<td>Jan 5, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/455-adam-frank/">#455</a></td>
+			<td>Adam Frank</td>
+			<td>Dec 22, 2024</td>
+		</tr>
+		<tr>
+			<td><a href="/454-saagar-enjeti/">#454</a></td>
+			<td>Saagar Enjeti</td>
+			<td>Dec 8, 2024</td>
+		</tr>
+		<tr>
 			<td><a href="/453-javier-milei/">#453</a></td>
 			<td>Javier Milei</td>
 			<td>Nov 19, 2024</td>
