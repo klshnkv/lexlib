@@ -18,7 +18,7 @@ Books mentioned on Lex Fridman Podcast #456:
 
 Volodymyr Oleksandrovych Zelenskyy is a Ukrainian politician and former entertainer who is serving as the sixth and current president of Ukraine since 2019, most notably during the full-scale Russian invasion of Ukraine, which has been ongoing since February 2022. <a href="https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy" target="_blank">Wikipedia</a>
 
-- <a href="https://twitter.com/ZelenskyyUa" target="_blank">https://twitter.com/ZelenskyyUa</a>
+- <a href="https://x.com/ZelenskyyUa" target="_blank">https://x.com/ZelenskyyUa</a>
 - <a href="https://www.instagram.com/zelenskyy_official" target="_blank">https://www.instagram.com/zelenskyy_official</a>
 - <a href="https://www.facebook.com/zelenskyy.official" target="_blank">https://www.facebook.com/zelenskyy.official</a>
 - <a href="https://www.youtube.com/@Zelenskyy_President" target="_blank">https://www.youtube.com/@Zelenskyy_President</a>

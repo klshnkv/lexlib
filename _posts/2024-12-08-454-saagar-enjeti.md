@@ -30,7 +30,7 @@ Books mentioned on Lex Fridman Podcast #454:
 22. <b><a href="https://amzn.to/407dCxk" target="_blank" rel="sponsored noopener noreferrer">Chaos: Charles Manson, the CIA, and the Secret History of the Sixties</a></b> by Tom O'Neill, Dan Piepenbring
 23. <b><a href="https://amzn.to/4gXvgug" target="_blank" rel="sponsored noopener noreferrer">Fight Club</a></b> by Chuck Palahniuk
 
-** *<b><a href="https://lexfridman.com/saagar-books" target="_blank">Saagar Enjeti's Book Recommendations</a></b>* **
+***<b><a href="https://lexfridman.com/saagar-books" target="_blank">Saagar Enjeti's Book Recommendations</a></b>***
 
 <!--more-->
 
