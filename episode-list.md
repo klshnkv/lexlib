@@ -20,6 +20,16 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/458-marc-andreessen/">#458</a></td>
+			<td>Marc Andreessen</td>
+			<td>Jan 26, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/457-jennifer-burns/">#457</a></td>
+			<td>Jennifer Burns</td>
+			<td>Jan 19, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/456-volodymyr-zelenskyy/">#456</a></td>
 			<td>Volodymyr Zelenskyy</td>
 			<td>Jan 5, 2025</td>
