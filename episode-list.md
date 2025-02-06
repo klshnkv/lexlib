@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/459-dylan-patel-and-nathan-lambert/">#459</a></td>
+			<td>Dylan Patel and Nathan Lambert</td>
+			<td>Feb 3, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/458-marc-andreessen/">#458</a></td>
 			<td>Marc Andreessen</td>
 			<td>Jan 26, 2025</td>
