@@ -20,6 +20,51 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/468-janna-levin/">#468</a></td>
+			<td>Janna Levin </td>
+			<td>May 5, 2025 </td>
+		</tr>
+		<tr>
+			<td><a href="/467-tim-sweeney/">#467</a></td>
+			<td>Tim Sweeney</td>
+			<td>Apr 24, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/466-jeffrey-wasserstrom/">#466</a></td>
+			<td>Jeffrey Wasserstrom</td>
+			<td>Apr 24, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/465-robert-rodriguez/">#465</a></td>
+			<td>Robert Rodriguez</td>
+			<td>Apr 16, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/464-dave-smith/">#464</a></td>
+			<td>Dave Smith</td>
+			<td>Apr 9, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/463-douglas-murray/">#463</a></td>
+			<td>Douglas Murray</td>
+			<td>Mar 30, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/462-ezra-klein-and-derek-thompson/">#462</a></td>
+			<td>Ezra Klein and Derek Thompson</td>
+			<td>Mar 25, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/461-theprimeagen/">#461</a></td>
+			<td>ThePrimeagen</td>
+			<td>Mar 22, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/460-narendra-modi/">#460</a></td>
+			<td>Narendra Modi</td>
+			<td>Mar 16, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/459-dylan-patel-and-nathan-lambert/">#459</a></td>
 			<td>Dylan Patel and Nathan Lambert</td>
 			<td>Feb 3, 2025</td>
