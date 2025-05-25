@@ -7,7 +7,7 @@ permalink: /470-james-holland/
 Books mentioned on Lex Fridman Podcast #470:
 
 1. <b><a href="https://amzn.to/3ZzadYG" target="_blank" rel="sponsored noopener noreferrer">The War in the West</a></b> by James Holland
-2. <b><a href="https://amzn.to/3Zy2mux" target="_blank" rel="sponsored noopener noreferrer">Mein Kampf</a></b> by Adolf Hitler 1:03
+2. <b><a href="https://amzn.to/3Zy2mux" target="_blank" rel="sponsored noopener noreferrer">Mein Kampf</a></b> by Adolf Hitler
 3. <b><a href="https://amzn.to/44SjA9F" target="_blank" rel="sponsored noopener noreferrer"> Munich </a></b> by Robert Harris
 4. <b><a href="https://amzn.to/3HcqZqo" target="_blank" rel="sponsored noopener noreferrer">KL: A History of the Nazi Concentration Camps</a></b> by Nikolaus Wachsmann
 
