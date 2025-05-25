@@ -20,9 +20,19 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/470-james-holland/">#470</a></td>
+			<td>James Holland</td>
+			<td>May 24, 2025</td>
+		</tr>
+		<tr>
+			<td><a href="/469-oliver-anthony/">#469</a></td>
+			<td>Oliver Anthony</td>
+			<td>May 19, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/468-janna-levin/">#468</a></td>
-			<td>Janna Levin </td>
-			<td>May 5, 2025 </td>
+			<td>Janna Levin</td>
+			<td>May 5, 2025</td>
 		</tr>
 		<tr>
 			<td><a href="/467-tim-sweeney/">#467</a></td>
