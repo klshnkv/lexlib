@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/471-sundar-pichai/">#471</a></td>
+			<td>Sundar Pichai</td>
+			<td>Jun 5, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/470-james-holland/">#470</a></td>
 			<td>James Holland</td>
 			<td>May 24, 2025</td>
