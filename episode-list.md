@@ -20,42 +20,42 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
-			<td><a href="/480-dave-hone/"></a>#480</td>
+			<td><a href="/480-dave-hone/">#480</a></td>
 			<td>Dave Hone</td>
 			<td>Sep 4, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/479-dave-plummer/"></a>#479</td>
+			<td><a href="/479-dave-plummer/">#479</a></td>
 			<td>Dave Plummer</td>
 			<td>Aug 30, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/478-scott-horton/"></a>#478</td>
+			<td><a href="/478-scott-horton/">#478</a></td>
 			<td>Scott Horton</td>
 			<td>Aug 24, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/477-keyu-jin/"></a>#477</td>
+			<td><a href="/477-keyu-jin/">#477</a></td>
 			<td>Keyu Jin</td>
 			<td>Aug 13, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/476-jack-weatherford/"></a>#476</td>
+			<td><a href="/476-jack-weatherford/">#476</a></td>
 			<td>Jack Weatherford</td>
 			<td>Jul 31, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/475-demis-hassabis/"></a>#475</td>
+			<td><a href="/475-demis-hassabis/">#475</a></td>
 			<td>Demis Hassabis</td>
 			<td>Jul 23, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/474-dhh/"></a>#474</td>
+			<td><a href="/474-dhh/">#474</a></td>
 			<td>DHH</td>
 			<td>Jul 12, 2025</td>
 		</tr>
 		<tr>
-			<td><a href="/473-mark-dubowitz-and-scott-horton/"></a>#473</td>
+			<td><a href="/473-mark-dubowitz-and-scott-horton/">#473</a></td>
 			<td>Mark Dubowitz and Scott Horton</td>
 			<td>Jun 26, 2025</td>
 		</tr>
