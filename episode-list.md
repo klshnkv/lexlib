@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/481-norman-ohler/">#481</a></td>
+			<td>Norman Ohler</td>
+			<td>Sep 19, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/480-dave-hone/">#480</a></td>
 			<td>Dave Hone</td>
 			<td>Sep 4, 2025</td>
