@@ -1,6 +1,7 @@
 ---
 title: '#273 – Chris Blattman'
 date: '2022-04-03T23:59:00+00:00'
+permalink: "/273-chris-blattman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #273:

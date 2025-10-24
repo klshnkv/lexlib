@@ -1,6 +1,7 @@
 ---
 title: '#168 – Silvio Micali'
 date: '2021-03-15T23:59:00+00:00'
+permalink: "/168-silvio-micali/"
 ---
 
 Books mentioned on Lex Fridman Podcast #168:

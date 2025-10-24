@@ -1,6 +1,7 @@
 ---
 title: '#407 – Guillaume Verdon'
 date: '2023-12-29'
+permalink: "/407-guillaume-verdon/"
 ---
 
 Books mentioned on Lex Fridman Podcast #407:

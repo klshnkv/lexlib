@@ -1,6 +1,7 @@
 ---
 title: '#425 – Andrew Callaghan'
 date: '2024-04-13'
+permalink: "/425-andrew-callaghan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #425:

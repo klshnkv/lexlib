@@ -1,6 +1,7 @@
 ---
 title: '#76 – John Hopfield'
 date: '2020-02-29T23:59:00+00:00'
+permalink: "/76-john-hopfield/"
 ---
 
 Books mentioned on Lex Fridman Podcast #76:

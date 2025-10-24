@@ -1,6 +1,7 @@
 ---
 title: '#153 – Dmitry Korkin'
 date: '2021-01-11T23:59:00+00:00'
+permalink: "/153-dmitry-korkin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #153:

@@ -1,6 +1,7 @@
 ---
 title: '#100 – Alexander Fridman'
 date: '2020-06-03T23:59:00+00:00'
+permalink: "/100-alexander-fridman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #100:

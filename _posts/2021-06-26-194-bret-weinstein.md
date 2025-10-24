@@ -1,6 +1,7 @@
 ---
 title: '#194 – Bret Weinstein'
 date: '2021-06-26T23:59:00+00:00'
+permalink: "/194-bret-weinstein/"
 ---
 
 Books mentioned on Lex Fridman Podcast #194:

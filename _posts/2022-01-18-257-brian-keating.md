@@ -1,6 +1,7 @@
 ---
 title: '#257 – Brian Keating'
 date: '2022-01-18T23:59:00+00:00'
+permalink: "/257-brian-keating/"
 ---
 
 Books mentioned on Lex Fridman Podcast #257:

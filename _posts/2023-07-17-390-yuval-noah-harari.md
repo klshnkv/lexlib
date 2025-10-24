@@ -1,6 +1,7 @@
 ---
 title: '#390 – Yuval Noah Harari'
 date: '2023-07-17T20:17:23+00:00'
+permalink: "/390-yuval-noah-harari/"
 ---
 
 Books mentioned on Lex Fridman Podcast #390:

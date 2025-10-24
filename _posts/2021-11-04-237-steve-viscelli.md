@@ -1,6 +1,7 @@
 ---
 title: '#237 – Steve Viscelli'
 date: '2021-11-04T23:59:00+00:00'
+permalink: "/237-steve-viscelli/"
 ---
 
 Books mentioned on Lex Fridman Podcast #237:

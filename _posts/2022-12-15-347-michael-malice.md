@@ -1,6 +1,7 @@
 ---
 title: '#347 – Michael Malice'
 date: '2022-12-15T22:01:19+00:00'
+permalink: "/347-michael-malice/"
 ---
 
 Books mentioned on Lex Fridman Podcast #347:

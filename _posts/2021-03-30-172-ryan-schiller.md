@@ -1,6 +1,7 @@
 ---
 title: '#172 – Ryan Schiller'
 date: '2021-03-30T23:59:00+00:00'
+permalink: "/172-ryan-schiller/"
 ---
 
 Books mentioned on Lex Fridman Podcast #172:

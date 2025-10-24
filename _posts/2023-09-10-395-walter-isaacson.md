@@ -1,6 +1,7 @@
 ---
 title: '#395 – Walter Isaacson'
 date: '2023-09-10T23:59:00+00:00'
+permalink: "/395-walter-isaacson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #395:

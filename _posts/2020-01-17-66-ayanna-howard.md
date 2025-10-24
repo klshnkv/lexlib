@@ -1,6 +1,7 @@
 ---
 title: '#66 – Ayanna Howard'
 date: '2020-01-17T23:59:00+00:00'
+permalink: "/66-ayanna-howard/"
 ---
 
 Books mentioned on Lex Fridman Podcast #66:

@@ -1,6 +1,7 @@
 ---
 title: '#77 – Alex Garland'
 date: '2020-03-03T23:59:00+00:00'
+permalink: "/77-alex-garland/"
 ---
 
 Books mentioned on Lex Fridman Podcast #77:

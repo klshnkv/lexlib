@@ -1,6 +1,7 @@
 ---
 title: '#161 – Jason Calacanis'
 date: '2021-02-15T23:59:00+00:00'
+permalink: "/161-jason-calacanis/"
 ---
 
 Books mentioned on Lex Fridman Podcast #161:

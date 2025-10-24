@@ -1,6 +1,7 @@
 ---
 title: '#338 – Chamath Palihapitiya'
 date: '2022-11-15T23:59:00+00:00'
+permalink: "/338-chamath-palihapitiya/"
 ---
 
 Books mentioned on Lex Fridman Podcast #338:

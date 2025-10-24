@@ -1,6 +1,7 @@
 ---
 title: '#112 – Ian Hutchinson'
 date: '2020-07-29T23:59:00+00:00'
+permalink: "/112-ian-hutchinson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #112:

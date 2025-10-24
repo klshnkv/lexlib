@@ -1,6 +1,7 @@
 ---
 title: '#149 – Diana Walsh Pasulka'
 date: '2020-12-28T23:59:00+00:00'
+permalink: "/149-diana-walsh-pasulka/"
 ---
 
 Books mentioned on Lex Fridman Podcast #149:

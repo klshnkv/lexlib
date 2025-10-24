@@ -1,6 +1,7 @@
 ---
 title: '#352 – Omar Suleiman'
 date: '2023-01-17T23:59:00+00:00'
+permalink: "/352-omar-suleiman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #352:

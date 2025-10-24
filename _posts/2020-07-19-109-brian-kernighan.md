@@ -1,6 +1,7 @@
 ---
 title: '#109 – Brian Kernighan'
 date: '2020-07-19T23:59:00+00:00'
+permalink: "/109-brian-kernighan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #109:

@@ -1,6 +1,7 @@
 ---
 title: '#135 – Charles Isbell'
 date: '2020-11-02T23:59:00+00:00'
+permalink: "/135-charles-isbell/"
 ---
 
 Books mentioned on Lex Fridman Podcast #135:

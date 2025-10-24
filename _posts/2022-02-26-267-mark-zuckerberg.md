@@ -1,6 +1,7 @@
 ---
 title: '#267 – Mark Zuckerberg'
 date: '2022-02-26T23:59:00+00:00'
+permalink: "/267-mark-zuckerberg/"
 ---
 
 Books mentioned on Lex Fridman Podcast #267:

@@ -1,6 +1,7 @@
 ---
 title: '#93 – Daphne Koller'
 date: '2020-05-06T23:59:00+00:00'
+permalink: "/93-daphne-koller/"
 ---
 
 Books mentioned on Lex Fridman Podcast #93:

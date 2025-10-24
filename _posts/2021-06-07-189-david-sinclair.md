@@ -1,6 +1,7 @@
 ---
 title: '#189 – David Sinclair'
 date: '2021-06-07T23:59:00+00:00'
+permalink: "/189-david-sinclair/"
 ---
 
 Books mentioned on Lex Fridman Podcast #189:

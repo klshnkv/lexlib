@@ -1,6 +1,7 @@
 ---
 title: '#326 – Annaka Harris'
 date: '2022-10-05T23:59:00+00:00'
+permalink: "/326-annaka-harris/"
 ---
 
 Books mentioned on Lex Fridman Podcast #326:

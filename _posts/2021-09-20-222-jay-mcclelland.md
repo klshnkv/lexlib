@@ -1,6 +1,7 @@
 ---
 title: '#222 – Jay McClelland'
 date: '2021-09-20T11:59:00+00:00'
+permalink: "/222-jay-mcclelland/"
 ---
 
 Books mentioned on Lex Fridman Podcast #222:

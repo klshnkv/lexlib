@@ -1,6 +1,7 @@
 ---
 title: '#458 - Marc Andreessen'
 date: '2025-01-26'
+permalink: "/458-marc-andreessen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #458:

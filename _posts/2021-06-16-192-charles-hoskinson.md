@@ -1,6 +1,7 @@
 ---
 title: '#192 – Charles Hoskinson'
 date: '2021-06-16T23:59:00+00:00'
+permalink: "/192-charles-hoskinson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #192:

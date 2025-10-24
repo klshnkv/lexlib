@@ -1,6 +1,7 @@
 ---
 title: '#379 – Randall Kennedy'
 date: '2023-05-24T11:59:00+00:00'
+permalink: "/379-randall-kennedy/"
 ---
 
 Books mentioned on Lex Fridman Podcast #379:

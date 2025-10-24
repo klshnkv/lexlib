@@ -1,6 +1,7 @@
 ---
 title: '#94 – Ilya Sutskever'
 date: '2020-05-09T23:59:00+00:00'
+permalink: "/94-ilya-sutskever/"
 ---
 
 Books mentioned on Lex Fridman Podcast #94:

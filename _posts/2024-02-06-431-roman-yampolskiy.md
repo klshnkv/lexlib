@@ -1,6 +1,7 @@
 ---
 title: '#431 – Roman Yampolskiy'
 date: '2024-06-02'
+permalink: "/431-roman-yampolskiy/"
 ---
 
 Books mentioned on Lex Fridman Podcast #431:

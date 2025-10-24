@@ -1,6 +1,7 @@
 ---
 title: '#276 – Michael Saylor'
 date: '2022-04-14T23:59:00+00:00'
+permalink: "/276-michael-saylor/"
 ---
 
 Books mentioned on Lex Fridman Podcast #276:

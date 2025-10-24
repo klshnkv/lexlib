@@ -1,6 +1,7 @@
 ---
 title: '#57 – Rohit Prasad'
 date: '2019-12-14T23:59:00+00:00'
+permalink: "/57-rohit-prasad/"
 ---
 
 Books mentioned on Lex Fridman Podcast #57:

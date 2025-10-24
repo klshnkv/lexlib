@@ -1,6 +1,7 @@
 ---
 title: '#88 – Eric Weinstein'
 date: '2020-04-14T23:59:00+00:00'
+permalink: "/88-eric-weinstein/"
 ---
 
 Books mentioned on Lex Fridman Podcast #88:

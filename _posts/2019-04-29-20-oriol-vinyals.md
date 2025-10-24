@@ -1,6 +1,7 @@
 ---
 title: '#20 – Oriol Vinyals'
 date: '2019-04-29T23:59:00+00:00'
+permalink: "/20-oriol-vinyals/"
 ---
 
 Books mentioned on Lex Fridman Podcast #20:

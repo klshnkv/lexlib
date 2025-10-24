@@ -1,6 +1,7 @@
 ---
 title: '#280 – Cristiano Amon'
 date: '2022-04-27T23:59:00+00:00'
+permalink: "/280-cristiano-amon/"
 ---
 
 Books mentioned on Lex Fridman Podcast #280:

@@ -1,6 +1,7 @@
 ---
 title: '#435 – Andrew Huberman'
 date: '2024-06-28'
+permalink: "/435-andrew-huberman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #435:

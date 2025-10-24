@@ -1,6 +1,7 @@
 ---
 title: '#133 – Manolis Kellis'
 date: '2020-10-26T23:59:00+00:00'
+permalink: "/133-manolis-kellis/"
 ---
 
 Books mentioned on Lex Fridman Podcast #133:

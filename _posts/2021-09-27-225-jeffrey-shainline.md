@@ -1,6 +1,7 @@
 ---
 title: '#225 – Jeffrey Shainline'
 date: '2021-09-27T23:59:00+00:00'
+permalink: "/225-jeffrey-shainline/"
 ---
 
 Books mentioned on Lex Fridman Podcast #225:

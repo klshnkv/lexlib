@@ -1,6 +1,7 @@
 ---
 title: '#58 – Michael Stevens'
 date: '2019-12-17T23:59:00+00:00'
+permalink: "/58-michael-stevens/"
 ---
 
 Books mentioned on Lex Fridman Podcast #58:

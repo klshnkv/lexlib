@@ -1,6 +1,7 @@
 ---
 title: '#13 – Tomaso Poggio'
 date: '2019-01-19T23:59:00+00:00'
+permalink: "/13-tomaso-poggio/"
 ---
 
 Books mentioned on Lex Fridman Podcast #13:

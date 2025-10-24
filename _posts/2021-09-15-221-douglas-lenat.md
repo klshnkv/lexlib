@@ -1,6 +1,7 @@
 ---
 title: '#221 – Douglas Lenat'
 date: '2021-09-15T23:59:00+00:00'
+permalink: "/221-douglas-lenat/"
 ---
 
 Books mentioned on Lex Fridman Podcast #221:

@@ -1,6 +1,7 @@
 ---
 title: '#459 - Dylan Patel and Nathan Lambert'
 date: '2025-02-03'
+permalink: "/459-dylan-patel-and-nathan-lambert/"
 ---
 
 Books mentioned on Lex Fridman Podcast #459:

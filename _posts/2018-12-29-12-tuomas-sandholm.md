@@ -1,6 +1,7 @@
 ---
 title: '#12 – Tuomas Sandholm'
 date: '2018-12-29T23:59:00+00:00'
+permalink: "/12-tuomas-sandholm/"
 ---
 
 Books mentioned on Lex Fridman Podcast #12:

@@ -1,6 +1,7 @@
 ---
 title: '#163 – Eric Weinstein'
 date: '2021-02-23T23:59:00+00:00'
+permalink: "/163-eric-weinstein/"
 ---
 
 Books mentioned on Lex Fridman Podcast #163:

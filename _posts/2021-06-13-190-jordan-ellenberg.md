@@ -1,6 +1,7 @@
 ---
 title: '#190 – Jordan Ellenberg'
 date: '2021-06-13T23:59:00+00:00'
+permalink: "/190-jordan-ellenberg/"
 ---
 
 Books mentioned on Lex Fridman Podcast #190:

@@ -1,6 +1,7 @@
 ---
 title: '#418 – Finkelstein, Destiny, M. Rabbani, and Benny Morris'
 date: '2024-03-14'
+permalink: "/418-finkelstein-destiny-m-rabbani-and-benny-morris/"
 ---
 
 Books mentioned on Lex Fridman Podcast #418 Israel-Palestine Debate: Finkelstein, Destiny, M. Rabbani & Benny Morris:

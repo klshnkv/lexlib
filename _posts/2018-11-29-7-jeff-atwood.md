@@ -1,6 +1,7 @@
 ---
 title: '#7 – Jeff Atwood'
 date: '2018-11-29T23:59:00+00:00'
+permalink: "/7-jeff-atwood/"
 ---
 
 Books mentioned on Lex Fridman Podcast #7:

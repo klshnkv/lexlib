@@ -1,6 +1,7 @@
 ---
 title: '#278 – Skye Fitzgerald'
 date: '2022-04-21T23:59:00+00:00'
+permalink: "/278-skye-fitzgerald/"
 ---
 
 Books mentioned on Lex Fridman Podcast #278:

@@ -1,6 +1,7 @@
 ---
 title: '#324 – Daniel Negreanu'
 date: '2022-09-27T23:59:00+00:00'
+permalink: "/324-daniel-negreanu/"
 ---
 
 Books mentioned on Lex Fridman Podcast #324:

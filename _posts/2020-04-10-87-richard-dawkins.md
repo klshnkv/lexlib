@@ -1,6 +1,7 @@
 ---
 title: '#87 – Richard Dawkins'
 date: '2020-04-10T23:59:00+00:00'
+permalink: "/87-richard-dawkins/"
 ---
 
 Books mentioned on Lex Fridman Podcast #:

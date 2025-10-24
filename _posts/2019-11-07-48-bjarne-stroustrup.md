@@ -1,6 +1,7 @@
 ---
 title: '#48 – Bjarne Stroustrup'
 date: '2019-11-07T23:59:00+00:00'
+permalink: "/48-bjarne-stroustrup/"
 ---
 
 Books mentioned on Lex Fridman Podcast #48:

@@ -1,6 +1,7 @@
 ---
 title: '#359 – Andrew Strominger'
 date: '2023-02-15T23:59:00+00:00'
+permalink: "/359-andrew-strominger/"
 ---
 
 Books mentioned on Lex Fridman Podcast #359:

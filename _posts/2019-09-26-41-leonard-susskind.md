@@ -1,6 +1,7 @@
 ---
 title: '#41 – Leonard Susskind'
 date: '2019-09-26T23:59:00+00:00'
+permalink: "/41-leonard-susskind/"
 ---
 
 Books mentioned on Lex Fridman Podcast #41:

@@ -1,6 +1,7 @@
 ---
 title: '#201 – Konstantin Batygin'
 date: '2021-07-19T23:59:00+00:00'
+permalink: "/201-konstantin-batygin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #201:

@@ -1,6 +1,7 @@
 ---
 title: '#99 – Karl Friston'
 date: '2020-05-28T23:59:00+00:00'
+permalink: "/99-karl-friston/"
 ---
 
 Books mentioned on Lex Fridman Podcast #99:

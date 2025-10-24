@@ -1,6 +1,7 @@
 ---
 title: '#53 – Noam Chomsky'
 date: '2019-11-29T11:59:00+00:00'
+permalink: "/53-noam-chomsky/"
 ---
 
 Books mentioned on Lex Fridman Podcast #53:

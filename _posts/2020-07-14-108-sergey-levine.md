@@ -1,6 +1,7 @@
 ---
 title: '#108 – Sergey Levine'
 date: '2020-07-14T23:59:00+00:00'
+permalink: "/108-sergey-levine/"
 ---
 
 Books mentioned on Lex Fridman Podcast #108:

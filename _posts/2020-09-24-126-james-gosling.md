@@ -1,6 +1,7 @@
 ---
 title: '#126 – James Gosling'
 date: '2020-09-24T23:59:00+00:00'
+permalink: "/126-james-gosling/"
 ---
 
 Books mentioned on Lex Fridman Podcast #126:

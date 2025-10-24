@@ -1,6 +1,7 @@
 ---
 title: '#434 – Aravind Srinivas'
 date: '2024-06-19'
+permalink: "/434-aravind-srinivas/"
 ---
 
 Books mentioned on Lex Fridman Podcast #434:

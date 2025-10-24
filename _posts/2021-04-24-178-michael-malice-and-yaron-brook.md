@@ -1,6 +1,7 @@
 ---
 title: '#178 – Michael Malice and Yaron Brook'
 date: '2021-04-24T23:59:00+00:00'
+permalink: "/178-michael-malice-and-yaron-brook/"
 ---
 
 Books mentioned on Lex Fridman Podcast #178:

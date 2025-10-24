@@ -1,6 +1,7 @@
 ---
 title: '#330 – Hikaru Nakamura'
 date: '2022-10-17T23:59:00+00:00'
+permalink: "/330-hikaru-nakamura/"
 ---
 
 Books mentioned on Lex Fridman Podcast #330:

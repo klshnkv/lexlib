@@ -1,6 +1,7 @@
 ---
 title: '#28 – Chris Urmson'
 date: '2019-07-22T23:59:00+00:00'
+permalink: "/28-chris-urmson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #28:

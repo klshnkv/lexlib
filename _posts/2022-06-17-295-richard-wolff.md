@@ -1,6 +1,7 @@
 ---
 title: '#295 – Richard Wolff'
 date: '2022-06-17T23:59:00+00:00'
+permalink: "/295-richard-wolff/"
 ---
 
 Books mentioned on Lex Fridman Podcast #295:

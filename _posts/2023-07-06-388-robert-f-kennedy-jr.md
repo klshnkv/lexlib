@@ -1,6 +1,7 @@
 ---
 title: '#388 – Robert F. Kennedy Jr.'
 date: '2023-07-06T20:51:55+00:00'
+permalink: "/388-robert-f-kennedy-jr/"
 ---
 
 Books mentioned on Lex Fridman Podcast #388:

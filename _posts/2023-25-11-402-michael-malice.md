@@ -1,6 +1,7 @@
 ---
 title: '#402 – Michael Malice'
 date: '2023-11-25'
+permalink: "/402-michael-malice/"
 ---
 
 Books mentioned on Lex Fridman Podcast #402:

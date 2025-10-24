@@ -1,6 +1,7 @@
 ---
 title: '#414 – Tucker Carlson'
 date: '2024-02-27'
+permalink: "/414-tucker-carlson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #414:

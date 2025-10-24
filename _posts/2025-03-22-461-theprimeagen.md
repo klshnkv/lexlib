@@ -1,6 +1,7 @@
 ---
 title: '#461 - ThePrimeagen'
 date: '2025-03-22'
+permalink: "/461-theprimeagen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #461:

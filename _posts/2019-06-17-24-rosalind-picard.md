@@ -1,6 +1,7 @@
 ---
 title: '#24 – Rosalind Picard'
 date: '2019-06-17T05:58:00+00:00'
+permalink: "/24-rosalind-picard/"
 ---
 
 Books mentioned on Lex Fridman Podcast #24:

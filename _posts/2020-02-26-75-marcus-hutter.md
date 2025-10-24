@@ -1,6 +1,7 @@
 ---
 title: '#75 – Marcus Hutter'
 date: '2020-02-26T23:59:00+00:00'
+permalink: "/75-marcus-hutter/"
 ---
 
 Books mentioned on Lex Fridman Podcast #75:

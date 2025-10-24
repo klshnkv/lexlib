@@ -1,6 +1,7 @@
 ---
 title: '#463 - Douglas Murray'
 date: '2025-03-30'
+permalink: "/463-douglas-murray/"
 ---
 
 Books mentioned on Lex Fridman Podcast #463:

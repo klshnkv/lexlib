@@ -1,6 +1,7 @@
 ---
 title: '#96 – Stephen Schwarzman'
 date: '2020-05-16T23:59:00+00:00'
+permalink: "/96-stephen-schwarzman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #96:

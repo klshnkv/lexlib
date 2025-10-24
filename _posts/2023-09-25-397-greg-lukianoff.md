@@ -1,6 +1,7 @@
 ---
 title: '#397 – Greg Lukianoff'
 date: '2023-09-25T23:59:00+00:00'
+permalink: "/397-greg-lukianoff/"
 ---
 
 Books mentioned on Lex Fridman Podcast #397:

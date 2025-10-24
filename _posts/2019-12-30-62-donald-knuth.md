@@ -1,6 +1,7 @@
 ---
 title: '#62 – Donald Knuth'
 date: '2019-12-30T23:59:00+00:00'
+permalink: "/62-donald-knuth/"
 ---
 
 Books mentioned on Lex Fridman Podcast #62:

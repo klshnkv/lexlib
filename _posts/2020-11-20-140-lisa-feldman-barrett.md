@@ -1,6 +1,7 @@
 ---
 title: '#140 – Lisa Feldman Barrett'
 date: '2020-11-20T23:59:00+00:00'
+permalink: "/140-lisa-feldman-barrett/"
 ---
 
 Books mentioned on Lex Fridman Podcast #140:

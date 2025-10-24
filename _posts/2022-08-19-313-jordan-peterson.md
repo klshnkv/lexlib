@@ -1,6 +1,7 @@
 ---
 title: '#313 – Jordan Peterson'
 date: '2022-08-19T23:59:00+00:00'
+permalink: "/313-jordan-peterson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #313:

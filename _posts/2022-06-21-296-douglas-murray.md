@@ -1,6 +1,7 @@
 ---
 title: '#296 – Douglas Murray'
 date: '2022-06-21T23:59:00+00:00'
+permalink: "/296-douglas-murray/"
 ---
 
 Books mentioned on Lex Fridman Podcast #296:

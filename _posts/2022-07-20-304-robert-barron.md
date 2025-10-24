@@ -1,6 +1,7 @@
 ---
 title: '#304 – Robert Barron'
 date: '2022-07-20T11:28:00+00:00'
+permalink: "/304-robert-barron/"
 ---
 
 Books mentioned on Lex Fridman Podcast #304:

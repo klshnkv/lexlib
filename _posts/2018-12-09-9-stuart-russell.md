@@ -1,6 +1,7 @@
 ---
 title: '#9 – Stuart Russell'
 date: '2018-12-09T23:59:00+00:00'
+permalink: "/9-stuart-russell/"
 ---
 
 Books mentioned on Lex Fridman Podcast #9:

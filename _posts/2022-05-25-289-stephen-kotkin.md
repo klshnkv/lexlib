@@ -1,6 +1,7 @@
 ---
 title: '#289 – Stephen Kotkin'
 date: '2022-05-25T23:59:00+00:00'
+permalink: "/289-stephen-kotkin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #289:

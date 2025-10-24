@@ -1,6 +1,7 @@
 ---
 title: '#260 – Georges St-Pierre, John Danaher &amp; Gordon Ryan'
 date: '2022-01-30T23:59:00+00:00'
+permalink: "/260-georges-st-pierre-john-danaher-gordon-ryan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #260:

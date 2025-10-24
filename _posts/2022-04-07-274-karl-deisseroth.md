@@ -1,6 +1,7 @@
 ---
 title: '#274 – Karl Deisseroth'
 date: '2022-04-07T23:59:00+00:00'
+permalink: "/274-karl-deisseroth/"
 ---
 
 Books mentioned on Lex Fridman Podcast #274:

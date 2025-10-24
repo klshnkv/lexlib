@@ -1,6 +1,7 @@
 ---
 title: '#38 – Francois Chollet'
 date: '2019-09-14T23:59:00+00:00'
+permalink: "/38-francois-chollet/"
 ---
 
 Books mentioned on Lex Fridman Podcast #38:

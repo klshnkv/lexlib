@@ -1,6 +1,7 @@
 ---
 title: '#2 – Christof Koch'
 date: '2018-05-29T23:59:00+00:00'
+permalink: "/2-christof-koch/"
 ---
 
 Books mentioned on Lex Fridman Podcast #2:

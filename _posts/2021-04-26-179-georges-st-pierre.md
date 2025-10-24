@@ -1,6 +1,7 @@
 ---
 title: '#179 – Georges St-Pierre'
 date: '2021-04-26T23:59:00+00:00'
+permalink: "/179-georges-st-pierre/"
 ---
 
 Books mentioned on Lex Fridman Podcast #179:

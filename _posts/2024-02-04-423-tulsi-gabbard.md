@@ -1,6 +1,7 @@
 ---
 title: '#423 – Tulsi Gabbard'
 date: '2024-04-02'
+permalink: "/423-tulsi-gabbard/"
 ---
 
 Books mentioned on Lex Fridman Podcast #423:

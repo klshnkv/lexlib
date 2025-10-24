@@ -1,6 +1,7 @@
 ---
 title: '#55 – Whitney Cummings'
 date: '2019-12-05T08:28:00+00:00'
+permalink: "/55-whitney-cummings/"
 ---
 
 Books mentioned on Lex Fridman Podcast #55:

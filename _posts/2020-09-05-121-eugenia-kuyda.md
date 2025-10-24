@@ -1,6 +1,7 @@
 ---
 title: '#121 – Eugenia Kuyda'
 date: '2020-09-05T23:59:00+00:00'
+permalink: "/121-eugenia-kuyda/"
 ---
 
 Books mentioned on Lex Fridman Podcast #121:

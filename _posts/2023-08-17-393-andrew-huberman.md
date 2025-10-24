@@ -1,6 +1,7 @@
 ---
 title: '#393 – Andrew Huberman'
 date: '2023-08-17T20:09:02+00:00'
+permalink: "/393-andrew-huberman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #393:

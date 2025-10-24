@@ -1,6 +1,7 @@
 ---
 title: '#23 – Gavin Miller'
 date: '2019-06-11T23:59:00+00:00'
+permalink: "/23-gavin-miller/"
 ---
 
 Books mentioned on Lex Fridman Podcast #23:

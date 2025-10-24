@@ -1,6 +1,7 @@
 ---
 title: '#297 – Jonathan Reisman'
 date: '2022-06-25T23:59:00+00:00'
+permalink: "/297-jonathan-reisman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #297:

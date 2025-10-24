@@ -1,6 +1,7 @@
 ---
 title: '#376 – Stephen Wolfram'
 date: '2023-05-09T23:59:00+00:00'
+permalink: "/376-stephen-wolfram/"
 ---
 
 Books mentioned on Lex Fridman Podcast #376:

@@ -1,6 +1,7 @@
 ---
 title: '#322 – Rana el Kaliouby'
 date: '2022-09-21T23:59:00+00:00'
+permalink: "/322-rana-el-kaliouby/"
 ---
 
 Books mentioned on Lex Fridman Podcast #322:

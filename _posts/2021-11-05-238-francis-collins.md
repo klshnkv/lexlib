@@ -1,6 +1,7 @@
 ---
 title: '#238 – Francis Collins'
 date: '2021-11-05T23:59:00+00:00'
+permalink: "/238-francis-collins/"
 ---
 
 Books mentioned on Lex Fridman Podcast #238:

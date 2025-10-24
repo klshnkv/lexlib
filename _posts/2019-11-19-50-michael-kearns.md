@@ -1,6 +1,7 @@
 ---
 title: '#50 – Michael Kearns'
 date: '2019-11-19T23:59:00+00:00'
+permalink: "/50-michael-kearns/"
 ---
 
 Books mentioned on Lex Fridman Podcast #50:

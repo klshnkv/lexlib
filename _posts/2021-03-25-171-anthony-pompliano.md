@@ -1,6 +1,7 @@
 ---
 title: '#171 – Anthony Pompliano'
 date: '2021-03-25T23:59:00+00:00'
+permalink: "/171-anthony-pompliano/"
 ---
 
 Books mentioned on Lex Fridman Podcast #171:

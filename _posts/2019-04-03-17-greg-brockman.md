@@ -1,6 +1,7 @@
 ---
 title: '#17 – Greg Brockman'
 date: '2019-04-03T23:59:00+00:00'
+permalink: "/17-greg-brockman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #17:

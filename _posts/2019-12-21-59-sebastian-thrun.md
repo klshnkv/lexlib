@@ -1,6 +1,7 @@
 ---
 title: '#59 – Sebastian Thrun'
 date: '2019-12-21T23:59:00+00:00'
+permalink: "/59-sebastian-thrun/"
 ---
 
 Books mentioned on Lex Fridman Podcast #59:

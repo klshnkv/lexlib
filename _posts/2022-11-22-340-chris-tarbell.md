@@ -1,6 +1,7 @@
 ---
 title: '#340 – Chris Tarbell'
 date: '2022-11-22T23:59:00+00:00'
+permalink: "/340-chris-tarbell/"
 ---
 
 Books mentioned on Lex Fridman Podcast #340:

@@ -1,6 +1,7 @@
 ---
 title: '#191 – Daniel Schmachtenberger'
 date: '2021-06-14T23:59:00+00:00'
+permalink: "/191-daniel-schmachtenberger/"
 ---
 
 Books mentioned on Lex Fridman Podcast #191:

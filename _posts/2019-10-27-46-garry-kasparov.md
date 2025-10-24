@@ -1,6 +1,7 @@
 ---
 title: '#46 – Garry Kasparov'
 date: '2019-10-27T23:59:00+00:00'
+permalink: "/46-garry-kasparov/"
 ---
 
 Books mentioned on Lex Fridman Podcast #46:

@@ -1,6 +1,7 @@
 ---
 title: '#374 – Robert Playter'
 date: '2023-04-28T23:59:00+00:00'
+permalink: "/374-robert-playter/"
 ---
 
 Books mentioned on Lex Fridman Podcast #374:

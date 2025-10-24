@@ -1,6 +1,7 @@
 ---
 title: '#157 – Natalya Bailey'
 date: '2021-02-01T23:59:00+00:00'
+permalink: "/157-natalya-bailey/"
 ---
 
 Books mentioned on Lex Fridman Podcast #157:

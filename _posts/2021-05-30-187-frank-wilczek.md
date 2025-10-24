@@ -1,6 +1,7 @@
 ---
 title: '#187 – Frank Wilczek'
 date: '2021-05-30T23:59:00+00:00'
+permalink: "/187-frank-wilczek/"
 ---
 
 Books mentioned on Lex Fridman Podcast #187:

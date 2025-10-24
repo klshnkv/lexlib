@@ -1,6 +1,7 @@
 ---
 title: '#284 – Saifedean Ammous'
 date: '2022-05-11T23:59:00+00:00'
+permalink: "/284-saifedean-ammous/"
 ---
 
 Books mentioned on Lex Fridman Podcast #284:

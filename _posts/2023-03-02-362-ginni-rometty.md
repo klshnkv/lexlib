@@ -1,6 +1,7 @@
 ---
 title: '#362 – Ginni Rometty'
 date: '2023-03-02T23:59:00+00:00'
+permalink: "/362-ginni-rometty/"
 ---
 
 Books mentioned on Lex Fridman Podcast #362:

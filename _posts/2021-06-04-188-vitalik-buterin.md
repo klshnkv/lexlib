@@ -1,6 +1,7 @@
 ---
 title: '#188 – Vitalik Buterin'
 date: '2021-06-04T23:59:00+00:00'
+permalink: "/188-vitalik-buterin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #188:

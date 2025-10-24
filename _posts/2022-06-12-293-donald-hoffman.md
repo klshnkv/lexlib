@@ -1,6 +1,7 @@
 ---
 title: '#293 – Donald Hoffman'
 date: '2022-06-12T23:59:00+00:00'
+permalink: "/293-donald-hoffman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #293:

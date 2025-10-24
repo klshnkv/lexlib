@@ -1,6 +1,7 @@
 ---
 title: '#134 – Eric Weinstein'
 date: '2020-10-30T23:59:00+00:00'
+permalink: "/134-eric-weinstein/"
 ---
 
 Books mentioned on Lex Fridman Podcast #134:

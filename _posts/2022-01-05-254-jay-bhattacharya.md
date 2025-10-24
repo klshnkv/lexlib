@@ -1,6 +1,7 @@
 ---
 title: '#254 – Jay Bhattacharya'
 date: '2022-01-05T23:59:00+00:00'
+permalink: "/254-jay-bhattacharya/"
 ---
 
 Books mentioned on Lex Fridman Podcast #254:

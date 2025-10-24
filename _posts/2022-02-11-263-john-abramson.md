@@ -1,6 +1,7 @@
 ---
 title: '#263 – John Abramson'
 date: '2022-02-11T23:59:00+00:00'
+permalink: "/263-john-abramson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #263:

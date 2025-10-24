@@ -1,6 +1,7 @@
 ---
 title: '#307 – Brian Armstrong'
 date: '2022-07-29T23:59:00+00:00'
+permalink: "/307-brian-armstrong/"
 ---
 
 Books mentioned on Lex Fridman Podcast #307:

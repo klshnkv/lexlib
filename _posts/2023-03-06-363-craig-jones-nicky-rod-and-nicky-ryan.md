@@ -1,6 +1,7 @@
 ---
 title: '#363 – Craig Jones, Nicky Rod, and Nicky Ryan'
 date: '2023-03-06T23:59:00+00:00'
+permalink: "/363-craig-jones-nicky-rod-and-nicky-ryan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #363 B-Team Jiu Jitsu: Craig Jones, Nicky Rod, and Nicky Ryan:

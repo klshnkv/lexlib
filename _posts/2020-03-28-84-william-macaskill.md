@@ -1,6 +1,7 @@
 ---
 title: '#84 – William MacAskill'
 date: '2020-03-28T23:59:00+00:00'
+permalink: "/84-william-macaskill/"
 ---
 
 Books mentioned on Lex Fridman Podcast #84:

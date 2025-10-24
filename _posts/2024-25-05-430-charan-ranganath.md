@@ -1,6 +1,7 @@
 ---
 title: '#430 – Charan Ranganath'
 date: '2024-05-25'
+permalink: "/430-charan-ranganath/"
 ---
 
 Books mentioned on Lex Fridman Podcast #430:

@@ -1,6 +1,7 @@
 ---
 title: '#119 – David Eagleman'
 date: '2020-08-26T23:59:00+00:00'
+permalink: "/119-david-eagleman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #119:

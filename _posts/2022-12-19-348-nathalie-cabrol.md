@@ -1,6 +1,7 @@
 ---
 title: '#348 – Nathalie Cabrol'
 date: '2022-12-19T23:59:00+00:00'
+permalink: "/348-nathalie-cabrol/"
 ---
 
 Books mentioned on Lex Fridman Podcast #348:

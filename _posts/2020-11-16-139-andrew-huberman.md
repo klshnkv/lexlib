@@ -1,6 +1,7 @@
 ---
 title: '#139 – Andrew Huberman'
 date: '2020-11-16T23:59:00+00:00'
+permalink: "/139-andrew-huberman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #139:

@@ -1,6 +1,7 @@
 ---
 title: '#366 – Shannon Curry'
 date: '2023-03-22T23:59:00+00:00'
+permalink: "/366-shannon-curry/"
 ---
 
 Books mentioned on Lex Fridman Podcast #366:

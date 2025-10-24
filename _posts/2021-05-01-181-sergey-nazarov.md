@@ -1,6 +1,7 @@
 ---
 title: '#181 – Sergey Nazarov'
 date: '2021-05-01T23:59:00+00:00'
+permalink: "/181-sergey-nazarov/"
 ---
 
 Books mentioned on Lex Fridman Podcast #181:

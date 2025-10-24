@@ -1,6 +1,7 @@
 ---
 title: '#268 – Robert Proctor'
 date: '2022-03-05T23:59:00+00:00'
+permalink: "/268-robert-proctor/"
 ---
 
 Books mentioned on Lex Fridman Podcast #268:

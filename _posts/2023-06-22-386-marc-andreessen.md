@@ -1,6 +1,7 @@
 ---
 title: '#386 – Marc Andreessen'
 date: '2023-06-22T17:19:35+00:00'
+permalink: "/386-marc-andreessen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #386:

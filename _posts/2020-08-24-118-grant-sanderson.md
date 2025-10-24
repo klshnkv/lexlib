@@ -1,6 +1,7 @@
 ---
 title: '#118 – Grant Sanderson'
 date: '2020-08-24T23:59:00+00:00'
+permalink: "/118-grant-sanderson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #118:

@@ -1,6 +1,7 @@
 ---
 title: '#144 – Michael Littman'
 date: '2020-12-13T23:59:00+00:00'
+permalink: "/144-michael-littman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #144:

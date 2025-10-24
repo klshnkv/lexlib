@@ -1,6 +1,7 @@
 ---
 title: '#249 – Albert Bourla'
 date: '2021-12-18T23:59:00+00:00'
+permalink: "/249-albert-bourla/"
 ---
 
 Books mentioned on Lex Fridman Podcast #249:

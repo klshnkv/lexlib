@@ -1,6 +1,7 @@
 ---
 title: '#25 – Jeff Hawkins'
 date: '2019-07-01T23:59:00+00:00'
+permalink: "/25-jeff-hawkins/"
 ---
 
 Books mentioned on Lex Fridman Podcast #25:

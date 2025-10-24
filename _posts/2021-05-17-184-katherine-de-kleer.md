@@ -1,6 +1,7 @@
 ---
 title: '#184 – Katherine de Kleer'
 date: '2021-05-17T23:59:00+00:00'
+permalink: "/184-katherine-de-kleer/"
 ---
 
 Books mentioned on Lex Fridman Podcast #184:

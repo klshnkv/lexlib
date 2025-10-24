@@ -1,6 +1,7 @@
 ---
 title: '#424 – Bassem Youssef'
 date: '2024-04-05'
+permalink: "/424-bassem-youssef/"
 ---
 
 Books mentioned on Lex Fridman Podcast #424:

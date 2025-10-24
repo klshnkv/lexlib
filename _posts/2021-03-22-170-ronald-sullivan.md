@@ -1,6 +1,7 @@
 ---
 title: '#170 – Ronald Sullivan'
 date: '2021-03-22T23:59:00+00:00'
+permalink: "/170-ronald-sullivan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #170:

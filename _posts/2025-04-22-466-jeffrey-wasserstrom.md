@@ -1,6 +1,7 @@
 ---
 title: '#466 - Jeffrey Wasserstrom'
 date: '2025-04-22'
+permalink: "/466-jeffrey-wasserstrom/"
 ---
 
 Books mentioned on Lex Fridman Podcast #466:

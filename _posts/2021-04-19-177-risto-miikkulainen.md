@@ -1,6 +1,7 @@
 ---
 title: '#177 – Risto Miikkulainen'
 date: '2021-04-19T23:59:00+00:00'
+permalink: "/177-risto-miikkulainen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #177:

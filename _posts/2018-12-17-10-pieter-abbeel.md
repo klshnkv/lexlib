@@ -1,6 +1,7 @@
 ---
 title: '#10 – Pieter Abbeel'
 date: '2018-12-17T23:59:00+00:00'
+permalink: "/10-pieter-abbeel/"
 ---
 
 Books mentioned on Lex Fridman Podcast #10:

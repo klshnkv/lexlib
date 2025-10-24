@@ -1,6 +1,7 @@
 ---
 title: '#147 – Dmitri Dolgov'
 date: '2020-12-21T23:59:00+00:00'
+permalink: "/147-dmitri-dolgov/"
 ---
 
 Books mentioned on Lex Fridman Podcast #147:

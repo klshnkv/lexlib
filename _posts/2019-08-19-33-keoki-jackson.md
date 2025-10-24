@@ -1,6 +1,7 @@
 ---
 title: '#33 – Keoki Jackson'
 date: '2019-08-19T23:59:00+00:00'
+permalink: "/33-keoki-jackson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #33:

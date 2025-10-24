@@ -1,6 +1,7 @@
 ---
 title: '#331 – Balaji Srinivasan'
 date: '2022-10-20T23:59:00+00:00'
+permalink: "/331-balaji-srinivasan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #331:

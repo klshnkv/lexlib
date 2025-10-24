@@ -1,6 +1,7 @@
 ---
 title: '#141 – Erik Brynjolfsson'
 date: '2020-11-25T23:59:00+00:00'
+permalink: "/141-erik-brynjolfsson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #141:

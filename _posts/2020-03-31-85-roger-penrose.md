@@ -1,6 +1,7 @@
 ---
 title: '#85 – Roger Penrose'
 date: '2020-03-31T23:59:00+00:00'
+permalink: "/85-roger-penrose/"
 ---
 
 Books mentioned on Lex Fridman Podcast #85:

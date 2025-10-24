@@ -1,6 +1,7 @@
 ---
 title: '#3 – Steven Pinker'
 date: '2018-10-17T23:59:00+00:00'
+permalink: "/3-steven-pinker/"
 ---
 
 Books mentioned on Lex Fridman Podcast #3:

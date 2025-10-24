@@ -1,6 +1,7 @@
 ---
 title: '#216 – Vincent Racaniello'
 date: '2021-09-01T23:59:00+00:00'
+permalink: "/216-vincent-racaniello/"
 ---
 
 Books mentioned on Lex Fridman Podcast #216:

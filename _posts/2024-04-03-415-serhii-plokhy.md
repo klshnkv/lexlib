@@ -1,6 +1,7 @@
 ---
 title: '#415 – Serhii Plokhy'
 date: '2024-03-04'
+permalink: "/415-serhii-plokhy/"
 ---
 
 Books mentioned on Lex Fridman Podcast #415:

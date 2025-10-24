@@ -1,6 +1,7 @@
 ---
 title: '#223 – Travis Stevens'
 date: '2021-09-21T23:59:00+00:00'
+permalink: "/223-travis-stevens/"
 ---
 
 Books mentioned on Lex Fridman Podcast #223:

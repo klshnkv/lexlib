@@ -1,6 +1,7 @@
 ---
 title: '#34 – Pamela McCorduck'
 date: '2019-08-23T23:59:00+00:00'
+permalink: "/34-pamela-mccorduck/"
 ---
 
 Books mentioned on Lex Fridman Podcast #34:

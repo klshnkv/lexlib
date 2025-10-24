@@ -1,6 +1,7 @@
 ---
 title: '#209 – Luís and João Batalha'
 date: '2021-08-09T23:59:00+00:00'
+permalink: "/209-luis-and-joao-batalha/"
 ---
 
 Books mentioned on Lex Fridman Podcast #209:

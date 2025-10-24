@@ -1,6 +1,7 @@
 ---
 title: '#175 – Yannis Pappas'
 date: '2021-04-12T23:59:00+00:00'
+permalink: "/175-yannis-pappas/"
 ---
 
 Books mentioned on Lex Fridman Podcast #175:

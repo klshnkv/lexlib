@@ -1,6 +1,7 @@
 ---
 title: '#266 – Nicole Perlroth'
 date: '2022-02-21T23:59:00+00:00'
+permalink: "/266-nicole-perlroth/"
 ---
 
 Books mentioned on Lex Fridman Podcast #266:

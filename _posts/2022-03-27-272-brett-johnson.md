@@ -1,6 +1,7 @@
 ---
 title: '#272 – Brett Johnson'
 date: '2022-03-27T23:59:00+00:00'
+permalink: "/272-brett-johnson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #272:

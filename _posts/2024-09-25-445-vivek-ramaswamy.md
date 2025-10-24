@@ -1,6 +1,7 @@
 ---
 title: '#445 – Vivek Ramaswamy'
 date: '2024-09-25'
+permalink: "/445-vivek-ramaswamy/"
 ---
 
 Books mentioned on Lex Fridman Podcast #XXX:

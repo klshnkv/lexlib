@@ -1,6 +1,7 @@
 ---
 title: '#368 – Eliezer Yudkowsky'
 date: '2023-03-30T23:59:00+00:00'
+permalink: "/368-eliezer-yudkowsky/"
 ---
 
 Books mentioned on Lex Fridman Podcast #368:

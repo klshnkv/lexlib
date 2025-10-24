@@ -1,6 +1,7 @@
 ---
 title: '#128 – Michael Malice'
 date: '2020-10-02T23:59:00+00:00'
+permalink: "/128-michael-malice/"
 ---
 
 Books mentioned on Lex Fridman Podcast #128:

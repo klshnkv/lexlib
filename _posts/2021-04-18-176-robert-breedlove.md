@@ -1,6 +1,7 @@
 ---
 title: '#176 – Robert Breedlove'
 date: '2021-04-18T23:59:00+00:00'
+permalink: "/176-robert-breedlove/"
 ---
 
 Books mentioned on Lex Fridman Podcast #176:

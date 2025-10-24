@@ -1,6 +1,7 @@
 ---
 title: '#361 – Aaron Smith-Levin'
 date: '2023-02-25T23:59:00+00:00'
+permalink: "/361-aaron-smith-levin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #361:

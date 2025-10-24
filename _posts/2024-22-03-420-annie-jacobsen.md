@@ -1,6 +1,7 @@
 ---
 title: '#420 – Annie Jacobsen'
 date: '2024-03-22'
+permalink: "/420-annie-jacobsen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #420:

@@ -1,6 +1,7 @@
 ---
 title: '#145 – Matthew Johnson'
 date: '2020-12-14T23:59:00+00:00'
+permalink: "/145-matthew-johnson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #145:

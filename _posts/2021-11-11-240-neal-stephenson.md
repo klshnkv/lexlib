@@ -1,6 +1,7 @@
 ---
 title: '#240 – Neal Stephenson'
 date: '2021-11-11T23:59:00+00:00'
+permalink: "/240-neal-stephenson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #240:

@@ -1,6 +1,7 @@
 ---
 title: '#306 – Oriol Vinyals'
 date: '2022-07-26T23:59:00+00:00'
+permalink: "/306-oriol-vinyals/"
 ---
 
 Books mentioned on Lex Fridman Podcast #306:

@@ -1,6 +1,7 @@
 ---
 title: '#403 – Lisa Randall'
 date: '2023-12-3'
+permalink: "/403-lisa-randall/"
 ---
 
 Books mentioned on Lex Fridman Podcast #403:

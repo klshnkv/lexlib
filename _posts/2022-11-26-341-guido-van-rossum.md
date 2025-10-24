@@ -1,6 +1,7 @@
 ---
 title: '#341 – Guido van Rossum'
 date: '2022-11-26T23:59:00+00:00'
+permalink: "/341-guido-van-rossum/"
 ---
 
 Books mentioned on Lex Fridman Podcast #341:

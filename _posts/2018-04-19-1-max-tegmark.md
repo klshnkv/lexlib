@@ -1,6 +1,7 @@
 ---
 title: '#1 – Max Tegmark'
 date: '2018-04-19T23:59:00+00:00'
+permalink: "/1-max-tegmark/"
 ---
 
 Books mentioned on Lex Fridman Podcast #1:

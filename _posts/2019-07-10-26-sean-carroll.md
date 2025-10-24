@@ -1,6 +1,7 @@
 ---
 title: '#26 – Sean Carroll'
 date: '2019-07-10T23:59:00+00:00'
+permalink: "/26-sean-carroll/"
 ---
 
 Books mentioned on Lex Fridman Podcast #26:

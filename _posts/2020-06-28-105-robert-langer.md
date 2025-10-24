@@ -1,6 +1,7 @@
 ---
 title: '#105 – Robert Langer'
 date: '2020-06-28T23:59:00+00:00'
+permalink: "/105-robert-langer/"
 ---
 
 Books mentioned on Lex Fridman Podcast #105:

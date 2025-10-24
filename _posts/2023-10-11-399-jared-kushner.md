@@ -1,6 +1,7 @@
 ---
 title: '#399 – Jared Kushner'
 date: '2023-10-11T23:59:00+00:00'
+permalink: "/399-jared-kushner/"
 ---
 
 Books mentioned on Lex Fridman Podcast #399:

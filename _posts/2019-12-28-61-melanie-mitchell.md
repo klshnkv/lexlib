@@ -1,6 +1,7 @@
 ---
 title: '#61 – Melanie Mitchell'
 date: '2019-12-28T23:59:00+00:00'
+permalink: "/61-melanie-mitchell/"
 ---
 
 Books mentioned on Lex Fridman Podcast #61:

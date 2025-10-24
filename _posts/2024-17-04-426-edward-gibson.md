@@ -1,6 +1,7 @@
 ---
 title: '#426 – Edward Gibson'
 date: '2024-04-17'
+permalink: "/426-edward-gibson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #426:

@@ -1,6 +1,7 @@
 ---
 title: '#443 – Gregory Aldrete'
 date: '2024-09-12'
+permalink: "/443-gregory-aldrete/"
 ---
 
 Books mentioned on Lex Fridman Podcast #443:

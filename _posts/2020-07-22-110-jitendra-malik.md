@@ -1,6 +1,7 @@
 ---
 title: '#110 – Jitendra Malik'
 date: '2020-07-22T23:59:00+00:00'
+permalink: "/110-jitendra-malik/"
 ---
 
 Books mentioned on Lex Fridman Podcast #110:

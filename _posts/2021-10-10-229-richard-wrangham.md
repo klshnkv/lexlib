@@ -1,6 +1,7 @@
 ---
 title: '#229 – Richard Wrangham'
 date: '2021-10-10T23:59:00+00:00'
+permalink: "/229-richard-wrangham/"
 ---
 
 Books mentioned on Lex Fridman Podcast #229:

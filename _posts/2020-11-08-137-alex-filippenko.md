@@ -1,6 +1,7 @@
 ---
 title: '#137 – Alex Filippenko'
 date: '2020-11-08T23:59:00+00:00'
+permalink: "/137-alex-filippenko/"
 ---
 
 Books mentioned on Lex Fridman Podcast #137:

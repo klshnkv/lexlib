@@ -1,6 +1,7 @@
 ---
 title: '#220 – Niels Jorgensen'
 date: '2021-09-12T23:59:00+00:00'
+permalink: "/220-niels-jorgensen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #220:

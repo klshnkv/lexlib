@@ -1,6 +1,7 @@
 ---
 title: '#248 – Norman Naimark'
 date: '2021-12-13T23:59:00+00:00'
+permalink: "/248-norman-naimark/"
 ---
 
 Books mentioned on Lex Fridman Podcast #248:

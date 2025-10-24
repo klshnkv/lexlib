@@ -1,6 +1,7 @@
 ---
 title: '#159 – Richard Craib'
 date: '2021-02-08T23:59:00+00:00'
+permalink: "/159-richard-craib/"
 ---
 
 Books mentioned on Lex Fridman Podcast #159:

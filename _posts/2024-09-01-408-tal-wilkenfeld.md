@@ -1,6 +1,7 @@
 ---
 title: '#408 – Tal Wilkenfeld'
 date: '2024-01-09'
+permalink: "/408-tal-wilkenfeld/"
 ---
 
 Books mentioned on Lex Fridman Podcast #408:

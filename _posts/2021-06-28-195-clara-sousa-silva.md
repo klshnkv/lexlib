@@ -1,6 +1,7 @@
 ---
 title: '#195 – Clara Sousa-Silva'
 date: '2021-06-28T23:59:00+00:00'
+permalink: "/195-clara-sousa-silva/"
 ---
 
 Books mentioned on Lex Fridman Podcast #195:

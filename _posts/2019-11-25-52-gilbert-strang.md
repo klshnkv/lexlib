@@ -1,6 +1,7 @@
 ---
 title: '#52 – Gilbert Strang'
 date: '2019-11-25T23:59:00+00:00'
+permalink: "/52-gilbert-strang/"
 ---
 
 Books mentioned on Lex Fridman Podcast #52:

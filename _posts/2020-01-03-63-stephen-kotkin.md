@@ -1,6 +1,7 @@
 ---
 title: '#63 – Stephen Kotkin'
 date: '2020-01-03T23:59:00+00:00'
+permalink: "/63-stephen-kotkin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #63:

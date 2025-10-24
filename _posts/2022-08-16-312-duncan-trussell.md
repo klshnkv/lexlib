@@ -1,6 +1,7 @@
 ---
 title: '#312 – Duncan Trussell'
 date: '2022-08-16T23:59:00+00:00'
+permalink: "/312-duncan-trussell/"
 ---
 
 Books mentioned on Lex Fridman Podcast #312:

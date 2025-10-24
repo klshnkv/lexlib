@@ -1,6 +1,7 @@
 ---
 title: '#97 – Sertac Karaman'
 date: '2020-05-20T23:59:00+00:00'
+permalink: "/97-sertac-karaman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #97:

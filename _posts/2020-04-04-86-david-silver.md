@@ -1,6 +1,7 @@
 ---
 title: '#86 – David Silver'
 date: '2020-04-04T23:59:00+00:00'
+permalink: "/86-david-silver/"
 ---
 
 Books mentioned on Lex Fridman Podcast #86:

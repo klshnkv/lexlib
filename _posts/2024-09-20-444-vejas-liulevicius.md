@@ -1,6 +1,7 @@
 ---
 title: '#444 – Vejas Liulevicius'
 date: '2024-09-20'
+permalink: "/444-vejas-liulevicius/"
 ---
 
 Books mentioned on Lex Fridman Podcast #444:

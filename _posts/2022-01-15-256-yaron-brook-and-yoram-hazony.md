@@ -1,6 +1,7 @@
 ---
 title: '#256 – Yaron Brook and Yoram Hazony'
 date: '2022-01-15T23:59:00+00:00'
+permalink: "/256-yaron-brook-and-yoram-hazony/"
 ---
 
 Books mentioned on Lex Fridman Podcast #256:

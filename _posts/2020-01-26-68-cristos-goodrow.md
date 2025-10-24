@@ -1,6 +1,7 @@
 ---
 title: '#68 – Cristos Goodrow'
 date: '2020-01-26T23:59:00+00:00'
+permalink: "/68-cristos-goodrow/"
 ---
 
 Books mentioned on Lex Fridman Podcast #68:

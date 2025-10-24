@@ -1,6 +1,7 @@
 ---
 title: '#35 – Jeremy Howard'
 date: '2019-08-27T23:23:00+00:00'
+permalink: "/35-jeremy-howard/"
 ---
 
 Books mentioned on Lex Fridman Podcast #35:

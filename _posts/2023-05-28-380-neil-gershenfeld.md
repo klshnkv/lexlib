@@ -1,6 +1,7 @@
 ---
 title: '#380 – Neil Gershenfeld'
 date: '2023-05-28T17:36:36+00:00'
+permalink: "/380-neil-gershenfeld/"
 ---
 
 Books mentioned on Lex Fridman Podcast #380:

@@ -1,6 +1,7 @@
 ---
 title: '#450 - Bernie Sanders'
 date: '2024-10-23'
+permalink: "/450-bernie-sanders/"
 ---
 
 Books mentioned on Lex Fridman Podcast #450:

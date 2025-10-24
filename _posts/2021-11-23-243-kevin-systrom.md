@@ -1,6 +1,7 @@
 ---
 title: '#243 – Kevin Systrom'
 date: '2021-11-23T23:59:00+00:00'
+permalink: "/243-kevin-systrom/"
 ---
 
 Books mentioned on Lex Fridman Podcast #243:

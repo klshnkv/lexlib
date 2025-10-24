@@ -1,6 +1,7 @@
 ---
 title: '#131 – Chris Lattner'
 date: '2020-10-19T23:59:00+00:00'
+permalink: "/131-chris-lattner/"
 ---
 
 Books mentioned on Lex Fridman Podcast #131:

@@ -1,6 +1,7 @@
 ---
 title: '#19 – Ian Goodfellow'
 date: '2019-04-18T23:59:00+00:00'
+permalink: "/19-ian-goodfellow/"
 ---
 
 Books mentioned on Lex Fridman Podcast #19:

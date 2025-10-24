@@ -1,6 +1,7 @@
 ---
 title: '#65 – Daniel Kahneman'
 date: '2020-01-14T23:59:00+00:00'
+permalink: "/65-daniel-kahneman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #65:

@@ -1,6 +1,7 @@
 ---
 title: '#333 – Andrej Karpathy'
 date: '2022-10-29T23:59:00+00:00'
+permalink: "/333-andrej-karpathy/"
 ---
 
 Books mentioned on Lex Fridman Podcast #333:

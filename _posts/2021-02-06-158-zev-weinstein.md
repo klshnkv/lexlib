@@ -1,6 +1,7 @@
 ---
 title: '#158 – Zev Weinstein'
 date: '2021-02-06T23:59:00+00:00'
+permalink: "/158-zev-weinstein/"
 ---
 
 Books mentioned on Lex Fridman Podcast #158:

@@ -1,6 +1,7 @@
 ---
 title: '#5 – Vladimir Vapnik'
 date: '2018-11-16T23:59:00+00:00'
+permalink: "/5-vladimir-vapnik/"
 ---
 
 Books mentioned on Lex Fridman Podcast #5:

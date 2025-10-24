@@ -1,6 +1,7 @@
 ---
 title: '#69 – David Chalmers'
 date: '2020-01-30T23:59:00+00:00'
+permalink: "/69-david-chalmers/"
 ---
 
 Books mentioned on Lex Fridman Podcast #69:

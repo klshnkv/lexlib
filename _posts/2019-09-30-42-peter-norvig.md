@@ -1,6 +1,7 @@
 ---
 title: '#42 – Peter Norvig'
 date: '2019-09-30T23:59:00+00:00'
+permalink: "/42-peter-norvig/"
 ---
 
 Books mentioned on Lex Fridman Podcast #42:

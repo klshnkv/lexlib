@@ -1,6 +1,7 @@
 ---
 title: '#224 – Travis Oliphant'
 date: '2021-09-23T23:59:00+00:00'
+permalink: "/224-travis-oliphant/"
 ---
 
 Books mentioned on Lex Fridman Podcast #224:

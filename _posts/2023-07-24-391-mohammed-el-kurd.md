@@ -1,6 +1,7 @@
 ---
 title: '#391 – Mohammed El-Kurd'
 date: '2023-07-24T20:05:15+00:00'
+permalink: "/391-mohammed-el-kurd/"
 ---
 
 Books mentioned on Lex Fridman Podcast #391:

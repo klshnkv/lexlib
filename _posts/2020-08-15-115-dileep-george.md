@@ -1,6 +1,7 @@
 ---
 title: '#115 – Dileep George'
 date: '2020-08-15T23:59:00+00:00'
+permalink: "/115-dileep-george/"
 ---
 
 Books mentioned on Lex Fridman Podcast #115:

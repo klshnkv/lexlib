@@ -1,6 +1,7 @@
 ---
 title: '#325 – Michael Levin'
 date: '2022-10-01T23:59:00+00:00'
+permalink: "/325-michael-levin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #325:

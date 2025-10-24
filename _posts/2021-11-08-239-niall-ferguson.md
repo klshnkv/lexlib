@@ -1,6 +1,7 @@
 ---
 title: '#239 – Niall Ferguson'
 date: '2021-11-08T23:59:00+00:00'
+permalink: "/239-niall-ferguson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #239:

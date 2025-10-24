@@ -1,6 +1,7 @@
 ---
 title: '#104 – David Patterson'
 date: '2020-06-28T23:59:00+00:00'
+permalink: "/104-david-patterson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #104:

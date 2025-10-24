@@ -1,6 +1,7 @@
 ---
 title: '#288 – Sarma Melngailis'
 date: '2022-05-23T23:59:00+00:00'
+permalink: "/288-sarma-melngailis/"
 ---
 
 Books mentioned on Lex Fridman Podcast #288:

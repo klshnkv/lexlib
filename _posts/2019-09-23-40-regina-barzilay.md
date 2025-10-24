@@ -1,6 +1,7 @@
 ---
 title: '#40 – Regina Barzilay'
 date: '2019-09-23T23:59:00+00:00'
+permalink: "/40-regina-barzilay/"
 ---
 
 Books mentioned on Lex Fridman Podcast #40:

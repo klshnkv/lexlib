@@ -1,6 +1,7 @@
 ---
 title: '#71 – Vladimir Vapnik'
 date: '2020-02-14T23:59:00+00:00'
+permalink: "/71-vladimir-vapnik/"
 ---
 
 Books mentioned on Lex Fridman Podcast #71:

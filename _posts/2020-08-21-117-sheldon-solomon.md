@@ -1,6 +1,7 @@
 ---
 title: '#117 – Sheldon Solomon'
 date: '2020-08-21T23:59:00+00:00'
+permalink: "/117-sheldon-solomon/"
 ---
 
 Books mentioned on Lex Fridman Podcast #117:

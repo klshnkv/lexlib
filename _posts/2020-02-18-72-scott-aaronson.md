@@ -1,6 +1,7 @@
 ---
 title: '#72 – Scott Aaronson'
 date: '2020-02-18T23:59:00+00:00'
+permalink: "/72-scott-aaronson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #72:

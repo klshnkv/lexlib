@@ -1,6 +1,7 @@
 ---
 title: '#315 – Magnus Carlsen'
 date: '2022-08-27T23:59:00+00:00'
+permalink: "/315-magnus-carlsen/"
 ---
 
 Books mentioned on Lex Fridman Podcast #315:

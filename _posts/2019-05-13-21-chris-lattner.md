@@ -1,6 +1,7 @@
 ---
 title: '#21 – Chris Lattner'
 date: '2019-05-13T23:59:00+00:00'
+permalink: "/21-chris-lattner/"
 ---
 
 Books mentioned on Lex Fridman Podcast #21:

@@ -1,6 +1,7 @@
 ---
 title: '#410 – Ben Shapiro and Destiny'
 date: '2024-01-23'
+permalink: "/410-ben-shapiro-and-destiny/"
 ---
 
 Books mentioned on Lex Fridman Podcast #410 Ben Shapiro vs Destiny Debate:

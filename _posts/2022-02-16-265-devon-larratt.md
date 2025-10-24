@@ -1,6 +1,7 @@
 ---
 title: '#265 – Devon Larratt'
 date: '2022-02-16T23:59:00+00:00'
+permalink: "/265-devon-larratt/"
 ---
 
 Books mentioned on Lex Fridman Podcast #265:

@@ -1,6 +1,7 @@
 ---
 title: '#215 – Wojciech Zaremba'
 date: '2021-08-29T23:59:00+00:00'
+permalink: "/215-wojciech-zaremba/"
 ---
 
 Books mentioned on Lex Fridman Podcast #215:

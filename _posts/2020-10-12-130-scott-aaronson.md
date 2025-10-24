@@ -1,6 +1,7 @@
 ---
 title: '#130 – Scott Aaronson'
 date: '2020-10-12T23:59:00+00:00'
+permalink: "/130-scott-aaronson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #130:

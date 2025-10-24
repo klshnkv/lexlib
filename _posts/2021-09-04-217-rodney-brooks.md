@@ -1,6 +1,7 @@
 ---
 title: '#217 – Rodney Brooks'
 date: '2021-09-04T23:59:00+00:00'
+permalink: "/217-rodney-brooks/"
 ---
 
 Books mentioned on Lex Fridman Podcast #217:

@@ -1,6 +1,7 @@
 ---
 title: '#186 – Bryan Johnson'
 date: '2021-05-24T23:59:00+00:00'
+permalink: "/186-bryan-johnson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #186:

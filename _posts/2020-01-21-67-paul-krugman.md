@@ -1,6 +1,7 @@
 ---
 title: '#67 – Paul Krugman'
 date: '2020-01-21T23:59:00+00:00'
+permalink: "/67-paul-krugman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #67:

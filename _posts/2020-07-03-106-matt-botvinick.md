@@ -1,6 +1,7 @@
 ---
 title: '#106 – Matt Botvinick'
 date: '2020-07-03T23:59:00+00:00'
+permalink: "/106-matt-botvinick/"
 ---
 
 Books mentioned on Lex Fridman Podcast #106:

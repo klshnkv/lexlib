@@ -1,6 +1,7 @@
 ---
 title: '#349 – Bhaskar Sunkara'
 date: '2022-12-22T23:59:00+00:00'
+permalink: "/349-bhaskar-sunkara/"
 ---
 
 Books mentioned on Lex Fridman Podcast #349:

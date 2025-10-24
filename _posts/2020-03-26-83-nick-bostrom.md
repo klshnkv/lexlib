@@ -1,6 +1,7 @@
 ---
 title: '#83 – Nick Bostrom'
 date: '2020-03-26T04:46:00+00:00'
+permalink: "/83-nick-bostrom/"
 ---
 
 Books mentioned on Lex Fridman Podcast #83:

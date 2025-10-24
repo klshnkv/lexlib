@@ -1,6 +1,7 @@
 ---
 title: '#389 – Benjamin Netanyahu'
 date: '2023-07-12T16:42:56+00:00'
+permalink: "/389-benjamin-netanyahu/"
 ---
 
 Books mentioned on Lex Fridman Podcast #389:

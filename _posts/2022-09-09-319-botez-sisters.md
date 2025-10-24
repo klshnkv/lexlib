@@ -1,6 +1,7 @@
 ---
 title: '#319 – Botez Sisters'
 date: '2022-09-09T11:59:00+00:00'
+permalink: "/319-botez-sisters/"
 ---
 
 Books mentioned on Lex Fridman Podcast #319:

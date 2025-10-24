@@ -1,6 +1,7 @@
 ---
 title: '#89 – Stephen Wolfram'
 date: '2020-04-18T23:59:00+00:00'
+permalink: "/89-stephen-wolfram/"
 ---
 
 Books mentioned on Lex Fridman Podcast #89:

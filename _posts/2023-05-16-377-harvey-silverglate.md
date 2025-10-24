@@ -1,6 +1,7 @@
 ---
 title: '#377 – Harvey Silverglate'
 date: '2023-05-16T23:59:00+00:00'
+permalink: "/377-harvey-silverglate/"
 ---
 
 Books mentioned on Lex Fridman Podcast #377:

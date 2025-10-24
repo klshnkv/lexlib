@@ -1,6 +1,7 @@
 ---
 title: '#469 - Oliver Anthony'
 date: '2025-05-19'
+permalink: "/469-oliver-anthony/"
 ---
 
 Books mentioned on Lex Fridman Podcast #469:

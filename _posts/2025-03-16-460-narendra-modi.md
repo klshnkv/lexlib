@@ -1,6 +1,7 @@
 ---
 title: '#460 - Narendra Modi'
 date: '2025-03-16'
+permalink: "/460-narendra-modi/"
 ---
 
 Books mentioned on Lex Fridman Podcast #460:

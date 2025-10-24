@@ -1,6 +1,7 @@
 ---
 title: '#15 – Leslie Kaelbling'
 date: '2019-03-12T23:59:00+00:00'
+permalink: "/15-leslie-kaelbling/"
 ---
 
 Books mentioned on Lex Fridman Podcast #15:

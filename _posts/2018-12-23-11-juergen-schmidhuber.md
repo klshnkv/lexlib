@@ -1,6 +1,7 @@
 ---
 title: '#11 –Juergen Schmidhuber'
 date: '2018-12-23T23:59:00+00:00'
+permalink: "/11-juergen-schmidhuber/"
 ---
 
 Books mentioned on Lex Fridman Podcast #11:

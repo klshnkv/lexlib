@@ -1,6 +1,7 @@
 ---
 title: '#32 – Paola Arlotta'
 date: '2019-08-12T23:59:00+00:00'
+permalink: "/32-paola-arlotta/"
 ---
 
 Books mentioned on Lex Fridman Podcast #32:

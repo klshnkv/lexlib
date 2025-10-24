@@ -1,6 +1,7 @@
 ---
 title: '#382 – Bert Kreischer'
 date: '2023-06-05T19:39:54+00:00'
+permalink: "/382-bert-kreischer/"
 ---
 
 Books mentioned on Lex Fridman Podcast #382:

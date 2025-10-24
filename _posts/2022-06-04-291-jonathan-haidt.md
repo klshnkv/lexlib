@@ -1,6 +1,7 @@
 ---
 title: '#291 – Jonathan Haidt'
 date: '2022-06-04T23:59:00+00:00'
+permalink: "/291-jonathan-haidt/"
 ---
 
 Books mentioned on Lex Fridman Podcast #291:

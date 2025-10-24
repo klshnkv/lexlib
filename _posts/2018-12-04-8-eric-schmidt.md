@@ -1,6 +1,7 @@
 ---
 title: '#8 – Eric Schmidt'
 date: '2018-12-04T23:59:00+00:00'
+permalink: "/8-eric-schmidt/"
 ---
 
 Books mentioned on Lex Fridman Podcast #8:

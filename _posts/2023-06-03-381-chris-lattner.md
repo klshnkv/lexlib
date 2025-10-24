@@ -1,6 +1,7 @@
 ---
 title: '#381 – Chris Lattner'
 date: '2023-06-03T13:09:12+00:00'
+permalink: "/381-chris-lattner/"
 ---
 
 Books mentioned on Lex Fridman Podcast #381:

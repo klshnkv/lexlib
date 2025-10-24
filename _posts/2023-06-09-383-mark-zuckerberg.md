@@ -1,6 +1,7 @@
 ---
 title: '#383 – Mark Zuckerberg'
 date: '2023-06-09T23:59:00+00:00'
+permalink: "/383-mark-zuckerberg/"
 ---
 
 Books mentioned on Lex Fridman Podcast #383:

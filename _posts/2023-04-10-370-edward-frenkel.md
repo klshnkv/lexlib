@@ -1,6 +1,7 @@
 ---
 title: '#370 – Edward Frenkel'
 date: '2023-04-10T23:59:00+00:00'
+permalink: "/370-edward-frenkel/"
 ---
 
 Books mentioned on Lex Fridman Podcast #370:

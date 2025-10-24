@@ -1,6 +1,7 @@
 ---
 title: '#320 – Christopher Capozzola'
 date: '2022-09-14T11:59:00+00:00'
+permalink: "/320-christopher-capozzola/"
 ---
 
 Books mentioned on Lex Fridman Podcast #320:

@@ -1,6 +1,7 @@
 ---
 title: '#211 – Brian Muraresku'
 date: '2021-08-15T23:59:00+00:00'
+permalink: "/211-brian-muraresku/"
 ---
 
 Books mentioned on Lex Fridman Podcast #211:

@@ -1,6 +1,7 @@
 ---
 title: '#384 – Matthew McConaughey'
 date: '2023-06-13T23:59:00+00:00'
+permalink: "/384-matthew-mcconaughey/"
 ---
 
 Books mentioned on Lex Fridman Podcast #384:

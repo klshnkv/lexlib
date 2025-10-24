@@ -1,6 +1,7 @@
 ---
 title: '#64 – Grant Sanderson'
 date: '2020-01-07T23:59:00+00:00'
+permalink: "/64-grant-sanderson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #64:

@@ -1,6 +1,7 @@
 ---
 title: '#277 – Andrew Huberman'
 date: '2022-04-17T23:59:00+00:00'
+permalink: "/277-andrew-huberman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #277:

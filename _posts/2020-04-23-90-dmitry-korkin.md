@@ -1,6 +1,7 @@
 ---
 title: '#90 – Dmitry Korkin'
 date: '2020-04-23T23:59:00+00:00'
+permalink: "/90-dmitry-korkin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #90:

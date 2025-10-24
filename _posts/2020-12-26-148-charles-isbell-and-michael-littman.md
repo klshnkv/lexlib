@@ -1,6 +1,7 @@
 ---
 title: '#148 – Charles Isbell and Michael Littman'
 date: '2020-12-26T23:59:00+00:00'
+permalink: "/148-charles-isbell-and-michael-littman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #148:

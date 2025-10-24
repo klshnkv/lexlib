@@ -1,6 +1,7 @@
 ---
 title: '#98 – Kate Darling'
 date: '2020-05-23T23:59:00+00:00'
+permalink: "/98-kate-darling/"
 ---
 
 Books mentioned on Lex Fridman Podcast #98:

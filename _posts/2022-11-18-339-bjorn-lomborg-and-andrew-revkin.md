@@ -1,6 +1,7 @@
 ---
 title: '#339 – Bjørn Lomborg and Andrew Revkin'
 date: '2022-11-18T23:59:00+00:00'
+permalink: "/339-bjorn-lomborg-and-andrew-revkin/"
 ---
 
 Books mentioned on Lex Fridman Podcast #339 Climate Change Debate: Bjørn Lomborg and Andrew Revkin:

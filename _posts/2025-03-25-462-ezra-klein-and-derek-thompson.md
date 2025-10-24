@@ -1,6 +1,7 @@
 ---
 title: '#462 - Ezra Klein and Derek Thompson'
 date: '2025-03-25'
+permalink: "/462-ezra-klein-and-derek-thompson/"
 ---
 
 Books mentioned on Lex Fridman Podcast #462:

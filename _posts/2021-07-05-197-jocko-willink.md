@@ -1,6 +1,7 @@
 ---
 title: '#197 – Jocko Willink'
 date: '2021-07-05T23:59:00+00:00'
+permalink: "/197-jocko-willink/"
 ---
 
 Books mentioned on Lex Fridman Podcast #197:

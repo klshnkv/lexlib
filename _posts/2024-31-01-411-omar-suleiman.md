@@ -1,6 +1,7 @@
 ---
 title: '#411 – Omar Suleiman'
 date: '2024-01-31'
+permalink: "/411-omar-suleiman/"
 ---
 
 Books mentioned on Lex Fridman Podcast #411:

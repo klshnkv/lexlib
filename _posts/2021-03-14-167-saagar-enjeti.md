@@ -1,6 +1,7 @@
 ---
 title: '#167 – Saagar Enjeti'
 date: '2021-03-14T23:59:00+00:00'
+permalink: "/167-saagar-enjeti/"
 ---
 
 Books mentioned on Lex Fridman Podcast #167:

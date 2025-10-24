@@ -1,6 +1,7 @@
 ---
 title: '#231 – Alex Gladstein'
 date: '2021-10-17T23:59:00+00:00'
+permalink: "/231-alex-gladstein/"
 ---
 
 Books mentioned on Lex Fridman Podcast #231:

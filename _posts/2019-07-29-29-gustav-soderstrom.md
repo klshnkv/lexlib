@@ -1,6 +1,7 @@
 ---
 title: '#29 – Gustav Soderstrom'
 date: '2019-07-29T23:59:00+00:00'
+permalink: "/29-gustav-soderstrom/"
 ---
 
 Books mentioned on Lex Fridman Podcast #29:

@@ -1,6 +1,7 @@
 ---
 title: '#355 – David Kipping'
 date: '2023-01-28T23:59:00+00:00'
+permalink: "/355-david-kipping/"
 ---
 
 Books mentioned on Lex Fridman Podcast #355:

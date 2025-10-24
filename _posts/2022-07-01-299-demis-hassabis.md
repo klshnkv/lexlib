@@ -1,6 +1,7 @@
 ---
 title: '#299 – Demis Hassabis'
 date: '2022-07-01T23:59:00+00:00'
+permalink: "/299-demis-hassabis/"
 ---
 
 Books mentioned on Lex Fridman Podcast #299:

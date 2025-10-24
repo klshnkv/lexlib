@@ -1,6 +1,7 @@
 ---
 title: '#120 – François Chollet'
 date: '2020-08-31T23:59:00+00:00'
+permalink: "/120-francois-chollet/"
 ---
 
 Books mentioned on Lex Fridman Podcast #120:

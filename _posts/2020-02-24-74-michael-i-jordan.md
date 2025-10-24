@@ -1,6 +1,7 @@
 ---
 title: '#74 – Michael I. Jordan'
 date: '2020-02-24T23:59:00+00:00'
+permalink: "/74-michael-i-jordan/"
 ---
 
 Books mentioned on Lex Fridman Podcast #74:

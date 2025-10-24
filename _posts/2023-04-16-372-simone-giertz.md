@@ -1,6 +1,7 @@
 ---
 title: '#372 – Simone Giertz'
 date: '2023-04-16T23:59:00+00:00'
+permalink: "/372-simone-giertz/"
 ---
 
 Books mentioned on Lex Fridman Podcast #372:

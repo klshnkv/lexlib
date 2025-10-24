@@ -1,6 +1,7 @@
 ---
 title: '#317 – John Vervaeke'
 date: '2022-09-05T23:59:00+00:00'
+permalink: "/317-john-vervaeke/"
 ---
 
 Books mentioned on Lex Fridman Podcast #317:

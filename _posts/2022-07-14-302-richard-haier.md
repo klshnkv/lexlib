@@ -1,6 +1,7 @@
 ---
 title: '#302 – Richard Haier'
 date: '2022-07-14T23:59:00+00:00'
+permalink: "/302-richard-haier/"
 ---
 
 Books mentioned on Lex Fridman Podcast #302:
