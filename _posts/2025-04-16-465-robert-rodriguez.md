@@ -1,7 +1,6 @@
 ---
 title: '#465 - Robert Rodriguez'
 date: '2025-04-16'
-permalink: /465-robert-rodriguez/
 ---
 
 Books mentioned on Lex Fridman Podcast #465:

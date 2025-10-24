@@ -1,13 +1,6 @@
 ---
-id: 58
 title: '#7 – Jeff Atwood'
 date: '2018-11-29T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=58'
-permalink: /7-jeff-atwood/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #7:
@@ -20,10 +13,10 @@ Books mentioned on Lex Fridman Podcast #7:
 
 <!--more-->
 
-Jeff Atwood ([@codinghorror](https://twitter.com/codinghorror)) is a software developer, blogger and entrepreneur. He is a co-founder of Stack Overflow and Stack Exchange websites.
+Jeff Atwood is a software developer, blogger and entrepreneur. He is a co-founder of Stack Overflow and Stack Exchange websites.
 
 - - - - - -
 
 ## Watch or listen to episode #7
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="443" loading="lazy" src="https://www.youtube.com/embed/KZkYSSE8HHI?feature=oembed" title="Jeff Atwood: Stack Overflow and Coding Horror | Lex Fridman Podcast #7" width="788"></iframe></div></figure>
+{% include youtube.html id='KZkYSSE8HHI' %}

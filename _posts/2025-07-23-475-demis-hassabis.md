@@ -1,7 +1,6 @@
 ---
 title: '#475 - Demis Hassabis'
 date: '2025-07-23'
-permalink: /475-demis-hassabis/
 ---
 
 Books mentioned on Lex Fridman Podcast #475:

@@ -1,7 +1,6 @@
 ---
 title: '#448 - Jordan Peterson'
 date: '2024-10-11'
-permalink: /448-jordan-peterson/
 ---
 
 Books mentioned on Lex Fridman Podcast #448:

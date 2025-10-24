@@ -1,7 +1,6 @@
 ---
 title: '#449 - Graham Hancock'
 date: '2024-10-16'
-permalink: /449-graham-hancock/
 ---
 
 Books mentioned on Lex Fridman Podcast #449:

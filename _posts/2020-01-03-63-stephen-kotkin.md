@@ -1,15 +1,6 @@
 ---
-id: 421
 title: '#63 – Stephen Kotkin'
 date: '2020-01-03T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=421'
-permalink: /63-stephen-kotkin/
-footnotes:
-    - ''
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #63:
@@ -19,7 +10,7 @@ Books mentioned on Lex Fridman Podcast #63:
 
 <!--more-->
 
-Stephen Mark Kotkin is an American historian, academic, and author. He is currently the John P. Birkelund ’52 Professor in History and International Affairs at Princeton University. [Wikipedia](https://en.wikipedia.org/wiki/Stephen_Kotkin)
+Stephen Mark Kotkin is an American historian, academic, and author. He is currently the John P. Birkelund ’52 Professor in History and International Affairs at Princeton University. <a href="https://en.wikipedia.org/wiki/Stephen_Kotkin" target="_blank">Wikipedia</a>
 
 Other appearances: [\#289](/289-stephen-kotkin/)
 

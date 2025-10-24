@@ -1,7 +1,6 @@
 ---
 title: '#470 - James Holland'
 date: '2025-05-24'
-permalink: /470-james-holland/
 ---
 
 Books mentioned on Lex Fridman Podcast #470:

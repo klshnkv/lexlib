@@ -1,13 +1,6 @@
 ---
-id: 585
 title: '#99 – Karl Friston'
 date: '2020-05-28T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=585'
-permalink: /99-karl-friston/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #99:
@@ -16,7 +9,7 @@ Books mentioned on Lex Fridman Podcast #99:
 
 <!--more-->
 
-Karl John Friston FRS, FMedSci, FRSB, is a British neuroscientist at University College London and an authority on brain imaging. He gained reputation as the main proponent of the free energy principle, active inference and predictive coding theory. [Wikipedia](https://en.wikipedia.org/wiki/Karl_J._Friston)
+Karl John Friston FRS, FMedSci, FRSB, is a British neuroscientist at University College London and an authority on brain imaging. He gained reputation as the main proponent of the free energy principle, active inference and predictive coding theory. <a href="https://en.wikipedia.org/wiki/Karl_J._Friston" target="_blank">Wikipedia</a>
 
 - - - - - -
 

@@ -1,13 +1,6 @@
 ---
-id: 620
 title: '#112 – Ian Hutchinson'
 date: '2020-07-29T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=620'
-permalink: /112-ian-hutchinson/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #112:
@@ -17,7 +10,7 @@ Books mentioned on Lex Fridman Podcast #112:
 
 <!--more-->
 
-Ian Horner Hutchinson is a nuclear engineer and physicist who is currently Professor of Nuclear Science and Engineering at the Massachusetts Institute of Technology. [Wikipedia](https://en.wikipedia.org/wiki/Ian_Hutchinson_(scientist))
+Ian Horner Hutchinson is a nuclear engineer and physicist who is currently Professor of Nuclear Science and Engineering at the Massachusetts Institute of Technology. <a href="https://en.wikipedia.org/wiki/Ian_Hutchinson_(scientist" target="_blank">Wikipedia</a>)
 
 - - - - - -
 

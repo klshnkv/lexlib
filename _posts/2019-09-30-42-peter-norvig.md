@@ -1,13 +1,6 @@
 ---
-id: 301
 title: '#42 – Peter Norvig'
 date: '2019-09-30T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=301'
-permalink: /42-peter-norvig/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #42:
@@ -16,7 +9,7 @@ Books mentioned on Lex Fridman Podcast #42:
 
 <!--more-->
 
-Peter Norvig is an American computer scientist and Distinguished Education Fellow at the Stanford Institute for Human-Centered AI. He previously served as a director of research and search quality at Google. [Wikipedia](https://en.wikipedia.org/wiki/Peter_Norvig)
+Peter Norvig is an American computer scientist and Distinguished Education Fellow at the Stanford Institute for Human-Centered AI. He previously served as a director of research and search quality at Google. <a href="https://en.wikipedia.org/wiki/Peter_Norvig" target="_blank">Wikipedia</a>
 
 - - - - - -
 

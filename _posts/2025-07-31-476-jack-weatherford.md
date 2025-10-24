@@ -1,7 +1,6 @@
 ---
 title: '#476 - Jack Weatherford'
 date: '2025-07-31'
-permalink: /476-jack-weatherford/
 ---
 
 Books mentioned on Lex Fridman Podcast #476:

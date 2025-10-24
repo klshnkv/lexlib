@@ -1,13 +1,6 @@
 ---
-id: 440
 title: '#69 – David Chalmers'
 date: '2020-01-30T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=440'
-permalink: /69-david-chalmers/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #69:
@@ -17,7 +10,7 @@ Books mentioned on Lex Fridman Podcast #69:
 
 <!--more-->
 
-David John Chalmers is an Australian philosopher and cognitive scientist specializing in the areas of philosophy of mind and philosophy of language. He is a Professor of Philosophy and Neural Science at New York University, as well as co-director of NYU’s Center for Mind, Brain and Consciousness. [Wikipedia](https://en.wikipedia.org/wiki/David_Chalmers)
+David John Chalmers is an Australian philosopher and cognitive scientist specializing in the areas of philosophy of mind and philosophy of language. He is a Professor of Philosophy and Neural Science at New York University, as well as co-director of NYU’s Center for Mind, Brain and Consciousness. <a href="https://en.wikipedia.org/wiki/David_Chalmers" target="_blank">Wikipedia</a>
 
 - - - - - -
 

@@ -1,7 +1,6 @@
 ---
 title: '#457 - Jennifer Burns'
 date: '2025-01-19'
-permalink: /457-jennifer-burns/
 ---
 
 Books mentioned on Lex Fridman Podcast #457:

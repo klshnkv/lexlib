@@ -1,13 +1,6 @@
 ---
-id: 292
 title: '#40 – Regina Barzilay'
 date: '2019-09-23T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=292'
-permalink: /40-regina-barzilay/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #40:
@@ -19,7 +12,7 @@ Books mentioned on Lex Fridman Podcast #40:
 
 <!--more-->
 
-Regina Barzilay ([@barzilayregina](https://twitter.com/barzilayregina)) is an Israeli-American computer scientist. She is a professor at the Massachusetts Institute of Technology and a faculty lead for artificial intelligence at the MIT Jameel Clinic. Her research interests are in natural language processing and applications of deep learning to chemistry and oncology. [Wikipedia](https://en.wikipedia.org/wiki/Regina_Barzilay)
+Regina Barzilay is an Israeli-American computer scientist. She is a professor at the Massachusetts Institute of Technology and a faculty lead for artificial intelligence at the MIT Jameel Clinic. Her research interests are in natural language processing and applications of deep learning to chemistry and oncology. <a href="https://en.wikipedia.org/wiki/Regina_Barzilay" target="_blank">Wikipedia</a>
 
 - - - - - -
 

@@ -1,7 +1,6 @@
 ---
 title: '#456 - Volodymyr Zelenskyy'
 date: '2025-01-05'
-permalink: /456-volodymyr-zelenskyy/
 ---
 
 Books mentioned on Lex Fridman Podcast #456:

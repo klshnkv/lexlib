@@ -1,7 +1,6 @@
 ---
 title: '#473 - Mark Dubowitz and Scott Horton'
 date: '2025-06-26'
-permalink: /473-mark-dubowitz-and-scott-horton/
 ---
 
 Books mentioned on Lex Fridman Podcast #473:

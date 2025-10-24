@@ -1,13 +1,6 @@
 ---
-id: 543
 title: '#86 – David Silver'
 date: '2020-04-04T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=543'
-permalink: /86-david-silver/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #86:
@@ -17,7 +10,7 @@ Books mentioned on Lex Fridman Podcast #86:
 
 <!--more-->
 
-David Silver FRS is a British computer scientist and businessman who leads the reinforcement learning research group at DeepMind and was lead researcher on AlphaGo, AlphaZero and co-lead on AlphaStar. [Wikipedia](https://en.wikipedia.org/wiki/David_Silver_(computer_scientist))
+David Silver FRS is a British computer scientist and businessman who leads the reinforcement learning research group at DeepMind and was lead researcher on AlphaGo, AlphaZero and co-lead on AlphaStar. <a href="https://en.wikipedia.org/wiki/David_Silver_(computer_scientist" target="_blank">Wikipedia</a>)
 
 - - - - - -
 

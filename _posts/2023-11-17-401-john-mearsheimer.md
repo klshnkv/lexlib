@@ -1,11 +1,6 @@
 ---
 title: '#401 – John Mearsheimer'
 date: '2023-11-17T12:00:00+00:00'
-author: librarian
-layout: post
-permalink: /401-john-mearsheimer/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #401:
@@ -26,4 +21,4 @@ John Joseph Mearsheimer is an American political scientist and international rel
 
 ## Watch or listen to episode #401
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/r4wLXNydzeY?si=NJw8nJxKUfDQPg3n" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{% include youtube.html id='r4wLXNydzeY' %}

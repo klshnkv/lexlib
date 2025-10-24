@@ -1,13 +1,6 @@
 ---
-id: 148
 title: '#313 – Jordan Peterson'
 date: '2022-08-19T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=148'
-permalink: /313-jordan-peterson/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #313:

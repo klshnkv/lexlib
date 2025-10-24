@@ -1,7 +1,6 @@
 ---
 title: '#454 - Saagar Enjeti'
 date: '2024-12-08'
-permalink: /454-saagar-enjeti/
 ---
 
 Books mentioned on Lex Fridman Podcast #454:

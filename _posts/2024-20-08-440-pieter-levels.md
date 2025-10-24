@@ -1,7 +1,6 @@
 ---
 title: '#440 – Pieter Levels'
 date: '2024-08-20'
-permalink: /440-pieter-levels/
 ---
 
 Books mentioned on Lex Fridman Podcast #440:

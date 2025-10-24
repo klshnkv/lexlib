@@ -1,7 +1,6 @@
 ---
 title: '#471 - Sundar Pichai'
 date: '2025-06-05'
-permalink: /471-sundar-pichai/
 ---
 
 Books mentioned on Lex Fridman Podcast #471:

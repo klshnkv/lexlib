@@ -1,13 +1,6 @@
 ---
-id: 537
 title: '#83 – Nick Bostrom'
 date: '2020-03-26T04:46:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=537'
-permalink: /83-nick-bostrom/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #83:
@@ -17,7 +10,7 @@ Books mentioned on Lex Fridman Podcast #83:
 
 <!--more-->
 
-Nick Bostrom is a Swedish-born philosopher at the University of Oxford known for his work on existential risk, the anthropic principle, human enhancement ethics, superintelligence risks, and the reversal test. [Wikipedia](https://en.wikipedia.org/wiki/Nick_Bostrom)
+Nick Bostrom is a Swedish-born philosopher at the University of Oxford known for his work on existential risk, the anthropic principle, human enhancement ethics, superintelligence risks, and the reversal test. <a href="https://en.wikipedia.org/wiki/Nick_Bostrom" target="_blank">Wikipedia</a>
 
 - - - - - -
 

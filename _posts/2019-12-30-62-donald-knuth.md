@@ -1,15 +1,6 @@
 ---
-id: 419
 title: '#62 – Donald Knuth'
 date: '2019-12-30T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=419'
-permalink: /62-donald-knuth/
-footnotes:
-    - ''
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #62:
@@ -21,7 +12,7 @@ Books mentioned on Lex Fridman Podcast #62:
 
 <!--more-->
 
-Donald Ervin Knuth is an American computer scientist, mathematician, and professor emeritus at Stanford University. He is the 1974 recipient of the ACM Turing Award, informally considered the Nobel Prize of computer science. Knuth has been called the “father of the analysis of algorithms”. [Wikipedia](https://en.wikipedia.org/wiki/Donald_Knuth)
+Donald Ervin Knuth is an American computer scientist, mathematician, and professor emeritus at Stanford University. He is the 1974 recipient of the ACM Turing Award, informally considered the Nobel Prize of computer science. Knuth has been called the “father of the analysis of algorithms”. <a href="https://en.wikipedia.org/wiki/Donald_Knuth" target="_blank">Wikipedia</a>
 
 Other appearances: [\#219](/219-donald-knuth/)
 

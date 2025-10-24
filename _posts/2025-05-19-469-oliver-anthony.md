@@ -1,12 +1,11 @@
 ---
 title: '#469 - Oliver Anthony'
 date: '2025-05-19'
-permalink: /469-oliver-anthony/
 ---
 
 Books mentioned on Lex Fridman Podcast #469:
 
-1. <b><a href="by Jocko Willink (Author), Leif Babin" target="_blank" rel="sponsored noopener noreferrer">Extreme Ownership: How U.S. Navy SEALs Lead and Win</a></b> by Jocko Willink, Leif Babin
+1. <b><a href="by Jocko Willink (Author), Leif Babin" target="_blank" rel="noopener noreferrer">Extreme Ownership: How U.S. Navy SEALs Lead and Win</a></b> by Jocko Willink, Leif Babin
 2. <b><a href="https://genius.com/Charles-bukowski-the-history-of-one-tough-motherfucker-annotated" target="_blank">The History of One Tough Motherfucker (poem)</a></b> by Charles Bukowski
 
 <!--more-->

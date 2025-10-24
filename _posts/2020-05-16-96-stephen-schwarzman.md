@@ -1,13 +1,6 @@
 ---
-id: 578
 title: '#96 – Stephen Schwarzman'
 date: '2020-05-16T23:59:00+00:00'
-author: librarian
-layout: post
-guid: 'https://lexlib.io/?p=578'
-permalink: /96-stephen-schwarzman/
-categories:
-    - Episodes
 ---
 
 Books mentioned on Lex Fridman Podcast #96:
@@ -16,7 +9,7 @@ Books mentioned on Lex Fridman Podcast #96:
 
 <!--more-->
 
-Stephen Allen Schwarzman is an American billionaire businessman. He is the chairman and CEO of The Blackstone Group, a global private equity firm he established in 1985 with Peter G. Peterson, former chairman and CEO of Lehman Brothers and US Secretary of Commerce under President Richard Nixon. [Wikipedia](https://en.wikipedia.org/wiki/Stephen_A._Schwarzman)
+Stephen Allen Schwarzman is an American billionaire businessman. He is the chairman and CEO of The Blackstone Group, a global private equity firm he established in 1985 with Peter G. Peterson, former chairman and CEO of Lehman Brothers and US Secretary of Commerce under President Richard Nixon. <a href="https://en.wikipedia.org/wiki/Stephen_A._Schwarzman" target="_blank">Wikipedia</a>
 
 
 - - - - - -
