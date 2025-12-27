@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/483-julia-shaw/">#483</a></td>
+			<td>Julia Shaw</td>
+			<td>Oct 14, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/482-pavel-durov/">#482</a></td>
 			<td>Pavel Durov</td>
 			<td>Sep 30, 2025</td>
