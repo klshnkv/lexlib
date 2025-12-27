@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/484-dan-houser/">#484</a></td>
+			<td>Dan Houser</td>
+			<td>Oct 31, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/483-julia-shaw/">#483</a></td>
 			<td>Julia Shaw</td>
 			<td>Oct 14, 2025</td>
