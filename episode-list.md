@@ -20,6 +20,11 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/487-irving-finkel/">#487</a></td>
+			<td>Irving Finkel</td>
+			<td>Dec 12, 2025</td>
+		</tr>
+		<tr>
 			<td><a href="/486-michael-levin/">#486</a></td>
 			<td>Michael Levin</td>
 			<td>Nov 30, 2025</td>
