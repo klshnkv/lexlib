@@ -14,6 +14,8 @@ Books mentioned on Lex Fridman Podcast #456:
 6. <b><a href="https://amzn.to/4j65Yfk" target="_blank" rel="sponsored noopener noreferrer">The Gulag Archipelago</a></b> by Aleksandr Solzhenitsyn
 7. <b><a href="https://amzn.to/3DV59WA" target="_blank" rel="sponsored noopener noreferrer">The Rise and Fall of the Third Reich: A History of Nazi Germany</a></b> by William L. Shirer
 
+<b>Note:</b> The interview with President Zelenskyy doesn’t include book recommendations or book discussion. These titles come from Lex’s own commentary (intro + postscript) where he describes his research process and mentions specific books he read/used to prepare.
+
 <!--more-->
 
 Volodymyr Oleksandrovych Zelenskyy is a Ukrainian politician and former entertainer who is serving as the sixth and current president of Ukraine since 2019, most notably during the full-scale Russian invasion of Ukraine, which has been ongoing since February 2022. <a href="https://en.wikipedia.org/wiki/Volodymyr_Zelenskyy" target="_blank">Wikipedia</a>
