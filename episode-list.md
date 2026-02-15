@@ -20,6 +20,21 @@ footnotes:
 	</thead>
 	<tbody>
 		<tr>
+			<td><a href="/491-peter-steinberger/">#491</a></td>
+			<td>Peter Steinberger</td>
+			<td>Feb 12, 2026</td>
+		</tr>
+		<tr>
+			<td><a href="/490-nathan-lambert-and-sebastian-raschka/">#490</a></td>
+			<td>Nathan Lambert and Sebastian Raschka</td>
+			<td>Jan 31, 2026</td>
+		</tr>
+		<tr>
+			<td><a href="/489-paul-rosolie/">#489</a></td>
+			<td>Paul Rosolie</td>
+			<td>Jan 13, 2026</td>
+		</tr>
+		<tr>
 			<td><a href="/488-joel-david-hamkins/">#488</a></td>
 			<td>Joel David Hamkins</td>
 			<td>Dec 31, 2025</td>
