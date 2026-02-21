@@ -1,11 +1,7 @@
 ---
-id: 111
 title: 'Episode List'
 date: '2022-11-10T06:07:56+00:00'
-author: librarian
 layout: page
-footnotes:
-    - ''
 description: Browse and search the full Lex Fridman Podcast episode list with links to the books mentioned in each episode.
 item_list_schema: true
 ---

@@ -18,5 +18,5 @@ plugins:
   - jekyll-sitemap
     
 paginate:         10
-default_og_image: "/android-chrome-512x512.png"
+default_og_image: "/public/og-default.png"
 item_list_schema_limit: 100

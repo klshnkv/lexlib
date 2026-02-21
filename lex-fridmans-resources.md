@@ -1,10 +1,8 @@
 ---
-id: 74
-title: 'Lex Fridman&#8217;s Resources'
+title: "Lex Fridman's Resources"
 date: '2022-11-08T18:13:53+00:00'
-author: librarian
 layout: page
-guid: 'https://lexlib.io/?page_id=74'
+description: Find official Lex Fridman links, including website, podcast, social media, and community resources.
 ---
 
 Website: <https://lexfridman.com/>

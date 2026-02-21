@@ -1,9 +1,8 @@
 ---
-id: 866
-title: 'Lex Fridman&#8217;s 2023 Reading List'
+title: "Lex Fridman's 2023 Reading List"
 date: '2023-01-09T12:42:14+00:00'
-author: librarian
 layout: page
+description: Explore Lex Fridman's 2023 reading list with direct links to each recommended book.
 redirect_from:
   - /lex-fridmans-reading-list-recommended-books/
 ---
