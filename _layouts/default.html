@@ -2,8 +2,21 @@
 <html lang="en-us">
 
   <head>
+    {% assign episode_token = "" %}
+    {% assign episode_guest = "" %}
+    {% if page.layout == "post" and page.title %}
+      {% assign episode_token = page.title | split: " " | first %}
+      {% assign episode_guest = page.title | remove_first: episode_token | remove_first: " - " | remove_first: " – " | strip %}
+    {% endif %}
+
     {% if page.seo_title %}
       {% assign meta_title = page.seo_title %}
+    {% elsif page.layout == "post" and page.title %}
+      {% if episode_guest != "" %}
+        {% assign meta_title = "Books from Lex Fridman Podcast " | append: episode_token | append: " - " | append: episode_guest | append: " | " | append: site.title %}
+      {% else %}
+        {% assign meta_title = "Books from Lex Fridman Podcast " | append: page.title | append: " | " | append: site.title %}
+      {% endif %}
     {% elsif page.title == "Home" %}
       {% assign meta_title = site.title | append: " | " | append: site.description %}
     {% elsif page.title %}
@@ -11,7 +24,21 @@
     {% else %}
       {% assign meta_title = site.title %}
     {% endif %}
-    {% assign raw_description = page.description | default: page.excerpt | default: site.description %}
+
+    {% if page.seo_description %}
+      {% assign raw_description = page.seo_description %}
+    {% elsif page.layout == "post" and page.title %}
+      {% if page.description %}
+        {% assign raw_description = page.description %}
+      {% elsif episode_guest != "" %}
+        {% assign raw_description = "Browse the full book list for Lex Fridman Podcast " | append: episode_token | append: " with " | append: episode_guest | append: ", including direct links and episode context." %}
+      {% else %}
+        {% assign raw_description = "Browse the full book list for Lex Fridman Podcast " | append: page.title | append: ", with direct links and episode context." %}
+      {% endif %}
+    {% else %}
+      {% assign raw_description = page.description | default: page.excerpt | default: site.description %}
+    {% endif %}
+
     {% assign meta_description = raw_description | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
     {% assign canonical_url = page.url | absolute_url %}
     {% assign og_image_url = page.og_image | default: site.default_og_image | absolute_url %}
