@@ -2,10 +2,12 @@
 
 title: Donate
 layout: page
+description: Support LexLib with a donation to help maintain and improve the catalog of books mentioned on the Lex Fridman Podcast.
+noindex: true
 
 ---
 
-# Support LexLib
+## Support LexLib
 
 **Please note:** This website is not affiliated with Lex Fridman in any way.
 

@@ -8,6 +8,34 @@ layout: default
   {{ content }}
 </div>
 
+{% assign post_raw_description = page.description | default: page.excerpt | default: site.description %}
+{% assign post_description = post_raw_description | strip_html | strip_newlines | replace: '  ', ' ' | truncate: 160 %}
+{% assign post_image_url = page.og_image | default: site.default_og_image | absolute_url %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": {{ page.title | jsonify }},
+    "description": {{ post_description | jsonify }},
+    "datePublished": {{ page.date | date_to_xmlschema | jsonify }},
+    "dateModified": {{ page.date | date_to_xmlschema | jsonify }},
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": {{ page.url | absolute_url | jsonify }}
+    },
+    "author": {
+      "@type": "Person",
+      "name": {{ page.author | default: "LexLib" | jsonify }}
+    },
+    "publisher": {
+      "@type": "WebSite",
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | append: site.baseurl | jsonify }}
+    },
+    "image": {{ post_image_url | jsonify }}
+  }
+</script>
+
 {% assign manual_related = page.related_posts %}
 {% if manual_related and manual_related.size > 0 %}
   <div class="related">

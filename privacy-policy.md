@@ -5,6 +5,7 @@ date: '2022-10-30T17:29:26+00:00'
 author: librarian
 layout: page
 guid: 'https://lexlib.io/?page_id=3'
+description: Read the LexLib privacy policy, including what data may be collected and how it is used.
 ---
 
 Your privacy is critically important to us. At lexlbib.io, we have a few fundamental principles:

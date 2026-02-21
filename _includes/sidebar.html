@@ -11,19 +11,14 @@
 
     <nav class="sidebar-nav">
       {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. Pages with URLs /about/, /contact/, and
-        /privacy-policy/ are excluded from the navigation.
+        Keep primary navigation in a fixed order.
       {% endcomment %}
-    
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% unless node.url == "/about/" or node.url == "/contact/" or node.url == "/privacy-policy/" %}
-            {% if node.layout == "page" %}
-              <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url | relative_url }}">{{ node.title }}</a>
-            {% endif %}
-          {% endunless %}
+
+      {% assign nav_urls = "/episode-list/,/lex-fridmans-2023-reading-list/,/lex-fridmans-resources/,/donate/" | split: "," %}
+      {% for nav_url in nav_urls %}
+        {% assign nav_page = site.pages | where: "url", nav_url | first %}
+        {% if nav_page and nav_page.title %}
+          <a class="sidebar-nav-item{% if page.url == nav_page.url %} active{% endif %}" href="{{ nav_page.url | relative_url }}">{{ nav_page.title }}</a>
         {% endif %}
       {% endfor %}
     </nav>

@@ -6,6 +6,8 @@ author: librarian
 layout: page
 footnotes:
     - ''
+description: Browse and search the full Lex Fridman Podcast episode list with links to the books mentioned in each episode.
+item_list_schema: true
 ---
 
 <p>Browse the comprehensive episode list of the Lex Fridman Podcast. Search and sort from the first to the most recent conversations with ease.</p>
@@ -370,7 +372,7 @@ footnotes:
 			<td>29-Mar-24</td>
 		</tr>
 			<tr>
-			<td><a href="/421-dana-whiten/">#421</a></td>
+			<td><a href="/421-dana-white/">#421</a></td>
 			<td>Dana White</td>
 			<td>25-Mar-24</td>
 		</tr>

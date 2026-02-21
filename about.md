@@ -5,6 +5,7 @@ date: '2022-11-23T05:41:10+00:00'
 author: librarian
 layout: page
 guid: 'https://lexlib.io/?page_id=547'
+description: Learn what LexLib is, how it relates to the Lex Fridman Podcast, and how to submit additions or corrections.
 ---
 
 LexLib is an initiative to make a complete list of all books mentioned on the Lex Fridman Podcast.

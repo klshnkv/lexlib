@@ -15,5 +15,8 @@ excerpt_separator: <!--more-->
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-sitemap
     
 paginate:         10
+default_og_image: "/android-chrome-512x512.png"
+item_list_schema_limit: 100
